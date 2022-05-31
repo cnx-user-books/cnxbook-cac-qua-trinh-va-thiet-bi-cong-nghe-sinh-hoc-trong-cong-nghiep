@@ -1,0 +1,703 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị sấy</title>
+  <metadata>
+  <md:content-id>m30726</md:content-id><md:title>Thiết bị sấy</md:title>
+  <md:abstract>Quá trình tách ẩm của bán thành phẩm vi sinh tổng hợp là một trong những công đoạn cuối cùng trong sản xuất các chất hoạt hoá sinh học. Chất lỏng canh trường chứa nấm men, vitamin, axit amin, enzim... có độ ẩm 30  60% cần phải sấy. Trong các thiết bị sấy, chất lỏng canh trường bị khử nước đến 5  12%.</md:abstract>
+  <md:uuid>1741979b-984b-4fb7-9056-bd58c89ddd9d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4657128">Nội dung:</para>
+    <para id="id5659743">Sấy các sản phẩm thuộc lĩnh vực sản xuất bằng phương pháp vi sinh là quá trình phức tạp. Tất cả các sản phẩm thu nhận được từ tổng hợp vi sinh được chia ra làm hai nhóm chính:</para>
+    <para id="id5659754">- Các sản phẩm mà sau khi sấy không đòi hỏi bảo giữ khả năng sống của vi sinh vật hay không đòi hỏi độ hoạt hoá cao của các chế phẩm và các sản phẩm được sử dụng như nguồn các chất dinh dưỡng (nấm men gia súc, tảo, axit amin...).</para>
+    <para id="id5659768">- Các sản phẩm mà sau khi sấy cần bảo giữ khả năng sống hay bảo giữ hoạt hoá cao của các chế phẩm (men bánh mì, một số vi khuẩn và enzim, dược phẩm bảo vệ thực vật...).</para>
+    <para id="id5659780">Tất nhiên là đối với sản phẩm nhóm 1 có thể ứng dụng chế độ sấy cao hơn, trong đó đối với nhóm 2 đòi hỏi chế độ sấy thấp hơn và thời gian ngắn hơn.</para>
+    <para id="id5127684">Tối ưu hoá việc lựa chọn phương pháp sấy và các kết cấu của máy sấy có liên quan chặt chẽ với đặc tính của các sản phẩm đem sấy. Để tính toán quá trình sấy cần phải biết độ ẩm của sản phẩm ban đầu và cuối, cấu trúc ống dẫn, độ nhớt, sức bền bề mặt, hệ số nhiệt dung, độ dẫn nhiệt, độ đẫn nhiệt độ, độ bền nhiệt, thành phần hoá học...</para>
+    <para id="id5659784">PHÂN LOẠI CÁC MÁY SẤY</para>
+    <para id="id5127698">Vì sản phẩm đem sấy có rất nhiều loại, cho nên trong thực tế cũng được sử dụng nhiều loại máy sấy khác nhau. Có thể nêu tổng quát về sự phân loại như sau:</para>
+    <para id="id5127709">- Theo phương pháp nạp nhiệt, các máy sấy được chia ra loại đối lưu hay tiếp xúc.</para>
+    <para id="id5127717">- Theo dạng chất tải nhiệt: không khi, khí và hơi.</para>
+    <para id="id4661860">- Theo trị số áp suất trong phòng sấy: làm việc ở áp suất khí quyển hay chân không.</para>
+    <para id="id4661868">- Theo phương pháp tác động: tuần hoàn, liên tục.</para>
+    <para id="id4661874">- Theo hướng chuyển động của vật liệu và chất tải nhiệt trong các máy sấy đối lưu: cùng chiều, ngược chiều và với các dòng cắt nhau.</para>
+    <para id="id4661884">- Theo kết cấu: phòng, đường hầm, băng tải, sấy tầng sôi, sấy phun, thùng quay, tiếp xúc, thăng hoa, bức xạ nhiệt.</para>
+    <para id="id4661894">CÁC SẢN PHẨM TRONG SẢN XUẤT BẰNG PHƯƠNG PHÁP VI SINH LÀ NHỮNG ĐỐI TƯỢNG ĐỂ SẤY</para>
+    <para id="id4661902">Khi sấy, các chất hoạt hoá sinh học bị những biến đổi, gây ra tăng nồng độ một số hợp chất, bị ảnh hưởng nhiệt độ của tác nhân sấy, bị ảnh hưởng oxy không khí, chịu sự biến đổi của phản ứng môi trường... cuối cùng tạo nên những hợp chất mới, bị khử các chất hoạt hoá, bị phá huỷ khả năng sống của tế bào. Cho nên tất cả các yếu tố này cần phải đề cập đến khi chọn phương pháp sấy và chọn dạng thiết bị.</para>
+    <para id="id5127723">Như quá trình khử nước huyền phù, các nấm men gia súc có hàm lượng chất khô đến 20  25% được tiến hành trong các máy sấy trục, phun hay là trong các máy sấy tầng sôi. Quá trình sấy được tiến hành khi kiểm tra cẩn thận chế độ nhiệt độ để tránh biến tính protein.</para>
+    <para id="id4836270">Trong các máy sấy trục, giới hạn nhiệt độ của chất tải nhiệt 70  800C, trong các máy sấy phun 3000C, trong các máy sấy tầng sôi 3000C.</para>
+    <para id="id4550300">Tiến hành sấy các chất cô chứa axit amin, cũng như lizin, histidin, arginin, triptophan đến độ ẩm 8  10% trong các máy sấy phun kiểu băng tải và trong các máy sấy tầng sôi. Các axit amin rất nhạy khi tăng nhiệt độ sấy, có nghĩa là không bền nhiệt. Ví dụ như Lizin khi sấy cùng với men gia súc, cám gạo...khi tăng nhiệt độ cao hơn 60  700C bị tổn thất nhiều. Sự tồn tại axit amin, gluxit, sinh khối vi khuẩn và các cấu tử khác có ảnh hưởng tới sự giảm hiệu suất lizin khi sấy. Dưới tác động của nhiệt độ, Lizin cùng với các cấu tử trên có thể tạo ra những chất khác.</para>
+    <para id="id5715805">Tiến hành sấy các chế phẩm enzim có hàm lượng chất khô trong dung dịch cô ban đầu, hay trong phần chiết 15  20%, sấy các chủng bề mặt có độ ẩm đến 60% và các chất cô chứa enzim thu được bằng phương pháp hút, lọc, lắng, kết tinh... trong các máy sấy phun hay thăng hoa. Các chế phẩm sấy khô có độ ẩm không lớn hơn 5  12%. Vì đa số các chế phẩm enzim không bền nhiệt và có khả năng khử hoạt tính ở nhiệt độ cao hơn 30  400C. Cho nên việc khử nước các dung dịch và huyền phù chứa enzim được tiến hành trong các điều kiện sấy ở nhiệt độ thấp.</para>
+    <para id="id4840200">Các kháng sinh dùng cho chăn nuôi cũng rất nhạy với nhiệt độ sấy. Chúng được tiến hành sấy trong các máy sấy phun, sấy băng tải đến độ ẩm 8  10%. Tốt nhất là sấy tầng sôi. Nhiệt độ cao nhất của sản phẩm khi sấy không quá 600C. Tăng nhiệt độ sấy làm giảm đáng kể hoạt hoá của các chế phẩm, làm tăng tổn thất vitamin.</para>
+    <para id="id4840230">Quá trình sấy phân chứa vi khuẩn và các dược liệu bảo vệ thực vật (nitragin, vi khuẩn chứa niken, vi khuẩn chứa phospho ...) có đặc điểm là sau khi sấy cần phải bảo quản lượng tối đa các vi sinh vật có khả năng sống và hoạt hoá cao trong các chế phẩm.</para>
+    <para id="id4840234">Thực hiện sấy các chế phẩm này trong các máy sấy phun, sấy thăng hoa cho kết quả rất tốt. Trong các máy sấy phun, quá trình xảy ra ở nhiệt độ tác nhân sấy 1300C và nhiệt độ của sản phẩm sấy không lớn hơn 500C.</para>
+    <para id="id5452881">MÁY SẤY THEO PHƯƠNG PHÁP THĂNG HOA</para>
+    <para id="id5452886">Sấy thăng hoa là quá trình tách ẩm từ các sản phẩm bằng phương pháp lạnh đông và tiếp theo là chuyển đá làm lạnh đông được tạo thành trong sản phẩm thành hơi, qua pha loãng ngắn ngủi khi đun nóng sản phẩm trong chân không. Khi sấy thăng hoa, ẩm chuyển dời trong sản phẩm ở dạng hơi không kéo theo nó những chất trích ly và những vi sinh vật. Trong sản xuất vi sinh, sấy thăng hoa được ứng dụng cho các vi sinh vật, nấm men, vitamin, kháng sinh, các enzim không bền ở nhiệt độ cao.</para>
+    <para id="id5452891">Thường quá trình sấy thăng hoa được bắt đầu từ lúc làm lạnh đông bề mặt sản phẩm đến nhiệt độ  20,  300C. Tốc độ làm lạnh đông các vật liệu không bền nhiệt ảnh hưởng tới việc bảo quản hoạt động sống của vi sinh vật và độ hoạt hoá của các chế phẩm sinh học, vì khi làm lạnh nhanh các sản phẩm tạo nên đá ở bên trong tế bào, xảy ra biến đổi nhanh chóng thành phần các dung dịch sinh lý bên trong và bên ngoài tế bào và dẫn tới sự phá huỷ và làm chết tế bào.</para>
+    <para id="id5452895">Tất cả các vật liệu sinh học đem sấy thăng hoa có độ ẩm khác nhau, cho nên chúng có những điểm ba Ơtecti khác nhau, khi đó có thể có sự cân bằng đá, pha lỏng và pha hơi. Cho nên đối với các vật liệu vi sinh , tốc độ lạnh đông của chúng được xác định bằng thực nghiệm. Quá trình thăng hoa xảy ra ở những giá trị áp suất hơi trên bề mặt vật liệu và giá trị nhiệt độ trong các điểm nằm ở dưới điểm ba cân bằng pha của dung môi (nước).</para>
+    <para id="id4783590">Thường khi sấy thăng hoa các vật liệu vi sinh, áp suất dư = 133,3  13,3 Pa, và nhiệt độ của vật liệu bắt đầu sấy bằng  200C,  300C. Khi độ ẩm của sản phẩm bị giảm xuống tối thiểu, nhiệt độ của vật liệu tăng đến + 300C, + 400C. Điều kiện sấy như thế bảo đảm quá trình oxy hoá tối thiểu của sản phẩm do hàm lượng oxy không đáng kể trong môi trường khí của phòng sấy. Trong các máy sấy thăng hoa dạng công nghiệp, việc nạp nhiệt tới sản phẩm hoặc bằng độ dẫn nhiệt hoặc nhờ các tia hồng ngoại.</para>
+    <para id="id5760397">Các máy sấy thăng hoa có sự tác động tuần hoàn hay liên tục. Hình 13.1 chỉ sơ đồ nguyên tắc sấy thăng hoa tác động tuần hoàn.Thiết bị này gồm phòng sấy hình trụ kín (nồi thăng hoa) 1, ở trong có giàn ống rỗng 2, vật liệu sấy cho vào đây. Nồi thăng hoa làm việc một cách tuần hoàn như một phòng lạnh. Ở chế độ làm lạnh, bơm 5 đẩy tác nhân lạnh ở bên trong ống rỗng 2. </para>
+    <figure id="id4847408">
+      <media id="id5686832" alt=""><image src="../../media/graphics1-29c6.png" mime-type="image/png" height="415" width="590"/></media>
+    </figure>
+    <para id="id4847438">Sự làm lạnh của chất tải nhiệt được tiến hành trong bộ trao đổi nhiệt 3 có đính ruột xoắn, chất làm nguội đi qua đó và vào thiết bị làm lạnh 4. Khi nồi thăng hoa làm việc ở chế độ của máy sấy, chất tải nhiệt được đun nóng trong bộ trao đổi nhiệt 7 và đẩy vào các ống rỗng nhờ bơm 6.</para>
+    <para id="id4834655">Sự ngưng tụ hơi được tạo ra khi sấy trong nồi thăng hoa được tiến hành trong nồi ngưng tụ chống thăng hoa 10. Nó là một bộ trao đổi nhiệt, hỗn hợp hơi - không khí từ nồi thăng hoa vào không gian giữa các ống của bộ trao đổi nhiệt. Chất làm nguội (amoniac, freon) qua các ống 11 của nồi chống thăng hoa vào thiết bị làm lạnh 9. Thường để làm lạnh bề mặt thăng hoa và ngưng tụ, người ta sử dụng máy nén 2 hoặc 3 cấp có khả năng đảm bảo lạnh bề mặt đến nhiệt độ  600C,  400C.</para>
+    <para id="id4772211">Các khí chưa ngưng tụ được tách ra khỏi nồi chống thăng hoa bằng bơm chân không 8. Hơi ngưng tụ được làm lạnh ở dạng lớp đá trên bề mặt các ống lạnh của nồi chống thăng hoa. Vì trong quá trình làm việc của nồi chống thăng hoa, các ống 11 bị phủ bởi một lớp đá đáng kể, nên cần làm tan băng một cách chu kỳ. Để thực hiện điều đó, đẩy nước nóng từ bộ đun 7 vào các ống 11.</para>
+    <para id="id4772225">Hiện nay người ta bắt đầu sử dụng phổ biến các thiết bị thăng hoa tác động liên tục. Sấy thăng hoa liên tục gồm hai nồi thăng hoa và hai bộ chống thăng hoa, chúng làm việc luân phiên nhau.</para>
+    <para id="id4772238">Năng suất của thiết bị thăng hoa tác động liên tục tính theo độ ẩm bốc hơi lớn hơn 200 kg/h. Thời gian có mặt của sản phẩm trong máy sấy từ 40 đến 110 phút, nhiệt độ cao nhất của sản phẩm cuối quá trình sấy nhỏ hơn 270C.</para>
+    <para id="id5760130">MÁY SẤY PHUN</para>
+    <para id="id5760134">Sấy phun trong công nghiệp vi sinh được sử dụng để sấy khôcác chất cô của dung dịch canh trường các chất kháng sinh động vật, các axit amin, các enzym, các chất trích ly nấm thu nhận được trên các môi trường dinh dưỡng rắn, các dung dịch chất lắng thu nhận được khi làm lắng enzym bằng các dung môi vô cơ hay bằng các muối trung hoà, cũng như các phần cô chất lỏng canh trường.</para>
+    <para id="id5760153">Nồng độ chất khô trong dung dịch đem sấy lớn hơn 10%.</para>
+    <para id="id5760159">Các máy sấy phun được sử dụng trong các xí nghiệp vi sinh, cho phép tiến hành quá trình ở các chế độ tương đối mềm để loại trừ những tổn thất lớn các chất hoạt hoá sinh học.</para>
+    <para id="id5679611">Phun ly tâm cho khả năng phun đều sản phẩm chất lỏng và tăng cường quá trình bốc hơi.</para>
+    <para id="id5679619">Dung dịch đem sấy chảy qua đĩa có đầu phun với số vòng quay lớn, nhờ đó các tiểu phần chất lỏng biến thành những hạt rất nhỏ (sương mù) và bề mặt hoạt hoá của chất lỏng được tăng lên.</para>
+    <para id="id5679632">Phòng dùng để sấy được chế tạo bằng loại thép không gỉ. Chúng có thể có đáy phẳng hay đáy nón. Loại đáy phẳng phải có cơ cấu để tháo sản phẩm khô. Còn loại đáy hình nón thì thành phẩm ở dạng bột được đẩy ra dưới tác động của lực ly tâm.</para>
+    <para id="id5679646">Nhanh chóng trong quá trình sấy, nhiệt độ của vật liệu sấy thấp, sản phẩm nhận được ở dạng bột nhỏ không cần phải nghiền lại và có độ hoà tan lớn, đó là những ưu việc của máy sấy phun. Vì sấy quá nhanh, nhiệt độ của vật liệu trong suốt chu kỳ sấy không vượt quá nhiệt độ của ẩm bốc hơi (60  700C) và thấp hơn nhiều so với nhiệt độ của tác nhân sấy.</para>
+    <para id="id4665457">Nhược điểm của loại này là kích thước của phòng sấy tương đối lớn, do tốc độ chuyển động của các tác nhân sấy không lớn và sức căng nhỏ của phòng so ẩm bốc hơi (2  2,5 kg/m2h), cũng như sự phức tạp về cơ cấu phun, hệ thu hồi bụi và tháo dỡ sản phẩm.</para>
+    <para id="id5761699">Máy sấy phun có đáy phẳng. Máy sấy có phòng sấy 3, sản phẩm lỏng được phun trong phòng nhờ đĩa quay nhanh 6. Không khí nóng hay khí lò được đẩy vào phòng và sản phẩm chuyển động thành dòng song song với vật liệu.</para>
+    <para id="id5761726">Không khí</para>
+    <figure id="id5460168">
+      <media id="id5297747" alt=""><image src="../../media/graphics2-2a56.png" mime-type="image/png" height="608" width="493"/></media>
+    </figure>
+    <para id="id5460194">Các giọt chất lỏng khi rơi vào dòng không khí nóng, hay khi chúng bị chất tải nhiệt bao phủ lấy mọi hướng và trong một vài giây ẩm bốc hết và sản phẩm lắng xuống đáy phòng ở dạng bột. Sản phẩm được chuyển dịch nhờ cào 5 và ra khỏi máy sấy nhờ vít tải 4 hay nhờ cơ cấu vận chuyển khác. Tác nhân sấy bị hút liên tục nhờ quạt 1. Khi đi qua bộ lọc 2 để làm lắng, những tiểu phần nhỏ của sản phẩm bị dòng khí mang đi. Trong các máy sấy tương tự, các chất lỏng có thể phân tán bằng các đĩa phun, vòi cơ học, vòi khí động học.</para>
+    <para id="id5460199">Các máy sấy phun làm việc có đường kính từ 500 đến 15000 mm, năng suất bốc hơi ẩm từ 500 đến 15000 kg/h.</para>
+    <para id="id5809863">Trong các gian phòng có chiều cao giới hạn, thường người ta thiết kế các máy sấy có đáy phẳng để bố trí gọn, dễ làm sạch. Khi cần thiết để nhận các sản phẩm vô trùng, người ta sử dụng các phòng sấy có đáy hình nón, vì chúng có ít khe hở hơn, không khí nhiễm bẩn có thể qua các lỗ này.</para>
+    <para id="id5809877">Các máy sấy phun có đáy hình nón. Thiết bị có năng suất ẩm bốc hơi 1500  3500 kg/h. Máy sấy gồm: Vỏ trụ 9 có đáy hình nón để tháo bột khô. Dung dịch đẩy vào sấy bị phun ra nhờ cơ cấu ly tâm 13 có đĩa 10. Tác nhân sấy đưa vào phần trên của thiết </para>
+    <figure id="id4771790">
+      <media id="id5297847" alt=""><image src="../../media/graphics3-9b0f.png" mime-type="image/png" height="584" width="481"/></media>
+    </figure>
+    <para id="id5718278">bị theo ống dẫn 7. Ở cuối ống dẫn 7 lắp cơ cấu phun hình nón 8. Nhờ cơ cấu 8, tạo ra dòng xoáy của khí đưa vào. Các giọt sản phẩm được phun bằng đĩa bị bao phủ bởi dòng không khí và chuyển xuống dưới.</para>
+    <para id="id5718291">Ẩm được bốc hơi, các phần tử bột nhỏ còn lại lắng xuống ở đáy hình nón và tháo đến cơ cấu 1 để chuyển sản phẩm vào hệ băng tải khí động học. Để tẩy sạch các tiểu phần của sản phẩm bám trên tường, lắp máy rung 17. Tác nhân sấy bị thải có mang theo các tiểu phần nhỏ của sản phẩm ra khỏi thiết bị sấy qua ống dẫn 2 vào xyclon để tách bột. Để khảo sát bên trong, có xe nâng 4, nguồn chiếu sáng 6 và cửa 5. Tấm ngăn máy sấy 11 có các van bảo hiểm ở dạng các đĩa chồng nhau và dạng đường ống 12 để xả khí sấy khi tăng áp suất đáng kể.</para>
+    <para id="id5718315">Đĩa phun 10 quay với tốc độ 10000 vòng/phút từ động cơ qua hộp giảm tốc. Để bôi trơn cơ cấu phun, ở phần trên của thiết bị có lắp cơ cấu cơ học và bộ lọc mỡ 14. Vô lăng điện 15 dùng để nâng cơ cấu phun. </para>
+    <para id="id5718324">Để tránh cháy sản phẩm trong máy sấy, người ta đặt các cơ cấu bảo hiểm 3 và 18.</para>
+    <para id="id4846542">Máy sấy có thể đặt trong phòng kín hay ngoài trời.</para>
+    <para id="id4846549">Hình 13.4 chỉ hệ thống sấy phun tổ hợp. </para>
+    <para id="id4846555">Bộ sấy gồm thùng chứa dung dịch chất lỏng canh trường 2, các bơm ly tâm 3 và 9, thiết bị lọc khí 1, phòng sấy 4, cơ cấu tháo dỡ để đẩy bột khô vào băng tải khí động 10, các bộ lọc vi khuẩn 7, quạt hai chiều 6, calorife 8, thùng chứa sản phẩm khô 12, các bộ lắng bằng xyclon 11, bộ tháo dỡ xyclon 13, bộ lọc không khí 5 để đẩy vào calorife 8.</para>
+    <figure id="id4661691">
+      <media id="id4328954" alt=""><image src="../../media/graphics4-d963.png" mime-type="image/png" height="425" width="553"/></media>
+    </figure>
+    <para id="id5457014">Đối với dạng máy sấy này, nhiệt độ tác nhân sấy khi vào máy được điều chỉnh trong giới hạn 135  3900C, khi ra 60  1000C. Độ ẩm ban đầu của huyền phù 60  100%. Năng suất tính theo ẩm bốc hơi 500  1000 kg/h.</para>
+    <para id="id5627085">Đặc tính kỹ thuật của các loại máy sấy phun trong hình 13.4 ứng dụng trong công nghiệp vi sinh được giới thiệu ở bảng 13.1.</para>
+    <para id="id5627092">Bảng 13.1. Đặc tính kỹ thuật của các loại máy sấy trong hình 13.4</para>
+    <table id="id5627099" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <tbody>
+          <row>
+            <entry>Nhãn hiệu</entry>
+            <entry>Đường kính bên trong, mm</entry>
+            <entry>Chiều cao phần xilanh, mm</entry>
+            <entry>Thể tích hoạt động,m3</entry>
+            <entry>Năng suất tính theo ẩm bốc hơi, kg/h</entry>
+            <entrytbl namest="c6" nameend="c8" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c3">Khối lượng , kg</entry>
+                </row>
+                <row>
+                  <entry>HK</entry>
+                  <entry>BK</entry>
+                  <entry>Đ</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>Ð -1,2/09Ð - 4/50Ð -5/120Ð - 6,5/200Ð - 8/350Ð -10/550Ð -12,5/1100Ð -12,5/1500</entry>
+            <entry>12004000500065008000100001250012500</entry>
+            <entry>80040006000600070007000900012000</entry>
+            <entry>0,95012020035055011001500</entry>
+            <entry>1050012002000350055001100015000</entry>
+            <entry>-13700245002900040000620007000080000</entry>
+            <entry>700-------</entry>
+            <entry>-13000225002750037500610006700077000</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5655184">MÁY SẤY PHUN KIỂU TRỤC QUAY</para>
+    <para id="id5655190">Máy sấy kiểu trục quay được ứng dụng để sấy nguyên liệu dạng lỏng, dạng bột nhão (bột nhão rong biển, nấm men, kháng sinh, vitamin...) ở áp suất khí quyển hay trong chân không.</para>
+    <para id="id5655202">Độ kín của buồng sấy có ý nghĩa quan trọng khi sấy trong các máy sấy kiểu trục quay vì ngăn ngừa được sự nhiễm bẩn của sẩn phẩm.</para>
+    <para id="id5809372">Việc ứng dụng máy sấy kiểu thùng quay trong công nghiệp vi sinh rất tiện lợi, nhất là trong các xí nghiệp có năng suất nhỏ. Nhược điểm của loại này là nhiệt độ của trục quá cao (140  1500C) ở cuối quá trình sấy làm cho protein và axit amin bị khử hoạt tính (đến 15%). Thiết bị sấy một trục ở áp suất khí quyển (hình 13.5) có tang quay 2 với bộ dẫn động 3. Hơi được nạp vào bên trong tang quay. Một phần tang quay nằm trong thùng 7, dung dịch được cho vào đây qua ống nối 5. Bộ khuấy trộn 6 làm chuyển đảo dung dịch trong thùng và tráng lên tang quay một lớp có bề dày 0,1  1,0 mm. Khi tang quay một vòng thì lớp sản phẩm sẽ kịp khô và bóc khỏi bề mặt tang nhờ các dao cạo 4. Vít 8 tải sản phẩm khô ra khỏi máy. Hơi có áp suất đến 0,5 MPa được đưa vào qua cổ trục của tang quay, nước ngưng cũng được tháo ra qua chính cổ trục đó theo ống xifông 1.</para>
+    <para id="id5495636">Số vòng quay của trục được điều chỉnh theo chế độ của động cơ có bốn tốc đô.</para>
+    <para id="id5495644">Đường kính của tang quay thường được sản xuất theo các cỡ 600, 800, 1000, 2000 mm. Nghiêm cấm sấy trong thiết bị này những vật liệu dễ nổ và bốc ra những loại hơi độc!</para>
+    <para id="id5495661">Trong hình 13.5. là máy sấy một trục ở áp suất thường.</para>
+    <para id="id5495668">Năng suất của máy sấy tính theo ẩm bốc hơi phụ thuộc vào dạng sản phẩm sấy khoảng 10  50 kg/(m2h).</para>
+    <figure id="id4097452">
+      <media id="id5273129" alt=""><image src="../../media/graphics5-e870.png" mime-type="image/png" height="515" width="505"/></media>
+    </figure>
+    <para id="id5452309">Máy sấy hai trục có áp suất thường (hình 13.6) gồm hai tang quay 2 với bề mặt được mài nhẵn, quay ngược chiều nhau với vòng quay 2  10 vòng/phút trong vỏ khép kín 1. Một trong các tang quay được lắp trong các ổ cố định, điều đó cho phép điều chỉnh khe hở giữa các trục (tang quay) trong giới hạn đến 1  2 mm.Trên các trục có các cơ cấu phun và ô 5 để dùng quạt đẩy hơi được tách ra trong quá trình sấy. Quá trình sấy và tháo sản phẩm sấy cũng được thực hiện như loại máy sấy một trục. Bộ dẫn động các trục 10 gồm động cơ, hộp giảm tốc và truyền động bánh răng. Sản phẩm được tách ra khỏi trục thường phải được sấy lại trong các máy sấy dạng vít tải 6 và 7, có áo ngoài và bộ khuấy trộn. Bộ dẫn động 9 làm cho vít tải quay. Sản phẩm khô được tháo ra qua khớp nối 8. Nước ngưng từ tang quay được tháo ra qua ống xifông 3, còn từ bộ đun nóng qua cổ trục rỗng của vít và ống xifông. Dùng dao 4 để tách sản phẩm ra khỏi bề mặt trục.</para>
+    <para id="id5452337">Để máy sấy hoạt động bình thường điều cần thiết là bề mặt trục phải nhẵn, các trục quay tự do, các ổ di động dễ dàng chuyển dịch nhờ các vít đặc biệt và không xuất hiện khe hở giữa trục và dao.</para>
+    <para id="id5680330">Lượng bốc hơi từ 1 m2 diện tích bề mặt đun nóng trong một đơn vị thời gian nhỏ hơn ở máy một trục. Máy sấy hai trục được sản xuất có đường kính các trục (tang quay) 600, 800, 1000 mm.</para>
+    <figure id="id4856624">
+      <media id="id5273215" alt=""><image src="../../media/graphics6-6c31.png" mime-type="image/png" height="331" width="567"/></media>
+    </figure>
+    <para id="id5761980">Máy sấy một trục và hai trục ở áp suất chân không có vỏ kín và được lắp các thiết bị phụ để tạo và giữ trong thiết bị độ chân không (phân ly, bộ ngưng tụ, bơm chân không). Để đun nóng các trục, ngoài hơi ra còn sử dụng nước nóng hay các chất tải nhiệt hữu cơ có nhiệt độ sôi cao.</para>
+    <para id="id5761994">Ưu điểm của các máy sấy trục là sấy liên tục với bề mặt bốc hơi tương đối lớn đến 70 kg/(m2h), hiệu quả kinh tế cao do mất mát nhiệt ít.</para>
+    <para id="id5762021">Nhược điểm là độ ẩm sản phẩm tương đối cao, khả năng quá nhiệt của sản phẩm khi sấy dễ xảy ra.</para>
+    <para id="id5760542">Bảng 13.2. Đặc điểm kỹ thuật của các máy sấy trục</para>
+    <table id="id5760549" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Các chỉ số</entry>
+            <entry>COA- 600-1400 </entry>
+            <entry>ÔÍ - 800/2000 </entry>
+          </row>
+          <row>
+            <entry>Kích thước các trục, mmđường kínhchiều dàiBề mặt hoạt động của trục, m2Số vòng quay của trục, vòng/phCông suất động cơ bộ dẫn động, kWCông suất động cơ của máy nghiền, kWAp suất hơi trong các trục, MPaTiêu hao hơi cho 1 kg ẩm bốc hơi, kgKích thước cơ bản, mmKhối lượng, kg</entry>
+            <entry>60014002,63,1  9,51,6; 3,2; 5,01,74,415  33380172510902178</entry>
+            <entry>80020004,81,3; 4,2; 6,4; 8,57,9; 12,5 ; 13,5; 17,51,74,425015249019507332</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4780633">Ghi chú: Ký hiệu máy sấy: O- Máy sấy một trục, Ô- Máy sấy hai trục, A- Ap suất thường, số đầu là đường kính của trục (mm), số thứ hai- Chiều dài trục (mm), - Phần trục chìm trong bể.</para>
+    <para id="id4780658">THIẾT BỊ SẤY KIỂU TẠO XOÁY</para>
+    <para id="id4780664">Thiết bị sấy tạo xoáy có năng suất cao đã được sử dụng rộng rãi trong sản xuất các chế phẩm enzim. Trong thiết bị sấy tạo xoáy có kết hợp các quá trình sấy và nghiền sản phẩm.</para>
+    <para id="id5459132">Thiết bị (hình 13.7) gồm máy sấy theo phương pháp tầng sôi 5 có kết cấu phức tạp, các bộ lọc thô và lọc tinh không khí 1 và 2, bộ lọc khí thải 9, calorife 4 và <figure id="id5459143"><media id="id5297564" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="18" width="18"/></media></figure>, các quạt 3 và 10, guồng tải 11 để vận chuyển các hạt dạng bụi từ các phễu của bộ lọc túi 8, xyclon 7 và đầu xoay 6.</para>
+    <figure id="id5655604">
+      <media id="id5297598" alt=""><image src="../../media/graphics8-c1ac.png" mime-type="image/png" height="355" width="497"/></media>
+    </figure>
+    <para id="id4655163">Máy sấy tầng sôi 5 có máy nghiền ở trong phòng xoáy với đường kính 1500 và bề rộng 320 mm. Nghiền chủng nấm mốc và sấy được tiến hành song song với hai mức, nhờ đó mà lượng ẩm bốc hơi lớn 320 kg ẩm/ h, mặc dù kích thước của máy sấy không lớn lắm, độ hoạt hoá của enzim được bảo toàn tương đối.</para>
+    <para id="id4655177">Các chi tiết của thiết bị có tiếp xúc với vật liệu đều được chế tạo bằng loại thép không gỉ.</para>
+    <para id="id4655186">Vít nạp liệu chuyển canh trường nấm mốc vào bộ phận phun của máy sấy 5 và được dòng không khí từ calorife vào bao phủ lấy. Chất tải nhiệt theo rãnh vào khu vực nghiền, bao phủ lấy hạt của sản phẩm và chuyển vào phần khác của máy sấy. Cho nên sấy canh trường nấm mốc ở mức một xảy ra đồng thời ở khu vực nghiền thứ nhất. Chất tải nhiệt lần hai từ calorife 4 theo rãnh thứ hai vào phần dưới của phòng xoáy. Tốc độ không khí từ calorife 4’ vào được điều chỉnh nhờ năm tấm xoay lắp ở phần dưới của buồng sấy. Sản phẩm khô được tháo ra ngoài theo đường ống đứng qua đầu xoay 6 vào tầng xyclon 7.</para>
+    <para id="id4655190">Không khí nạp vào để sấy canh trường nấm mốc phải được vô trùng trong các bộ lọc thô 1 và lọc tinh 2, và được đun nóng trong calorife 4 đến 140 0C (trong dòng đầu) và trong calorife 4’ đến 1000C (trong dòng thứ hai).</para>
+    <para id="id5809246">Không khí thải khi qua xyclon 7 vào hệ lọc túi 8 có diện tích bề mặt 50 m2 trong khoang 4 lô. Trong mỗi lô có 14 túi vải. Các lưới ở phần dưới khoang lọc được dùng để phân bổ đều không khí vào các túi lọc. Nhờ cơ cấu đặc biệt làm rung gián đoạn theo thứ tự các lô của túi lọc, và sản phẩm dạng bụi từ phễu lọc vào guồng tải 11 rồi kết hợp với dòng sản phẩm chính.</para>
+    <para id="id5809250">Tháo sản phẩm qua cửa âu. Không khí thải qua bộ lọc không khí 9 và 10 để đẩy ra ngoài.</para>
+    <para id="id4771534">Máy sấy được trang bị các dụng cụ kiểm tra tự động và điều chỉnh các thông số của quá trình.</para>
+    <para id="id4771542">Đặc tính kỹ thuật của máy sấy tạo xoáy:</para>
+    <para id="id4771547">Năng suất, kg/h:</para>
+    <para id="id4771551">theo sản phẩm ban đầu:  660</para>
+    <para id="id4943831">theo ẩm bốc hơi: 330</para>
+    <para id="id4943848">Độ ẩm của sản phẩm, %:</para>
+    <para id="id4943852">ban đầu:  đến 60</para>
+    <para id="id4943872">cuối:   10  12</para>
+    <para id="id4782206">Nhiệt độ cho phép để đun nóng canh trường nấm mốc, 0C: 35</para>
+    <para id="id4782224">Đường kính buồng xoáy, mm: 1500</para>
+    <para id="id4854342">Công suất động cơ, kW:22</para>
+    <para id="id4854354">Các calorife:</para>
+    <para id="id4854359">dạng: ÍÂ-6</para>
+    <para id="id4854380">diện tích bề mặt đun nóng, m2: 32,4</para>
+    <para id="id4945511">tiêu hao hơi lớn nhất trong điều kiện mùa đông, kg/h:  1090</para>
+    <para id="id4945530">Ap suất hơi, MPa: 0,6</para>
+    <para id="id4945547">Các quạt:</para>
+    <para id="id5656876">loại: ĐĐÔ- 9</para>
+    <para id="id5656897">số lượng: 4 </para>
+    <para id="id5656918">Tổng công suất động cơ, kW: 117 </para>
+    <para id="id4833429">MÁY SẤY KIỂU BĂNG TẢI DÙNG HƠI DẠNG KCK</para>
+    <para id="id4833435">Loại máy này dùng để sấy các chủng siêu nấm, kháng sinh dùng cho chăn nuôi và các sản phẩm tổng hợp từ vi sinh vật. Máy sấy KCK có năng suất lớn và dễ dàng trong thao tác. Có thể ứng dụng nó để sấy các chế phẩm vi sinh khác nhau với điều kiện kín hoàn toàn và vô trùng không khí thải.</para>
+    <para id="id4833450">Hình 13.8.Máy sấy dạng 4Ê-KCKMáy sấy (hình 13.8) là tủ kim loại kín 8, bên trong có từ 4 đến 5 nhánh băng tải 3. Các băng chuyền được sản xuất bằng lưới thép không gỉ với kích thước lỗ 20  1,5 mm, và mỗi băng được căng ra trên các tang truyền chủ động 7 và tang bị động 5. Các băng tải có bề rộng khác nhau phụ thuộc vào năng suất của máy sấy. Mỗi băng có thể có bộ dẫn động độc lập với hộp giảm tốc, hoặc có thể có bộ dẫn động chung cho phép thay đổi tốc độ của các băng tải từ 1,14 đến 1,0 m/phút. Không khí để sấy cho vào dưới nhánh thứ hai của băng tải và đựơc đun nóng nhờ các calorife hơi 4 lắp giữa các băng lưới của </para>
+    <figure id="id5496180">
+      <media id="id4860789" alt=""><image src="../../media/graphics9.png" mime-type="image/png" height="279" width="457"/></media>
+    </figure>
+    <para id="id4771221">mỗi nhánh. Không khí xuyên qua tất cả các băng lưới và sản phẩm nằm trên đó. Không khí được bão hoà ẩm và sau khi làm vô trùng thì được quạt 2 thổi ra ngoài.</para>
+    <para id="id4771248">Sản phẩm trước khi sấy cần tán nhỏ sơ bộ và băng tải 1 chuyền đến nhánh trên của băng chuyền máy sấy. Sản phẩm cùng với băng chuyền đến đầu cuối cùng rồi đổ xuống băng dưới.</para>
+    <para id="id4771262">Khi sấy các chủng nấm, nhiệt độ không khí ở vùng dưới bằng 400C, vùng giữa - 520C và vùng trên 65  700C. Cần đặt máy sấy trong phòng biệt lập, thông thoáng.</para>
+    <para id="id5661249">Năng suất tính theo sản phẩm thô 4 tấn/ngày.</para>
+    <para id="id5661255">Trong các máy sấy KCK bề mặt sử dụng của băng chỉ khoảng một nửa vì các nhánh dưới của băng tải chạy không tải. Để khắc phục nhược điểm này có thể sản xuất những</para>
+    <para id="id5661267">máy sấy có nhiều băng tải, vật liệu nằm trên nhánh trên và nhánh dưới của băng khi chuyển động xuôi và ngược.</para>
+    <para id="id6013946">MÁY SẤY DẠNG BĂNG TẢI</para>
+    <para id="id5661272">Để sấy các chủng siêu nấm thường dùng loại này.Tổ hợp máy gồm bộ tán thô 5, băng tải tiếp liệu 1, máy sấy băng tải 2 và hệ chuẩn bị không khí gồm: các bộ lọc 4 và 6, calorife 3, các bộ nạp và phân bổ không khí, bộ rung 7.</para>
+    <para id="id6013956">Máy sấy 2 là tủ kim loại bên trong có 5 bậc băng tải lưới được căng trên các tang. Mỗi bộ chuyển tải gồm có các băng tải được căng trên hai tang trong đó có tang chủ động. Các tang chuyển động đựơc nhờ động cơ chung qua hộp giảm tốc.</para>
+    <para id="id6013970">Trong hình 13.9 là máy sấy dạng băng tải.</para>
+    <para id="id6013976">Quá trình sấy được thực hiện trong ba vùng. Không khí được đưa vào mỗi vùng đều có nhiệt độ thích hợp. Bậc trên cùng là vùng thứ nhất, ba bậc tiếp theo là vùng thứ hai và bậc cuối cùng là vùng thứ ba.</para>
+    <para id="id6013989">Canh trường nuôi cấy nấm mốc có độ ẩm đến 55% được đưa vào máy tán 5. Khi chuyển dời trong khuôn kéo (được lồng vào trong mặt mút của máy tạo hạt), canh trường bị ép ra qua các lỗ có đường kính 4 mm, rồi bị dao cắt ra thành từng mãnh có hình xilanh với chiều dài 4 mm, và rải đều thành lớp qua băng chuyền nạp liệu dạng rung 1 đến nhánh trên của máy sấy 2.</para>
+    <para id="id4837495">Không khí đưa được nạp vào phía dưới lưới của vùng thứ nhất có nhiệt độ 650C và vào thời gian chuyển dịch theo băng đầu tiên, canh trường được sấy đến độ ẩm 35%. Khi chuyển dời theo các băng của vùng thứ hai. Không khí ở vùng thứ hai có nhiệt độ 450C, canh trường được sấy đến độ ẩm 10 12%.</para>
+    <para id="id4837529">Ở vùng thứ ba canh trường được làm lạnh (nhờ không khí có nhiệt độ 160C) đến 250C và chuyển ra ngoài. Không khí vào và ra khỏi máy sấy đều được lọc qua các bộ lọc bằng dầu và kim loại. Máy sấy được trang bị các dụng cụ kiểm tra nhiệt độ không khí và canh trường, hệ điều chỉnh tự động và ghi nhiệt độ trong quá trình sấy.</para>
+    <para id="id4856558">
+      <figure id="id4856561">
+        <media id="id5199918" alt=""><image src="../../media/graphics10.png" mime-type="image/png" height="388" width="531"/></media>
+      </figure>
+    </para>
+    <para id="id4663677">Đặc điểm kỹ thuật của máy sấy bằng băng tải:</para>
+    <para id="id4782390">Năng suất tính theo canh trường nấm mốc khô có độ ẩm 10%, tấn/ngày: 3,5</para>
+    <para id="id4782397">Số lượng băng tải lưới: 5</para>
+    <para id="id4782415">Diện tích băng tải, m2: 30</para>
+    <para id="id4782547">Bề rộng lưới băng tải, mm: 1250</para>
+    <para id="id4782563">Tốc độ điều chỉnh chuyển động băng tải, m/phút: 0,04  5,7</para>
+    <para id="id4782579">Đường kính các tang của băng tải, mm: 244</para>
+    <para id="id4782594">Thời gian sấy và làm lạnh, phút: 40  60</para>
+    <para id="id4853185">Nhiệt độ cao nhất để đun nóng canh trường trong qúa trinh sấy, 0C: 57</para>
+    <para id="id4853203">Công suất động cơ, kW: 29</para>
+    <para id="id4853220">Kích thước cơ bản, mm:</para>
+    <para id="id4853225">của máy sấy: 556028002790</para>
+    <para id="id4949272">của tổ hợp thiết bị: 2440050003950</para>
+    <para id="id5456642">Khối lượng, kg: 11600</para>
+    <para id="id5456661">Tiêu hao đơn vị cho 1 tấn canh trường khô:</para>
+    <para id="id5456667">đối với không khí, m3: 17800</para>
+    <para id="id4941513">đối với hơi (ở áp suất 392 kPa), kg: 6000</para>
+    <para id="id4941532">đối với năng lượng điện, kWh: 200</para>
+    <para id="id4941555">TÍNH TOÁN THIẾT BỊ SẤY</para>
+    <para id="id4941560">Các thiết bị sấy được ứng dụng trong công nghiệp vi sinh gồm ba phần cơ bản: máy sấy, calorife và thiết bị thông gió. Máy sấy được tính toán theo lượng sản phẩm khô và theo các thông số được chọn lựa của quá trình.</para>
+    <para id="id4785169">Để chọn kết cấu và các bộ phận của của máy sấy người ta cần phải biết năng suất của nó, loại tác nhân sấy, phương pháp đun nóng và phương pháp nạp tới vật liệu sấy, phương pháp luân chuyển tác nhân sấy (tự nhiên hay cuỡng bức), phương pháp nạp và tải liệu. Để tính toán các thông số của quá trình sấy cần phải biết độ ẩm ban đầu và nhiệt độ cho phép cao nhất của sản phẩm, nhiệt dung chất khô của sản phẩm, kích thước và khối lượng sản phẩm, các thông số của không khí xung quanh và không khí thải, nhiệt độ cho phép cao nhất của tác nhân sấy, tốc độ tác nhân sấy và thời gian sấy sản phẩm.</para>
+    <para id="id4785194">Tính toán thiết bị sấy được tiến hành theo thứ tự sau:</para>
+    <para id="id4785200">1. Chọn loại thiết bị sấy.</para>
+    <para id="id4641671">2. Tính buồng sấy: Xác định kích thước buồng, xuất phát từ năng suất của thiết bị để nhận cấu trúc, cân bằng vật liệu, cân bằng nhiệt; tính tiêu hao không khí và tiêu hao nhiệt để đun nóng; tiêu hao đơn vị của nhiệt cho bốc ẩm 1 kg.</para>
+    <para id="id4641686">3. Tính thiết bị đun nóng (ví dụ, calorife): Chọn kết cấu của calorife và tác nhân nhiệt, tính sai khác trung bình của nhiệt độ, hệ số truyền nhiệt, bề mặt trao đổi nhiệt của calorife, chọn calorife.</para>
+    <para id="id4641698">4. Tính thiết bị thông gió: Chọn sơ đồ nạp và thải không khí, tính sức cản theo tuyến chuyển động của không khí và trong thiết bị sấy, chọn quạt gió và tính công suất của động cơ.</para>
+    <para id="id4641711">Chọn loại thiết bị để sấy các sản phẩm thu được từ phương pháp tổng hợp sinh học. Sấy huyền phù khối vi sinh và các dung dịch các chất hoạt hoá sinh học là quá trình công nghệ phức tạp. Cho nên khi chọn phương pháp sấy các chất này cần chú ý đến chất lượng sản phẩm sấy trong các loại thiết bị sấy khác nhau.</para>
+    <para id="id4785206">Để chọn loại máy sấy cần tiến hành phân tích các chỉ số kinh tế - kỹ thuật của quá trình đối với mỗi một sản phẩm cụ thể. Chúng ta đưa ra các chỉ số kinh tế - kỹ thuật của các phương pháp sấy nấm men gia súc và lizin (bảng 13.3 và 13.4).</para>
+    <para id="id4944392">Khi chọn loại thiết bị và chế độ sấy tốt nhất phải khảo sát ba nhóm chỉ số - công nghệ, kỹ thuật nhiệt và hiệu quả kinh tế.</para>
+    <para id="id4944402">Nhóm thứ nhất bao gồm: năng suất thiết bị, những đặc điểm về cấu tạo máy sấy, chế độ công nghệ, kích thước cơ bản của thiết bị, khả năng cơ khí hoá và tự động hoá quá trình nạp liệu và tháo sản phẩm, làm sạch không khí và các chỉ số khác. Nhóm thứ hai bao gồm năng suất của thiết bị sấy, tiêu hao nhiệt cho một đơn vị ẩm bốc hơi, những tổn thất nhiệt của thiết bị, khả năng sử dụng nhiệt của khí thải...Nhóm thứ ba có liên quan đến sự phác thảo ra những chế độ sấy mới do thiết kế, lắp ráp máy sấy, những vấn đề liên quan đến chi phí vận hành, chi trả lương.</para>
+    <para id="id4944406">Cần chú ý đặc biệt tới chất lượng sản phẩm, những tổn thất xuất hiện trong sản xuất các sản phẩm đắt tiền, chú ý đến hiệu quả làm sạch khí thải chứa khí độc...Ngoài ra cũng cần chú ý các chỉ số của thiết bị phụ (hệ làm sạch, quạt gió, hệ đun nóng không khí...).</para>
+    <para id="id4944421">Bảng 13.3. Các chỉ số sấy nấm men gia súc với các phương pháp khác nhau</para>
+    <table id="id5681965" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>Loại thiết bị</entry>
+            <entry>Năng suất tính theo ẩm bốc hơi, kg/h</entry>
+            <entry>Tiêu hao nhiệt cho 1 tấn ẩm bốc hơi, kg</entry>
+            <entry>Năng suất đơn vị tính theo ẩm bốc hơi</entry>
+            <entry>Tiêu hao kim loại cho máy</entry>
+          </row>
+          <row>
+            <entry>Máy sấy kiểu trụcMáy sấy phunMáy sấy tầng sôi</entry>
+            <entry>100010001000</entry>
+            <entry>180200200</entry>
+            <entry>30(1)8(2)250  280(2)</entry>
+            <entry>20353</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5760922">Ghi chú: (1) Đơn vị thứ nguyên kg/(m2h). </para>
+    <para id="id5760956">(2) Đơn vị thứ nguyên kg/ (m2h).</para>
+    <para id="id4838606">Tiếp theo bảng 13.3</para>
+    <table id="id4838611" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Loại máy sấy</entry>
+            <entry>Công suất động cơ, kW</entry>
+            <entry>Tiêu hao đơn vị, kJ/ kg</entry>
+            <entry>Nhiệt độ chất tải nhiệt khi ra khỏi máy, K</entry>
+          </row>
+          <row>
+            <entry>Máy sấy kiểu trụcMáy sấy phunMáy sấy tầng sôi</entry>
+            <entry>204740</entry>
+            <entry>5443  58624815 (khí lò)6029 (không khí đun nóng)5652 (không khí đun nóng) </entry>
+            <entry>343,15  353,15573,15573,15</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4850582">Bảng 13.4. Các chỉ số sấy chất cô chứa lizin dùng cho gia súc với các phương pháp khác nhau</para>
+    <table id="id4850592" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry>Các phương pháp sấy</entry>
+            <entry>Tải trọng đơn vị (theo vật liệu ẩm), kg/ m2</entry>
+            <entry>Tốc độcủa chất tải nhiệt, m/ s</entry>
+            <entry>Năng suất đơn vị tính theo ẩm bốc hơi,kg/ (m2.h)</entry>
+            <entrytbl namest="c5" nameend="c6" cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Nhiệt độ của chất tải nhiệt, K</entry>
+                </row>
+                <row>
+                  <entry>Khi vào</entry>
+                  <entry>Khi ra</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>Máy sấy dạng băng tảiMáy sấy tầng sôi dạng rungMáy sấy tầng sôiMáy sấy phun</entry>
+            <entry>254040-</entry>
+            <entry>1,23532</entry>
+            <entry>1550651 34  9 kg/(m2.h)</entry>
+            <entry>340388,15389</entry>
+            <entry>310363373</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5680044">Xác định kích thước cơ bản của buồng sấy. Các kích thước cơ bản của buồng sấy xuất phát từ năng suất và thời gian.</para>
+    <para id="id5680058">Máy sấy thùng quay. Khi tính toán máy sấy loại thùng quay cần xác định sức chứa của thùng, đường kính, chiều dài, số vòng quay trong 1 phút và công suất tiêu thụ.</para>
+    <para id="id5680073">Sức chứa của thùng (m3): <figure id="id5653379"><media id="id5264823" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="43" width="58"/></media></figure></para>
+    <para id="id5653403">trong đó: W - lượng ẩm bốc hơi, kg/h;</para>
+    <para id="id5653414"> A - ứng suất của ẩm bốc hơi, kg/ (m2h).</para>
+    <para id="id4779735">Đại lượng A phụ thuộc vào dạng sản phẩm, vào nhiệt độ của tác nhân sấy t1 và kết cấu của máy sấy. Có thể sử dụng các trị số của A sau đây:</para>
+    <para id="id4779761">Nhiệt độ của tác nhân sấy t1, 0C: 130  150 ; 300  400 ; 500  700</para>
+    <para id="id4833034">Ứng suất của ẩm bốc hơi A, kg/(m3h): 2  4 ; 6 12 ; 15  25</para>
+    <para id="id4660193">Ứng suất của thùng quay theo ẩm có thể lớn hơn, ví dụ đối với bã củ cải, khi t1 = 7500C thì A = 185 kg/(m3h); bã ngô sau khi trích ly khi t1 = 300 0C thì A= 40  50 kg/(m3h).</para>
+    <para id="id4779470">Thời gian có mặt của sản phẩm trong thùng quay (s):</para>
+    <figure id="id4779479">
+      <media id="id5673301" alt=""><image src="graphics12.wmf" mime-type="image/wmf" height="44" width="71"/></media>
+    </figure>
+    <para id="id4947129">trong đó:  - khối lượng xếp đầy của sản phẩm, kg/m3;</para>
+    <para id="id4947146"> - hệ số chứa đầy thùng quay; G - khối lượng của sản phẩm nạp vào thùng quay, kg/s.</para>
+    <para id="id5660893">Số vòng quay của thùng, vòng/s:</para>
+    <figure id="id5660902">
+      <media id="id5673368" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="46" width="86"/></media>
+    </figure>
+    <para id="id5660926">trong đó: L - chiều dài của thùng quay, m; </para>
+    <para id="id5660937">a - hệ số phụ thuộc vào dạng ô đệm bên trong thùng (của cơ cấu chuyển dời) và đường kính thùng quay (ví dụ, khi đường kính thùng quay từ 1,2  2,8 m đối với ô đệm nâng bằng 1,2; đối với ô đệm thẳng - 0,6  0,4; đối với ô đệm ổ - 0,65  0,33);</para>
+    <para id="id4657856">D - đường kính thùng quay, m. Tỷ số giữa chiều dài L và đường kính D thường từ 3  5; </para>
+    <para id="id4846184">tg - tg góc nghiêng của thùng quay.</para>
+    <para id="id4846196">Công suất (kW) động cơ của thùng quay:</para>
+    <para id="id4846201">N = 0,07D3Ln</para>
+    <para id="id4846231">trong đó:  - hệ số phụ thuộc vào dạng ô đệm và mức chất đầy thùng quay (khi  = 0,2 đối với ô đệm nâng bằng 0,063; đối với ô đệm thẳng - 0,038; đối với ô đệm ổ - 0,01); </para>
+    <para id="id4939938">n - số vòng quay của thùng, vòng/s.</para>
+    <para id="id4939947">Máy sấy dạng băng tải. Kích thước cơ bản của máy sấy này được tính xuất phát từ năng suất của máy sấy G(kg/h) theo sản phẩm và thời gian (s).</para>
+    <para id="id4939977">Lượng sản phẩm trên băng tải (kg) = G.</para>
+    <para id="id4656279">Chiều cao của phần băng tải hoạt động (m):</para>
+    <figure id="id4656288">
+      <media id="id4912206" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="47" width="72"/></media>
+    </figure>
+    <para id="id4656312">trong đó:  - khối lượng xếp đầy của sản phẩm, kg/m3;</para>
+    <para id="id4663465">f - diện tích tiết diện ngang của sản phẩm trên băng tải, m2.</para>
+    <para id="id4663487">Khi sấy sản phẩm xếp đầy:</para>
+    <para id="id4663491"><figure id="id4663494"><media id="id4912282" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="43" width="61"/></media></figure> hay <figure id="id4782642"><media id="id4912311" alt=""><image src="graphics16.wmf" mime-type="image/wmf" height="47" width="54"/></media></figure></para>
+    <para id="id4782666">trong đó: b - bề rộng của sản phẩm xếp trên băng tải, m; </para>
+    <para id="id4782678">h - Chiều cao của lớp sản phẩm, m.</para>
+    <para id="id4782691"><figure id="id4772519"><media id="id4912371" alt=""><image src="graphics17.wmf" mime-type="image/wmf" height="22" width="110"/></media></figure> ; <figure id="id4772545"><media id="id4912400" alt=""><image src="graphics18.wmf" mime-type="image/wmf" height="43" width="50"/></media></figure></para>
+    <para id="id4772569">trong đó: B - bề rộng của băng tải, m.</para>
+    <para id="id4664214">Khi sấy sản phẩm có tiết diện vuông:</para>
+    <para id="id4664220">F = bh</para>
+    <para id="id4664233">Tốc độ chuyển động của băng tải (m/s):</para>
+    <figure id="id4664242">
+      <media id="id4918490" alt=""><image src="graphics19.wmf" mime-type="image/wmf" height="47" width="89"/></media>
+    </figure>
+    <para id="id4664266">Bề rộng của buồng (m) trong đó băng tải được chuyển động:</para>
+    <figure id="id5460865">
+      <media id="id4918536" alt=""><image src="graphics20.wmf" mime-type="image/wmf" height="25" width="193"/></media>
+    </figure>
+    <para id="id5460889">trong đó: Z - số lượng băng tải được lắp song song nhau; </para>
+    <para id="id5460901">B1 - khoảng cách giữa các băng tải, m; B2 - khoảng cách từ các băng tải biên đến tường, m.</para>
+    <para id="id4233173">Chiều dài của buồng (m):</para>
+    <para id="id4233179">Lb = L0 + D + 2l</para>
+    <para id="id4233210">trong đó: L0 - khoảng cách giữa các tâm của tang căng và tang dẫn động, m;</para>
+    <para id="id4948600">l - khoảng cách từ thùng quay đến tường buồng, m.</para>
+    <para id="id4948616">Chiều cao của buồng sấy (m):</para>
+    <figure id="id4948625">
+      <media id="id4918648" alt=""><image src="graphics21.wmf" mime-type="image/wmf" height="24" width="207"/></media>
+    </figure>
+    <para id="id4948648">trong đó: m - số lượng tầng sấy;</para>
+    <para id="id4654392">h1 - khoảng cách giữa các tang của hai tầng lân cận, m, (h1 = 0,15 m);</para>
+    <para id="id4654418">h2 - khoảng cách từ tang trên đến trần buồng sấy, m, (h2 = 0,27 m);</para>
+    <para id="id4654442">h3 - khoảng cách từ tang dưới đến sàng thiết bị, m, (thường lấy 0,3 m).</para>
+    <para id="id4852583">Máy sấy phun. Kích thước của các máy sấy phun thường tính theo thể tích bên trong của nó và theo sức căng cho phép của buồng sấy theo ẩm bốc hơi:</para>
+    <para id="id4852597">Vb = <figure id="id4852610"><media id="id4136079" alt=""><image src="graphics22.wmf" mime-type="image/wmf" height="43" width="25"/></media></figure></para>
+    <para id="id5717316">Tỷ số giữa chiều cao buồng sấy và đường kính bên trong của nó thường lấy 1,1  1,25.</para>
+    <para id="id5717330">Chiều cao hoạt động của buồng sấy (m):</para>
+    <figure id="id5717339">
+      <media id="id4136133" alt=""><image src="graphics23.wmf" mime-type="image/wmf" height="51" width="82"/></media>
+    </figure>
+    <para id="id5717363">Đường kính của buồng sấy (m):</para>
+    <para id="id5717367">Db = (2,2  2,4) Rf</para>
+    <para id="id4838915">trong đó: Rf - bán kính ngọn lửa phun, được xác định theo công thức:</para>
+    <figure id="id4838934">
+      <media id="id4136200" alt=""><image src="graphics24.wmf" mime-type="image/wmf" height="51" width="235"/></media>
+    </figure>
+    <para id="id5679979">trong đó: tb - Đường kính trung bình của giọt, m,.</para>
+    <para id="id5679995"> và ­k - tỷ trọng của dung dịch và khí (thường lấy 800  1200 và 0,4  0,9 kg/m3),</para>
+    <para id="id4770983">Re - chuẩn Reynolds;</para>
+    <para id="id4770992">Gu - chuẩn Gucman;</para>
+    <para id="id4771002">Ko - chuẩn Kocobuc.</para>
+    <figure id="id4771014">
+      <media id="id4136289" alt=""><image src="graphics25.wmf" mime-type="image/wmf" height="56" width="286"/></media>
+    </figure>
+    <para id="id5789068">trong đó: n - số vòng quay của đĩa phun, vòng/s (n =130  200); </para>
+    <para id="id5789092"> - tỷ trọng huyền phù, kg/ m3 ( = 1050  100 kg/m3);</para>
+    <para id="id5789124">G - lưu lượng huyền phù, kg/s (G = 0,03  7,0 kg/s)</para>
+    <para id="id5457388"><figure id="id5457391"><media id="id5255637" alt=""><image src="graphics26.wmf" mime-type="image/wmf" height="15" width="14"/></media></figure> - độ nhớt động học của huyền phù, m2/s <figure id="id4842474"><media id="id5255667" alt=""><image src="graphics27.wmf" mime-type="image/wmf" height="15" width="14"/></media></figure>= (0,4  0,3)106 m2/s;</para>
+    <para id="id5684106">d - đường kính đĩa phun, m (d = 0,12  0,35 m); </para>
+    <para id="id5684126"> - sức căng bề mặt của huyền phù N/m2  = (6  8)10-2 N/m2;</para>
+    <para id="id4639890">X - chu vi được thấm ướt của đĩa phun, m, (X = 0,04  0,9 m).</para>
+    <para id="id4639912">Đối với các đĩa dạng vòi phun X = Zr, trong đó Z - số rãnh, bằng 12  24, r - bán kính vòi phun, m; Đối với đĩa dạng máng X = Zh, trong đó h - chiều cao của máng, m, h = 0,03  0,05 m.</para>
+    <para id="id4751177">Re =<figure id="id4751185"><media id="id5255754" alt=""><image src="graphics28.wmf" mime-type="image/wmf" height="49" width="47"/></media></figure></para>
+    <para id="id4750743">trong đó:<figure id="id4750747"><media id="id5255792" alt=""><image src="graphics29.wmf" mime-type="image/wmf" height="25" width="19"/></media></figure>- tốc độ biên của đĩa phun, m/s (<figure id="id4750774"><media id="id5255822" alt=""><image src="graphics30.wmf" mime-type="image/wmf" height="25" width="19"/></media></figure>= 70  170 m/s);</para>
+    <para id="id4751974"><figure id="id4751980"><media id="id5258342" alt=""><image src="graphics31.wmf" mime-type="image/wmf" height="24" width="18"/></media></figure>- độ nhớt động học của khí, m2/s <figure id="id4751546"><media id="id5258372" alt=""><image src="graphics32.wmf" mime-type="image/wmf" height="24" width="18"/></media></figure>= (20  80)106.</para>
+    <para id="id4751591">Gu = <figure id="id4751599"><media id="id5258412" alt=""><image src="graphics33.wmf" mime-type="image/wmf" height="49" width="114"/></media></figure></para>
+    <para id="id4752386">trong đó: t1, t2 và tm - nhiệt độ của tác nhân sấy khi vào, khi ra khỏi máy sấy và nhiệt kế bầu ướt, 0C, (t1 = 160  450; t2 = 70  105; tm = 40  600C).</para>
+    <para id="id4752421">Ko = <figure id="id4752781"><media id="id5258464" alt=""><image src="graphics34.wmf" mime-type="image/wmf" height="49" width="150"/></media></figure></para>
+    <para id="id4752805">trong đó: Cr - nhiệt dung riêng của tác nhân sấy, J/(kgK), Cr =1,03  1,9 J/(kgK);</para>
+    <para id="id5456703">r1 - nhiệt ẩn hoá hơi của nhiệt độ bầu ướt, J/kgK; </para>
+    <para id="id5456723">W1 và W2 - độ ẩm huyền phù cho vào sấy và độ ẩm của sản phẩm cuối, %, (W1 = 25  48%; W2= 6  12%).</para>
+    <para id="id4950507">Tính calorife. Các calorife của thiết bị sấy được chia ra làm hai loại- thiết bị gió nóng kiểu hơi nước và kiểu ngọn lửa. Đun nóng tác nhân sấy - không khí - được tiến hành trong các thiết bị gió nóng kiểu hơi nước (calorife kiểu hơi nước). Chúng là một chùm ống có đường kính đến 30 mm, hơi đun nóng được nạp vào bên trong, bên ngoài bao phủ bằng lớp không khí bị đun nóng. Người ta lắp trên các ống những tấm kim loại dày 1 mm hình vuông hay hình tròn cách nhau 5 mm để tăng truyền nhiệt từ hơi nước qua tường ống đến không khí.</para>
+    <para id="id4950531">Hệ số truyền nhiệt của calorife kiểu hơi nước khi tốc độ đun nóng từ 4 đến 12 m/s là 20  35 W/m2K. </para>
+    <para id="id5683997">Trong công nghiệp vi sinh các calorife kiểu hơi nước được sử dụng trong các máy sấy kiểu băng tải và trong các máy sấy tầng sôi. Nhược điểm của các loại thiết bị này là phức tạp cho việc làm sạch các ống và các bề mặt giữa các ống.</para>
+    <para id="id5684011">Khi sấy sản phẩm trong các máy sấy phun, tác nhân sấy có nhiệt độ đến 3000C hoặc lớn hơn thường sử dụng bộ đun nóng kiểu ống. Không khí sấy qua các ống và được đun nóng bằng khí lò thổi qua không gian giữa các ống. Nhiệt được sử dụng, thực chất là khí tự nhiên hay dầu mazut.</para>
+    <para id="id5684033">Diện tích bề mặt truyền nhiệt (m2):</para>
+    <figure id="id4773582">
+      <media id="id5258608" alt=""><image src="graphics35.wmf" mime-type="image/wmf" height="49" width="308"/></media>
+    </figure>
+    <para id="id4773605">trong đó: QK- Lượng tải nhiệt của calorife, W;</para>
+    <para id="id4773617">L - lượng không khí được đun nóng, kg/h;</para>
+    <para id="id4773627">CKK - nhiệt dung riêng của không khí, kj/ kgK;</para>
+    <para id="id4640080">t1 và t0 - nhiệt độ không khí vào calorife và không khí nóng thải ra, 0C;</para>
+    <para id="id4640110">I0 và I1 - entanpi của không khí vào calorife và ra khỏi calorife, 0C;</para>
+    <para id="id4831208">K - hệ số truyền nhiệt, kW/ m2K;</para>
+    <para id="id4831227">ttb- sai khác trung bình của nhiệt độ hơi nước và không khí.</para>
+    <para id="id4831247">Hệ số truyền nhiệt có thể xác định theo phương trình:</para>
+    <figure id="id5762064">
+      <media id="id5676353" alt=""><image src="graphics36.wmf" mime-type="image/wmf" height="69" width="114"/></media>
+    </figure>
+    <para id="id5762088">trong đó: b và n - các hệ số thực nghiệm. Đối với các loại calorife kiểu bảng mỏng loại nhỏ và trung bình b = 8,7, n = 0,5624, đối với loại lớn b = 7,6, n = 0,568;</para>
+    <para id="id5458845"> - tỷ trọng của không khí, kg/m3;</para>
+    <para id="id5458860"><figure id="id5458864"><media id="id5676418" alt=""><image src="graphics37.wmf" mime-type="image/wmf" height="19" width="15"/></media></figure> - tốc độ của không khí trong tiết diện hoạt động của calorife, m/s;</para>
+    <para id="id5760823">KK<figure id="id5760835"><media id="id5676459" alt=""><image src="graphics38.wmf" mime-type="image/wmf" height="19" width="15"/></media></figure>- tốc độ khối của không khí, kg/m2s.</para>
+    <para id="id5760871">Các loại hệ số K có thể chọn từ bảng 13.5.</para>
+    <para id="id5760883">Bảng 13.5. Các loại hệ số truyền nhiệt trong calorife (W/ m2K)</para>
+    <table id="id5653883" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <tbody>
+          <row>
+            <entry>Các dạng calorife</entry>
+            <entrytbl namest="c2" nameend="c8" cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c7">Tốc độ khối của không khí trong tiết diện hoạt động của calorife, kg/ m2s</entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>5</entry>
+                  <entry>6</entry>
+                  <entry>7</entry>
+                  <entry>8</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>Í và ÍÍÂ và ÍÂ</entry>
+            <entry>18,115,6</entry>
+            <entry>21,218,3</entry>
+            <entry>23,420,8</entry>
+            <entry>25,422,7</entry>
+            <entry>27,125,1</entry>
+            <entry>28,826,2</entry>
+            <entry>30,127,9</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4779567">Tốc độ khối của không khí kg/ m2s</para>
+    <figure id="id4779585">
+      <media id="id5202262" alt=""><image src="graphics39.wmf" mime-type="image/wmf" height="49" width="99"/></media>
+    </figure>
+    <para id="id4837594">trong đó: LS - lưu lượng không khí trong một giây, kg/s;</para>
+    <para id="id4837610">fk - tiết diện hoạt động của calorife, m2;</para>
+    <para id="id4837629">y - số lượng calorife được lắp song song nhau.</para>
+    <para id="id4836896">Sai khác nhiệt độ trung bình (0C):</para>
+    <figure id="id4836909">
+      <media id="id5202341" alt=""><image src="graphics40.wmf" mime-type="image/wmf" height="71" width="121"/></media>
+    </figure>
+    <para id="id4836933">trong đó: t1 và t2 - sai khác nhiệt độ lớn nhất và nhỏ nhất của các chất tải nhiệt.</para>
+    <para id="id4834457">Số lượng calorife được lắp nối tiếp:</para>
+    <figure id="id4834466">
+      <media id="id5202399" alt=""><image src="graphics41.wmf" mime-type="image/wmf" height="47" width="75"/></media>
+    </figure>
+    <para id="id4834490">trong đó: FK - diện tích bề mặt truyền nhiệt của một calorife, m2.</para>
+    <para id="id5685966">Đại lượng X được làm tròn đến số nguyên, khi lấy dự trữ diện tích bề mặt truyền nhiệt bằng 20%.</para>
+    <para id="id5685979">Diện tích truyền nhiệt của tất cả calorife, m2:</para>
+    <figure id="id5685994">
+      <media id="id5202469" alt=""><image src="graphics42.wmf" mime-type="image/wmf" height="25" width="89"/></media>
+    </figure>
+    <para id="id5686017">Lực cản của calorife (Pa):</para>
+    <figure id="id4949338">
+      <media id="id4898732" alt=""><image src="graphics43.wmf" mime-type="image/wmf" height="28" width="140"/></media>
+    </figure>
+    <para id="id4949362">trong đó: E, m - các hệ số thực nghiệm. </para>
+    <para id="id4949378">Đối với calorife bảng mỏng loại nhỏ E = 0,0933, m = 1,7; đối với loại trung bình E = 0,122, m = 1,76; đối với loại lớn E = 0,153, m = 1,73.</para>
+    <para id="id4949543">Trong bảng 13.6 giới thiệu đặc tính của các loại calorife được sử dụng phổ biến nhất trong công nghiệp.</para>
+    <para id="id4949552">Bảng 13.6</para>
+    <table id="id4949556" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Kích thước cơ bản, mm</entry>
+            <entry namest="c3" nameend="c4">Lượng hành trình của chất tải nhiệt</entry>
+            <entry namest="c5" nameend="c8">Khối lượng (loại một hành trình), kg</entry>
+          </row>
+          <row>
+            <entry>Dài</entry>
+            <entry>Cao</entry>
+            <entry>Í và ÍÂ</entry>
+            <entry>Í và ÍÂ</entry>
+            <entry>Í</entry>
+            <entry>ÍÂ</entry>
+            <entry>Í</entry>
+            <entry>ÍÂ</entry>
+          </row>
+          <row>
+            <entry>6006007507509009001050105012001200</entry>
+            <entry>3905105106406407607608808801010</entry>
+            <entry>1111111111</entry>
+            <entry>2444444666</entry>
+            <entry>5771,280,7100,4118,6143,3164,4190215244,5</entry>
+            <entry>6787,2106,5132,4156,8189,5218,2253,5285,5324,6</entry>
+            <entry>58,470,785107,2126,7144,1175,9203230261,2</entry>
+            <entry>68,189,3108,2134,8159,4192,2221,7257,9291,7329,4</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4837451">Bảng 13.7. Đặc tính kỹ thuật của các calorife ÍÂ</para>
+    <table id="id4837458" summary="">
+      <tgroup cols="7">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Bề mặt truyền nhiệt, m2</entry>
+            <entrytbl namest="c3" nameend="c7" cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Tiết diện hoạt động, m2</entry>
+                </row>
+                <row>
+                  <entry>Theo không khí</entry>
+                  <entry>Theo chất tải nhiệt</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>ÍÂ vàÍ</entry>
+            <entry>ÍÂ vàÍÂ</entry>
+            <entry>Í, ÍÂÍ, ÍÂ</entry>
+            <entry>Í</entry>
+            <entry>ÍÂ</entry>
+            <entry>Í</entry>
+            <entry>ÍÂ</entry>
+          </row>
+          <row>
+            <entry>9,913,216,720,925,330,435,741,647,854,6</entry>
+            <entry>12,716,921,426,832,438,945,753,361,269,9</entry>
+            <entry>0,1150,1540,1950,2440,2950,3540,4160,4860,5580,638</entry>
+            <entry>0,00460,00610,00760,00920,001070,0122</entry>
+            <entry>0,00610,00820,01020,01220,001430,0163</entry>
+            <entry>0,002310,001520,00190,002310,001780,00203</entry>
+            <entry>0,003050,002030,002540,003050,002370,00271</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5659207">Chiều dày của các calorife dạng KC và KMC bằng 200 mm, các dạng ÍÂ và KMÂ-240 mm.</para>
+    <para id="id4837159">Tất cả các calorife ở Nga được sản xuất theo bốn loại: Â - lớn; C - trung bình, M - nhỏ và CM - nhỏ nhất.</para>
+    <para id="id4837168">Theo đặc tính chuyển động của chất tải nhiệt có các calorife một hành trình (loại ÍC và KÂ) và calorife nhiều hành trinh (loại KMC và KMÂ). Trong các calorife một hành trình, các dòng song song của chất tải nhiệt cùng một lúc qua các ống, trong các calorife nhiều hành trình chất tải nhiệt liên tục qua một số chùm ống. Sử dụng các calorife nhiều hành trình để đun nóng không khí bằng nước nóng, các calorife một hành trình đun nóng không khí bằng hơi nước.</para>
+    <para id="id4837183">Tính quạt gió. Năng suất quạt gió tính theo không khí (m3/h)</para>
+    <figure id="id4837202">
+      <media id="id4724803" alt=""><image src="graphics44.wmf" mime-type="image/wmf" height="49" width="71"/></media>
+    </figure>
+    <para id="id4753071">trong đó: Lh - nạp không khí trong môt giờ, kg/h;</para>
+    <para id="id4753087">KK - tỷ trọng của không khí phụ thuộc vị trí đặt thiết bị quạt gió trong tổ hợp sấy và vào nhiệt độ, kg/ m3.</para>
+    <figure id="id4753113">
+      <media id="id4724861" alt=""><image src="graphics45.wmf" mime-type="image/wmf" height="47" width="231"/></media>
+    </figure>
+    <para id="id5812675">ở đây: P - áp suất của không khí ẩm, Pa;</para>
+    <para id="id5812686">X - hàm ẩm của không khí, kg/ kg; </para>
+    <para id="id5812696">Rhn - hằng số khí đối với hơi nước Rnh= 47,1 Nm/(kg0C);</para>
+    <para id="id4947032">t0 - nhiệt độ không khí ẩm, 0C.</para>
+    <para id="id4947051">Khi năng suất của máy quạt và cột áp đã cho, công suất (kW) tại trục của động cơ:</para>
+    <figure id="id4947062">
+      <media id="id5224860" alt=""><image src="graphics46.wmf" mime-type="image/wmf" height="50" width="114"/></media>
+    </figure>
+    <para id="id4947086">trong đó: H - tổng cột áp của quạt, Pa;</para>
+    <para id="id5450951">V - năng suất quạt tính theo không khí, m3/h;</para>
+    <para id="id5450967">q - hiệu suất quạt (q= 0,5  0,7);</para>
+    <para id="id5450996">ot - hiệu suất có tính đến tổn thất do ma sát trong các ổ trục </para>
+    <para id="id5451012">(ot = 0,95  0,97);</para>
+    <para id="id5659250">t - hiệu suất có tính đến tổn thất khi truyền từ quạt đến động cơ</para>
+    <para id="id5659266">(t = 0,9  0,95).</para>
+    <para id="id4753289"><figure id="id4753299"><media id="id5224980" alt=""><image src=".png" mime-type="image/png" height="345" width="272"/></media></figure>Khíbị nhiếm bụiSản phẩmKhí bị nhiễm bụiHình 13.10. Cấu tạo của xyclon:a- Xyclon hình trống; b- Xyclon hình nónKhí được làm sạchKhí được làm sạchKhí bị nhiễm bụiSản phẩma)b)Tính xyclon. Trong các máy sấy phun và trong các máy sấy tầng sôi, khi sấy huyền phù và các dung dịch, sự cuốn đi các tiểu phần các chất hoạt hoá sinh học là đáng kể. Hàm lượng của các tiểu phần trong khí thải chứa đến 2  4 g/m3.</para>
+    <para id="id4779311">Để thu hồi các chất khí thải cuốn đi thường sử dụng các xyclon dạng xilanh và dạng hình nón (hình 13.10). Các xyclon làm việc như sau: Khí cùng với các tiểu phần vào phần xoắn bên trên của xyclon qua đoạn ống vaò, dưới ảnh hưởng của lực ly tâm các tiểu phần trong không khí bị va đập vào thành xyclon, làm mất vận tốc quay và dưới ảnh hưởng của trọng lực các hạt rơi xuống qua cửa thổi vào phễu chứa. Khí được làm sạch tiếp tục quay lên phía trên và được thải vào không khí qua ống xả.</para>
+    <para id="id4779315">Chất lượng làm sạch không khí được xác định bởi mức độ làm sạch:</para>
+    <figure id="id4833747">
+      <media id="id5225048" alt=""><image src="graphics47.wmf" mime-type="image/wmf" height="49" width="99"/></media>
+    </figure>
+    <para id="id4833770">trong đó: G1 và G2 - lượng các hạt được thu hồi và các hạt vào, kg/s.</para>
+    <para id="id4845901">Chất lượng làm sạch không khí phụ thuộc vào tỷ trọng và kích thước các hạt, vào cấu tạo của xyclon và vào các yếu tố phân chia. Yếu tố phân chia:</para>
+    <figure id="id4845915">
+      <media id="id5225108" alt=""><image src="graphics48.wmf" mime-type="image/wmf" height="51" width="58"/></media>
+    </figure>
+    <para id="id4845939">trong đó: <figure id="id4845944"><media id="id4895133" alt=""><image src="graphics49.wmf" mime-type="image/wmf" height="19" width="15"/></media></figure>- tốc độ biên của các hạt, m/s,</para>
+    <para id="id5682909">g - gia tốc rơi tự do, m/s2,</para>
+    <para id="id5682927">r2 - bán kính xyclon, m.</para>
+    <para id="id5682943">Tính xyclon, điều đầu tiên là tính bán kính của nó r2 (m), chiều cao Hx (m) của xyclon hình xilanh và Hn (m) của phần hình nón:</para>
+    <figure id="id4663845">
+      <media id="id4895199" alt=""><image src="graphics50.wmf" mime-type="image/wmf" height="53" width="101"/></media>
+    </figure>
+    <para id="id4663869">trong đó: V - lưu lượng thể tích của khí thải bị bụi hoá vào xyclon, m3/s;</para>
+    <para id="id4663886"><figure id="id4663889"><media id="id4895252" alt=""><image src="graphics51.wmf" mime-type="image/wmf" height="19" width="15"/></media></figure>r - tốc độ khí vào, m/s ( = 11  18 m/s).</para>
+    <para id="id4836865">Chiều cao của phần xilanh: <figure id="id4836870"><media id="id4895293" alt=""><image src="graphics52.wmf" mime-type="image/wmf" height="55" width="172"/></media></figure></para>
+    <para id="id4665242">trong đó: k - hệ số dự trữ chiều cao (k = 1,25);</para>
+    <para id="id4665254">Vhd - trọng tải hoạt động của xyclon, m3;</para>
+    <para id="id4665274">r1 - bán kính của ống xả trung tâm, m;</para>
+    <para id="id4665288">r2 - bán kính phần xilanh của xyclon, m;</para>
+    <para id="id4665302"> - bề dày tường ống xả, m.</para>
+    <figure id="id5657165">
+      <media id="id4895380" alt=""><image src="graphics53.wmf" mime-type="image/wmf" height="53" width="79"/></media>
+    </figure>
+    <para id="id5657189">trong đó:<figure id="id5657194"><media id="id4895423" alt=""><image src="graphics54.wmf" mime-type="image/wmf" height="25" width="19"/></media></figure>- tốc độ dòng khí trong ống xả, m/s (<figure id="id5657221"><media id="id5287746" alt=""><image src="graphics55.wmf" mime-type="image/wmf" height="25" width="19"/></media></figure>= 2  5 m/s).</para>
+    <para id="id4838506">Chiều cao của phần hình nón: Hn = (r2  r0) tg0 </para>
+    <para id="id4952965">trong đó: r0 - bán kính cửa thải xuống dưới của xyclon, m, r0 = (0,49  0,15) r2,  o  700.</para>
+    <para id="id5460015">Thực tế đã chứng minh rằng các hạt có kích thước nhỏ hơn 10 m thì việc thu hồi bằng xyclon là không có hiệu quả, để tách chúng phải có những bộ lọc khô hay bộ lọc bằng dầu.</para>
+  </content>
+</document>

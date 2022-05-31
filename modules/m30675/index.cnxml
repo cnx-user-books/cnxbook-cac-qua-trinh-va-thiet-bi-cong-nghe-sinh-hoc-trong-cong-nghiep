@@ -1,0 +1,477 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Máy và thiết bị chuẩn bị nguyên liệu</title>
+  <metadata>
+  <md:content-id>m30675</md:content-id><md:title>Máy và thiết bị chuẩn bị nguyên liệu</md:title>
+  <md:abstract>Trong quy trình sản xuất các chất hoạt hoá sinh học có nhiều công đoạn phụ trợ. Việc lựa chọn đúng đắn các thiết bị phụ trợ có ảnh hưởng nhiều đến hiệu suất sản xuất. Sản xuất sinh học hiện đại chứa một lượng đáng kể các thiết bị phụ trợ với những mục đích khác nhau. Các dạng thiết bị phụ trợ như: nồi phản ứng - nồi trộn các cấu tử môi trường dinh dưỡng, thùng bảo quản sản phẩm lỏng, thùng chứa để thu nhận và bảo quản ngắn hạn các sản phẩm lỏng, bộ định lượng môi trường lỏng, các bơm để đẩy dung dịch, bộ nạp liệu các môi trường rời và lỏng, các máng để rửa thiết bị bằng cơ học, thổi khí, các máy nén...</md:abstract>
+  <md:uuid>157cfc55-0172-4835-87c6-6fb90e38c3fb</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6477227">Nội dung:</para>
+    <para id="id6477232">THIẾT BỊ CHỨA BẢO QUẢN MÔI TRƯỜNG LỎNG</para>
+    <para id="id6477238">Kiến thức chung</para>
+    <para id="id6477244">Một phần đáng kể nguyên liệu và vật liệu phụ được đưa vào nhà máy cần phải bảo quản một thời gian dài hay ngắn hạn trong các bể chứa ở trong kho. Tuỳ theo mức độ cần thiết có thể chuyển một cách liên tục hay gián đoạn vào thùng chứa trong các phân xưởng. Một số nhà máy sản xuất ra các dạng sản phẩm lỏng được bảo quản trong các thùng chứa ở trong kho trước khi đưa đến người tiêu dùng.</para>
+    <para id="id6477248">Có một số phương án hướng dẫn để chọn bể chứa nhằm bảo quản nguyên liệu, vật liệu phụ và các sản phẩm hàng hoá cũng như tính toán thể tích của bể:</para>
+    <para id="id6474838">1- Đối với mỗi loại môi trường, phụ thuộc vào tính chất của chúng có thể thiết lập nhiều bể riêng biệt, còn đối với môi trường độc hại thì phải có bể an toàn phụ trợ.</para>
+    <para id="id6477252">2- Khi chuyển môi trường vào kho hay ra khỏi kho theo chu kỳ cho phép thiết lập hai bể cho mỗi môi trường.</para>
+    <para id="id6474856">3- Nếu hai bể có sức chứa lớn thì việc sản xuất bể không có hiệu quả và không có khả năng thực hiện về kỹ thuật thì số bể có thể chọn lớn hơn 2.</para>
+    <para id="id6474867">Trong trường hợp bể có sức chứa lớn phải thiết lập các bộ phận theo dõi vệ sinh và chống cháy.</para>
+    <para id="id6491233">4- Sức chứa chung của các bể đối với mỗi dạng nguyên liệu được xác định theo định mức bảo quản và phụ thuộc vào sự dự trữ nguyên liệu cần thiết để nhà máy hoạt động liên tục.</para>
+    <para id="id6491246">5- Sức chứa chung của các bể đựng sản phẩm hàng hoá được xác định theo mức bảo quản và phụ thuộc vào sự tồn tại cho phép của sản phẩm.</para>
+    <para id="id6491257">Lượng nguyên liệu và vật liệu phụ chứa trong kho, trong bể được xác định chủ yếu dựa vào dự trữ hàng ngày và dự trữ bảo hiểm.</para>
+    <para id="id6491268">Dự trữ hàng ngày về nguyên liệu và vật liệu phụ được tính theo công thức:</para>
+    <para id="id6491276"> Zng = a.t</para>
+    <para id="id6475032">trong đó: a - yêu cầu trung bình hằng ngày theo kế hoạch về nguyên liệu và vật liệu phụ, tấn/ngày;</para>
+    <para id="id6475046">t - khoảng cung ứng giữa các ngày liên tiếp, ngày.</para>
+    <para id="id5965497">Dự trữ bảo hiểm của nguyên liệu, vật liệu phụ và sản phẩm cần thiết không theo kế hoạch, không có bể chứa và các nguyên nhân khác được xác định theo công thức:</para>
+    <para id="id5965510"> Zbh = a (t1 + t2 + t3 + t4) </para>
+    <para id="id6776244">trong đó: t1 - thời gian dỡ nguyên liệu, vật liệu phụ (chỉ khảo sát một ngày), ngày;</para>
+    <para id="id6440260">t2 - thời gian vận chuyển từ nơi giao hàng đến nơi sử dụng, ngày;</para>
+    <para id="id6440276">t3 - thời gian giao nhận, ngày;</para>
+    <para id="id6440290">t4 - thời gian chuẩn bị nguyên liệu và vật liệu phụ để sản xuất, ngày.</para>
+    <para id="id6440306">Thời gian vận chuyển:</para>
+    <para id="id5737191"/>
+    <para id="id5737226">trong đó: L - khoảng đường sắt từ nơi dỡ hàng đến nơi giao nhận, km;</para>
+    <para id="id5737240">330 - tốc độ tàu hoả, km/ngày.</para>
+    <para id="id6742284">Dự trữ cực đại trong kho: Zmax = Zng + Zbh</para>
+    <para id="id6742319">Thể tích toàn bộ các bể để bảo quản một trong những dạng nguyên vật liệu hay thành phẩm:</para>
+    <para id="id6742328"/>
+    <para id="id6922850">trong đó:  - tỷ trọng của nguyên vật liệu, kg/m3;</para>
+    <para id="id6922867"> KS = 0,9 - hệ số chứa đầy thể tích của bể.</para>
+    <para id="id6474364">Xuất phát từ thể tích chung của bể có tính đến tính chất của môi trường và các tiêu chuẩn quy định chúng ta có thể tìm được dạng, thể tích và số lượng các bể.</para>
+    <para id="id6474377">Các bể chứa bảo quản nguyên liệu và sản phẩm hàng hoá</para>
+    <para id="id6474384">Hiện tại và trong tương lai để thu nhận các sản phẩm vi sinh thường dùng các nguyên liệu lỏng cơ bản sau: parafin lỏng, rỉ đường, rỉ củ cải, dầu diêzen, metanol, etanol, axit axetic...Rượu etylic, axeton, butanol, chất cô chứa lizin, axit cacbonic dạng lỏng là những sản phẩm tổng hợp vi sinh ở dạng lỏng. Những dạng nguyên liệu và thành phẩm được nêu trên cần phải bảo quản trong các bể ở các nhà kho của nhà máy.</para>
+    <para id="id6474398">Parafin lỏng, dầu diêzen và rỉ đường được bảo quản trong các bể chứa bằng thép, kiểu nằm ngang. Các bể có sức chứa từ 100 đến 10000 m3 được thiết kế theo tiêu chuẩn có đề cập đến các tính chất của môi trường, nhiệt độ cao nhất của không khí bên ngoài, tải trọng gió.</para>
+    <para id="id6437241">Trên hình 4.1 mô tả bể chứa rỉ đường có thể tích 5000 m3. Phần hình trụ của vỏ có kết cấu tấm với 8 đai được hàn lại thành 8 mối. Tâm bể có trụ đỡ bằng ống thép với các cánh trên và cánh dưới. Cánh trên tựa vào mái, cánh dưới tựa vào đáy bể. Mái chắn có góc nghiêng  (1 : 20) từ tâm đến biên bể; Đáy được hàn lại bằng những tấm riêng biệt và có góc nghiêng = 0,02 (1:50) từ tâm đến biên bể. Ở vùng tháo rỉ ra khỏi bể có bộ phận đun nóng kiểu ống dùng để đun nóng cục bộ rỉ đường đến 400C.</para>
+    <para id="id6437196"><figure id="id6437206"><media id="id6505701" alt=""><image src=".png" mime-type="image/png" height="301" width="510"/></media></figure>Hơi34567 89Hình 4.1. Bể chứa nguyên liệu lỏng:Để nguyên liệu được đồng nhất trong bể cần trang bị các ống rót và bố trí chúng ở những mức khác nhau làm thành hệ đồng hoá. Nhờ bơm tuần hoàn mà rỉ đường được đẩy từ đầu nối cửa bên dưới vào hệ thống đồng hoá.</para>
+    <para id="id6120753">1- Hệ đồng hoá; 2- Đáy bể; 3- Vỏ bể ; 4- Mái; 5- Cột đỡ trung tâm; 6- Van đổi khí; 7- Ống nối để kiểm tra mức nguyên liệu; 8- Cửa nạp; 9- Cầu thang;10- Ống nối để rót nguyên liệu lỏng; 11- Thiết bị đun nóng bằng hơi</para>
+    <para id="id6120768">Thiết kế bể để bảo quản rỉ đường được tính theo các chỉ số cơ bản: tỷ trọng 1445 kg/m3 ở áp suất khí quyển và nhiệt độ không khí bên ngoài đến 400C (nếu ở các vùng lạnh), tải trọng gió 343 Pa.</para>
+    <para id="id6120800">Trong các nhà máy sản xuất rượu, thể tích của các bể để bảo quản rượu thường được tính cho hai tuần sản xuất liên tục. </para>
+    <para id="id6120810">12 34 5 6<figure id="id5813178"><media id="id3297971" alt=""><image src=".png" mime-type="image/png" height="267" width="272"/></media></figure>8200Hình 4.2. Bể để bảo quản rượu etylic:1- Phòng thu bọt; 2- Van điều khiển tự động; 3- Thiết bị tưới; 4- Van an toàn bằng thuỷ lực; 5- Cái chắn lửa; 6- Dụng cụ để đo mức rượu; 7- Ống để thoát liệu; 8 - Cửa van thuỷ lực; 9- Máng dẫn nướcRượuRượuThể tích riêng biệt của các bể có thể thiết kế theo tiêu chuẩn 100, 250, 500, 2000 và 3000 m3. Bể hình 4.2 là khối kín bằng thép dạng đứng, có kết cấu hàn với nắp hình nón, đáy phẳng. Rượu etylic có nhiệt độ bay hơi + 90C thuộc chất lỏng dễ bay hơi và dễ cháy. Hàm lượng rượu cho phép trong không khí không vượt quá 10 12 g/m3. Với mục đích tiêu hao tối thiểu lượng rượu và bảo quản an toàn, bể cần phải trang bị các dụng cụ đặc biệt (nhiệt kế, van bảo hiểm, van không khí, báo hiệu mức, tháo cặn, quá áp, và các cửa quan sát). Tháo nguyên liệu lỏng bằng bộ tự chảy hoặc tạo quá áp bằng không khí nén hay khí trơ ở áp suất rượu từ 0,3  1,6 MPa.</para>
+    <para id="id6445484">Để bảo quản tạm thời nguyên liệu lỏng, các dung dịch muối, các cấu tử môi trường, các chất từ chất lỏng canh trường, các chất có chứa các nguyên tố vi lượng...cũng như các sản phẩm trung gian khác, trong quá trình sản xuất thường được sử dụng thiết bị chứa bằng thép hàn có các áo ngoài và cơ cấu chuyển dời.</para>
+    <para id="id6445489">Các bể bảo quản metanol, axeton và butanol có kết cấu gần giống nhau. Bảo quản khí cácbonic ở trạng thái hoá lỏng trong các bình có thể tích quy định 4; 8; 12; 15; 25 và 50 m3 được tính toán với áp suất cực đại 1,6 MPa.</para>
+    <para id="id6445495">Đặc điểm cơ bản của thiết bị chứa: dung tích, áp suất, và vật liệu chế tạo.</para>
+    <para id="id5949565">Bể chứa nguyên liệu lỏng có hai loại: loại đứng và nằm ngang. Loại đứng có tỷ số chiều cao /đường kính = 5.</para>
+    <para id="id6445499">Bể bảo quản các nguyên liệu phụ</para>
+    <para id="id5949579">Các nguyên liệu phụ bao gồm các axit khoáng và kiềm, chất chiết từ ngô, các dung dịch muối, chất phá bọt, dung môi hữu cơ, dầu, benzin, mazut...Các axit sunfuric, clohydric và phosphoric là những chất độc có tác động mạnh nên khi thiết kế kho chứa và chọn bể đựng cần phải theo hướng dẫn của các tiêu chuẩn ban hành.</para>
+    <para id="id5949594">Trên hình 4.3 mô tả bể có kết cấu ngoài bằng thép để bảo quản axit sunfuric. Việc hút axit ra để cung cấp cho nhu cầu công nghệ được thực hiện nhờ ống xifông như sau: Dùng khí nén để đẩy axit từ bể vào bình chứa. Khi giảm mức axit ở cuối đường ống 6, không khí theo đường ống vào bể, còn xifông vẫn chứa đầy axit, vào thời điểm này ngưng đẩy không khí vào bình 8, mở van 7 và bơm sẽ hút axit từ bể 1 vào bình 8 để đưa đến các nơi cần dùng. Đồng thời dung lượng áp lực 4 được đổ đầy axit, nếu cần thiết thì đóng kín đầu cuối của xifông ở trong bể và có thể tiến hành nạp axít vào xifông từ két áp lực.</para>
+    <para id="id5949598"><figure id="id5949608"><media id="id1169843223310" alt=""><image src=".png" mime-type="image/png" height="212" width="344"/></media></figure>Không khí nénNơi tiêu thụ</para>
+    <para id="id5954946">Hình 4.3: Sơ đồ kho chứa axit sunfuric:</para>
+    <para id="id5954952">1- Bể; 2,3- Nút áp lực; 4- Dung lượng áp lực; 5- Ống xifông;6- Đường ống dẫn; 7- Van; 8- Bình chứa; 9- Bơm; 10- Ống rót </para>
+    <para id="id5954971">Để bảo quản đa số các axit vô cơ và hữu cơ, các dung dịch muối và các chất từ ngô thì nên dùng các thùng làm bằng thép cacbon. Khi bảo quản các axit clohydric, phosphoric, axetic, ... bề mặt bên trong bể được phủ lớp bảo vệ bằng các vật liệu keramit chịu axit, caosu, epoxit và các chất phủ chịu axit khác. Để bảo quản muối và các môi trường khác không phá huỷ thép, bền axit thường các bể làm thành hai lớp, với lớp cơ bản thường sử dụng thép cacbon CT3 và CT10, còn đối với bể mạ kim loại thường dùng thép chống ăn mòn có độ mạ cao.</para>
+    <para id="id5954996">Trong các xí nghiệp thường sử dụng rộng rãi dung dịch amoniac (nước amoniac) có hàm lượng NH3 từ 20  27% vì nó là nguồn chứa nitơ và cấu tử trung hoà. Dung dịch amoniax đậm đặc thuộc loại dễ cháy và khí chứa 27% NH3 thì nhiệt độ bốc cháy không nhỏ 20C. Cho nên các kho chứa nước amoniax phải được thiết kế theo tiêu chuẩn ban hành của nhà nước.</para>
+    <para id="id6491518">Các bể để bảo quản dung dịch amoniac thường là thùng kín có kết cấu hàn bằng thép cac bon. Các bể này không cần phải phủ lớp cách nhiệt và đun nóng do nhiệt độ đông kết của chất pha trộn thấp (dung dịch có hàm lượng NH3 20% đông kết ở nhiệt độ - 330C, còn 25% ở - 560C). Không cho phép dung dịch amoniax tiếp xúc với thiết bị, các đường ống dẫn có chứa Cu và các hợp chất khác của Cu.</para>
+    <para id="id6491557">Thiết bị chứa bảo quản ngắn hạn các môi trường khác nhau trong phân xưởng</para>
+    <para id="id6445320">Thiết bị chứa trong các phân xưởng được dùng để bảo quản ngắn hạn nguyên liệu và vật liệu phụ từ̀ các bể trong kho nhà máy và bảo quản sản phẩm trước khi nạp vào các bể chứa, ngoài ra thiết bị chứa còn dùng để bảo quản các muối và môi trường dinh dưỡng, các huyền phù sinh vật, các dung dịch canh trường và các môi trường lỏng khác được tạo ra trong các giai đoạn sản xuất khác nhau. Thể tích của nó phụ thuộc vào thể tích và thời gian có mặt của môi trường, vào công suất dây chuyền và vào các yếu tố khác. Việc lựa chọn kết cấu của thiết bị chứa phụ thuộc vào các tính chất của môi trường và những đòi hỏi tương ứng đã được đưa ra trong các tài liệu quy chuẩn.</para>
+    <para id="id6445354">MÁY VÀ THIẾT BỊ ĐỂ CHUẨN BỊ NGUYÊN LIỆU VÀ VẬN CHUYỂN CÁC MÔI TRƯỜNG KHÁC NHAU</para>
+    <para id="id6445362">Máy nghiền</para>
+    <para id="id6445367">Nghiền là quá trình biến các chất rắn thành những chất nhỏ hơn dưới tác dụng của va đập, nén vỡ, chà xát, chia cắt và các yếu tố khác.</para>
+    <para id="id6445378">Bảng 4.1 giới thiệu cách phân loại nghiền phụ thuộc vào kích thước các hạt trước và sau khi nghiền.</para>
+    <para id="id6445387">Bảng 4.1</para>
+    <table id="id6445392" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Cấp nghiền</entry>
+            <entrytbl namest="c2" nameend="c3" cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Kích thước hạt vật liệu, mm</entry>
+                </row>
+                <row>
+                  <entry>Trước khi nghiền dt</entry>
+                  <entry>Sau khi nghiền dS</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>Nghiền thô (sơ bộ)Nghiền trung bìnhNghiền nhỏNghiền mịnNghiền keo</entry>
+            <entry>1000  200250  2550  2525  30,2  0,1</entry>
+            <entry>250  4040  1010  11  0,40,001</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6923202">Tỷ số kích thước các hạt trước và sau khi nghiền được gọi là mức nghiền:</para>
+    <para id="id6923210"/>
+    <para id="id6923237">Thực tế thường chọn theo kích thước lớn nhất của các hạt lọt qua sàng. Hình dạng các lỗ sàng cần phải giống nhau (hình tròn, hình vuông, hình chữ nhật...). Kích thước các hạt được xác định bởi lỗ sàng mà các hạt lọt qua. Trong công nghiệp đã sản xuất ra các loại máy nghiền khác nhau để thoả mãn với yêu cầu trong sản xuất vi sinh. Các máy nghiền được phân loại chủ yếu theo phương pháp nghiền và theo độ lớn của các hạt thu được. Việc phân loại theo phương pháp nghiền là tiện lợi nhất vì khi cần thiết nghiền một vật liệu bất kỳ đến một mức nhất định nào đó, trước tiên phải chọn phương pháp nghiền sau đó mới chọn dạng máy nghiền.</para>
+    <para id="id6923241">Theo phương pháp nghiền gồm các loại máy sau: máy nghiền cắt, máy nghiền dập, máy nghiền chà nén, máy nghiền va đập, máy nghiền mài - va đập và máy nghiền keo. Dưới đây chúng ta khảo sát loại máy nghiền cơ bản thường được cho phép sử dụng trong các nhà máy vi sinh. </para>
+    <para id="id6923256">Máy nghiền tác động theo phương pháp cắt. Loại này được sử dụng rộng rãi trong công nghiệp vi sinh như nghiền đĩa, nghiền trục băm. Các loại máy nghiền này có thể nghiền gỗ thành phôi bào để chuẩn bị các môi trường dinh dưỡng chứa cacbon trong sản xuất nấm men gia súc và rượu etylic.</para>
+    <para id="id6730155">Máy đĩa băm dùng để nghiền gỗ thành thỏi bào, nghiền phế liệu của nhà máy cưa, của các xưởng mộc. Bộ phận làm việc của máy băm là đĩa có đường kính từ 1 đến 3 m, trên đĩa lắp 3 16 dao. Nguyên liệu được đưa vào một cách tự do hay cưỡng bức. Trong các máy có ít dao (đến 6 cái), thì quá trình cắt là gián đoạn, trong các máy có nhiều dao quá trình cắt hầu như là liên tục. Trên hình 4.4 biểu diễn quá trình cắt gọt với loại ít dao và nhiều dao.</para>
+    <para id="id6730184">Năng suất của máy băm (m3 vỏ bào/ h) được xác định theo công thức:</para>
+    <para id="id6730197"/>
+    <para id="id6474599">trong đó: 2826 - hằng số;</para>
+    <para id="id6474604">Kn = 0,2  0,7- hệ số nạp liệu tính đến độ nạp gỗ không đồng đều vào mâm cặp của máy;</para>
+    <para id="id6474627">d - đường kính trung bình của súc gỗ đem nghiền, m;</para>
+    <para id="id6474637">l - Chiều dài của phôi gỗ được cắt, m,</para>
+    <para id="id6474648">n - số vòng quay của đĩa,vòng/phút,</para>
+    <para id="id6474658">Z - số dao trên đĩa.</para>
+    <para id="id6474667">Công suất của động cơ điện (kW) để dẫn động máy băm:</para>
+    <para id="id5737091"/>
+    <para id="id5737117">trong đó: P - lực cắt (đối với máy băm bằng đĩa lấy 90 N/mm);</para>
+    <para id="id5737130">d - đường kính trung bình của gỗ đem băm, mm;</para>
+    <para id="id5737141">D - đường kính cắt, mm;</para>
+    <para id="id5737150"> - hiệu suất của máy.</para>
+    <para id="id5737160"><figure id="id5737170"><media id="id8026577" alt=""><image src=".png" mime-type="image/png" height="246" width="327"/></media></figure>Gỗ vụn</para>
+    <para id="id6423226">b</para>
+    <para id="id6423272">Hình 4.4. Sơ đồ nghiền gỗ:</para>
+    <para id="id6423278">a- Sơ đồ máy băm có nhiều dao; b- Sơ đồ máy băm ít dao.1- Đĩa thép; 2- Các dao đĩa; 3- Chêm bằng thép; 4- Bulông; 5- Rãnh thông; 6- Dao chặn vỏ bào; 7- Mâm cặp; 8- Gỗ; 9- Đĩa thép; 10- Rãnh thông</para>
+    <para id="id6423291">Bảng 4-2 giới thiệu các đặc tính kỹ thuật của máy băm bằng đĩa. Các loại máy này không thể nghiền loại gỗ có đường kính vượt quá 0,55 m nếu không cưa dọc thanh gỗ.</para>
+    <para id="id5737257">Bảng 4.2. Đặc tính kỹ thuật của các loại máy băm bằng đĩa</para>
+    <table id="id5737264" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry>Các chỉ số</entry>
+            <entry>MPM-28</entry>
+            <entry>ВФР-23</entry>
+            <entry>a3-01</entry>
+            <entry>a3-02</entry>
+            <entry>a3-11</entry>
+          </row>
+          <row>
+            <entry>Đường kính của đĩa dao, mSố daoSố vòng quay, vòng/ phútCông suất động cơ, kWĐường kính gỗ đem xẻ, mmNăng suất, m3/hKhối lượng, tấnPhun dăm</entry>
+            <entry>2,844,66720045025452,10Trên</entry>
+            <entry>2,843,6671804502545-Trên</entry>
+            <entry>2,44105,935005001002,692Trên</entry>
+            <entry>2,14106,1260300502,410Trên và dưới</entry>
+            <entry>1,251612,2575220254,161Dưới</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6423382">Tiếp theo bảng 4.2</para>
+    <table id="id6423388" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>Các chỉ số</entry>
+            <entry>a3-12</entry>
+            <entry>Hãng Karsila (Phần lan) C2500/5</entry>
+            <entry>Hãng Osterland(Phần lan) 2140/10</entry>
+            <entry>Hãng Murrey (Mỹ) 2286/10</entry>
+          </row>
+          <row>
+            <entry>Đường kính của đĩa dao, mSố daoSố vòng quay, vòng/ phútCông suất động cơ, kWĐường kính gỗ đem xẻ, mmNăng suất, m3/hKhối lượng, tấnPhun dăm</entry>
+            <entry>1,251211,2555180204,318Dưới</entry>
+            <entry>2,5054,6 5,51101304504555-Trên</entry>
+            <entry>2,14105,8400500100-Trên và dưới</entry>
+            <entry>2,286106450550140-Dưới</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6922966">Hiện tại, có một số máy mới trang bị bộ phận nạp gỗ cưỡng bức có thể băm gỗ có kích thước đường kính 1 m, thậm chí đến 8 m .</para>
+    <para id="id6922978">Để nghiền những phôi gỗ loại lớn, ván bìa, phế liệu ở các công trường đắn gỗ người ta thường sử dụng máy trục băm. Các máy này có năng suất đến 16m3 dăm trong một giờ.</para>
+    <para id="id6922992">Các máy nghiền có tác dụng va đập. Máy nghiền búa, máy xay, máy tán, máy li tâm, máy thùng quay, máy phun...thuộc loại máy nghiền có tác dụng va đập. Những máy nghiền nêu trên được sử dụng để sản xuất các chế phẩm enzim, kháng sinh động vật, các premik...</para>
+    <para id="id6923013">Máy nghiền búa được sử dụng để nghiền các chủng nấm mốc, các hạt chế phẩm kháng sinh, các chất bổ sung và những dạng vật liệu khác. Loại máy này có kết cấu đơn giản, làm nóng sản phẩm không đáng kể, hiệu quả kinh tế hơn các loại máy nghiền khác. Nhược điểm của máy nghiền búa là tạo bụi đáng kể trong quá trình hoạt động. Các bộ phận chính của máy nghiền búa bao gồm rôto có các búa, stato và các sàng kim loại.</para>
+    <para id="id6923037">Hình 4.5 mô tả máy nghiền búa có rôto quay một chiều.</para>
+    <para id="id6923044">Trong thời gian quay của rôto, dưới tác dụng của các búa được gá lắp theo hướng tâm, nguyên vật liệu từ phễu tiếp liệu rơi vào các búa bị phá huỷ thành những mảnh vụn. Khi va đập với tấm sắt các mảnh vụn lại nẩy lên và một lần nữa lại rơi vào búa. Vật liệu được nghiền qua lỗ sàng, còn những phôi lớn được giữ lại trên sàng và lại chuyển vào vùng nghiền. Mức độ nghiền của vật liệu phụ thuộc vào sự thay đổi kích thước lỗ sàng.</para>
+    <para id="id6923049">Quá trình nghiền vật liệu trong máy nghiền búa sẽ được thực hiện khi tốc độ biên tối thiểu của các búa được xác định:</para>
+    <para id="id6910343"/>
+    <para id="id6910379">trong đó: P - lực va đập cần thiết để phá huỷ ban đầu các mảnh vụn, N;</para>
+    <para id="id6910392"> - thời gian va đập :  =1105s;</para>
+    <para id="id6910422">m - khối lượng các mảnh vụn cho vào máy nghiền, kg.</para>
+    <para id="id5735669">Trong thực tế tốc độ góc thường lấy lớn hơn khoảng 1,5 đến 2 lần so với tốc độ tính toán vì có tính đến qúa trình nghiền tiếp theo sau khi nghiền ban đầu (nghiền thô).</para>
+    <para id="id5735682">Năng suất Q của máy nghiền có thể xác định với độ chính xác cao theo công thức:</para>
+    <para id="id5735690"/>
+    <para id="id5735725">trong đó: Q - năng suất, (m3/h);</para>
+    <para id="id5735741">k = 4  6 - hệ số thí nghiệm;</para>
+    <para id="id5735756">D - đường kính của rôto, m;</para>
+    <para id="id5735766">L - chiều dài của rôto, m;</para>
+    <para id="id6912061">n - số vòng quay của rôto, vòng/s; </para>
+    <para id="id6912071">i =10 15 - mức nghiền.</para>
+    <para id="id6912086">Công suất cho trục nghiền: </para>
+    <para id="id6912114"><figure id="id6912125"><media id="id7907095" alt=""><image src=".png" mime-type="image/png" height="366" width="401"/></media></figure>1312</para>
+    <para id="id6475367">Hình 4.5. Máy nghiền búa:</para>
+    <para id="id6475372">1- Vỏ; 2- Ổ bi; 3- Động cơ điện cho bộ phận nạp liệu; 4- Bộ nạp liệu; 5- Nam châm;6- Búa; 7- Chêm; 8- Đĩa; 9- Trục; 10- Khớp nối; 11- Động cơ; 12- Sàng; 13- Bệ máy</para>
+    <para id="id6475386">Chọn các máy nghiền. Việc chọn máy nghiền phụ thuộc vào đặc tính của vật liệu nghiền, vào yêu cầu sản phẩm nhận được và vào năng suất sản xuất. Như khi nghiền các chủng nuôi cấy trên bề mặt trên dây chuyền sản xuất enzim không cho phép ứng suất cơ học phá huỷ cấu trúc của enzim, không cho phép tăng nhiệt độ vật liệu. Độ đồng nhất và mức độ nghiền có ảnh hưởng lớn đến sự thu nhận enzim từ canh trường nấm mốc được nuôi cấy bằng phương pháp bề mặt. Khi trị số của các hạt đạt được từ 5  7 mm thì quá trình khuếch tán enzim sẽ là tối ưu. Giảm kích thước của các tiểu phần sẽ làm tăng sức cản thuỷ lực trong các thiết bị khuếch tán. Tăng kích thước các tiểu phần canh trường sẽ làm chậm tốc độ khuếch tán của enzim.</para>
+    <para id="id6475425">Khác với sản xuất enzim việc lựa chọn các máy nghiền trong sản xuất vi sinh chủ yếu phụ thuộc vào phương pháp và mức độ nghiền. Mức độ nghiền cần thiết có thể đạt được khi sử dụng các dạng máy nghiền khác nhau. Tốt nhất là chọn các máy có cơ cấu bảo đảm quá trình liên tục, tạo bụi ít nhất và bảo đảm làm sạch bột nghiền. </para>
+    <para id="id6475429">Bảng 4.3. Giới thiệu một số máy nghiền sản xuất vi sinh</para>
+    <table id="id5795055" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Đối tượng nghiền</entry>
+            <entry>Loại máy nghiền</entry>
+          </row>
+          <row>
+            <entry>- Phế liệu gỗ- Canh trường nấm mốc và cặn men- Cám, bã, bột, hạt viên, chế phẩm kháng sinh chăn nuôi, vitamin- Các cấu tử vô cơ dùng để sản xuất premik, các chất bổ sung chứa vitamin - protein</entry>
+            <entry>- Máy nghiền đĩa, máy nghiền vệ tinh, máy nghiền trục băm- Nghiền búa, nghiền vít, máy tán, nghiền trục, nghiền rung- Nghiền búa , nghiền vi lượng- Nghiền búa</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6440027">Máy và thiết bị phân loại hỗn hợp hạt</para>
+    <para id="id6440034">Các quá trình phân loại được sử dụng rộng rãi trong công nghiệp vi sinh để thu nhận các nguyên liệu, bán thành phẩm và thành phẩm đạt yêu cầu. Ví dụ như nghiền gỗ trong các máy nghiền đĩa hay trục băm, thực tế hầu như không đạt được các phôi gỗ có kích thước theo quy định. Trong hỗn hợp nghiền chứa đến 4% các phôi lớn làm khó khăn cho việc vận chuyển, định lượng và nạp nguyên liệu vào thiết bị thuỷ phân. Tạp chất lớn làm giảm mật độ tải và hiệu suất đường cho một đơn vị nguyên liệu. Việc ứng dụng các thiết bị thuỷ phân tác động liên tục có quy định nghiêm ngặt thành phần phân đoạn của nguyên liệu.</para>
+    <para id="id6440067">Phân chia các dạng nguyên liệu rời, các bán thành phẩm và thành phẩm ra thành những phần xác định và tách kim loại được thực hiện trong các máy và thiết bị phân loại. Các phương pháp phân loại bao gồm phân loại bằng cơ học, thuỷ lực, khí động học, điện từ....Các phương pháp cơ học và điện từ được sử dụng rộng rãi nhất trong sản xuất vi sinh.</para>
+    <para id="id6440082">Quá trình phân loại cơ học được thực hiện trên bề mặt sàng được gọi là sàng hay là tán, còn các máy và thiết bị - máy sàng hay máy phân loại. Bản chất của quá trình là ở chổ hỗn hợp các phần qua các lỗ nhất định của bộ phận làm việc chủ yếu trong máy rây - sàng. Nhờ kích thước sàng khác nhau mà có thể chia hỗn hợp ra thành một số hợp phần cần thiết. Khi lượng sàng trong máy là Z thì có thể nhận được Z+1 hợp phần.</para>
+    <para id="id6440109">Quá trình phân loại được đánh giá chủ yếu bằng năng suất - lượng nguyên liệu được đưa vào máy phân loại và hiệu suất của máy (%): </para>
+    <para id="id6440119"/>
+    <para id="id6119640">trong đó : m1 - khối lượng các hạt được phân loại (lọt sàng), kg;</para>
+    <para id="id6119657">m - khối lượng của hỗn hợp ban đầu, kg.</para>
+    <para id="id6119667">Đối với các máy phân loại kiểu rung, hiệu suất đạt gần 90 %, còn đối với các máy khác - 60  70 %.</para>
+    <para id="id6119679">Hình dạng, độ ẩm của các hạt, chiều dày lớp hỗn hợp hạt trên bề mặt sàng, độ đồng nhất của hỗn hợp hạt, góc nghiêng và biên độ dao động của sàng, kích thước và sự phân bố kích thước lỗ sàng đều ảnh hưởng đến hiệu suất hoạt động của máy phân loại. Các hạt tròn dễ sàng hơn so với các hạt có hình bầu dục. </para>
+    <para id="id6119694">Hiệu suất sàng sẽ giảm khi tăng độ ẩm nguyên liệu cũng như bề dày của nguyên liệu rất lớn hoặc rất nhỏ. Biên độ dao động của sàng cần phải phù hợp để phân chia nhanh các hạt khi sàng rung.</para>
+    <para id="id6119707">Sàng và sàng đột lỗ. Rây, sàng đột lỗ và ghi đều là bề mặt sàng trong máy phân loại. </para>
+    <para id="id6119720">Sàng được dùng để phân loại hỗn hợp nghiền gồm các loại sàng luới và sàng vải với lỗ sàng hình vuông, hình bầu dục. Sàng được sản xuất từ các loại dây kim loại, sợi kaprông, sợi tơ và những vật liệu khác.</para>
+    <para id="id6119724">Trên hình 4.6a,b mô tả các loại sàng dây khác nhau có các lỗ hình vuông và hình chữ nhật. Kích thước của các sàng dây được tiêu chuẩn hoá. </para>
+    <para id="id6125514">Sàng có số ký hiệu tương ứng với kích thước (mm) quy định của mỗi cạnh lỗ sàng.</para>
+    <para id="id6125522">Tiết diện làm việc (%) của sàng dây có lỗ hình vuông được tính theo công thức:</para>
+    <para id="id6125530"/>
+    <para id="id6125556">trong đó: a - kích thước cạnh lỗ sàng, mm;</para>
+    <para id="id6125566">d - đường kính của sợi, mm.</para>
+    <para id="id6125576">Các sàng dây có ưu điểm đáng kể là tiết diện làm việc lớn, đạt 70 %. Nhược điểm là bị bào mòn nhanh và các sợi có khả năng chuyển dịch.</para>
+    <para id="id6125587"><figure id="id6125597"><media id="id8136191" alt=""><image src=".png" mime-type="image/png" height="219" width="537"/></media></figure>b)c)a)</para>
+    <para id="id6477415">Hình 4.6. Các dạng sàng dây (a,b) và sàng đột lỗ (c)Sàng đột lỗ được chế tạo bằng những tấm kim loại theo phương pháp dập lỗ trên các máy ép đột lỗ. Các lỗ sàng có thể có những hình dạng khác nhau (hình 4.6 c). Sàng có lỗ hình tròn sẽ đạt hiệu quả hơn trong quá trình sàng.</para>
+    <para id="id6828108">Lỗ sàng được mở rộng phía dưới có độ côn gần 70 nhằm ngăn mgừa hỗn hợp của các tiểu phần làm bít lỗ.</para>
+    <para id="id6828122">Chiều dày  của tấm kim loại để dập lỗ tròn có đường kính d là: 0,75 d khi d &lt; 0,5 mm; 0,7 d khi d = 0,5 10 mm và 0,6 d khi d &gt;10 mm.</para>
+    <para id="id6828181">Tiết diện hoạt động của sàng đột lỗ thường  50 % và được tính theo công thức :</para>
+    <para id="id6828194"/>
+    <para id="id6491277">trong đó: F0 - diện tích các lỗ sàng, mm2;</para>
+    <para id="id6491298">F - diện tích sàng, mm2.</para>
+    <para id="id6491313">Sàng đột lỗ có nhược điểm là tiết diện hoạt động nhỏ và bị bào mòn nhanh khi lỗ sàng nhỏ do bề dày tấm kim loại mỏng.</para>
+    <para id="id6491323">Máy phân loại bằng phương pháp cơ học. Hiện nay các loại máy sàng bằng phương pháp cơ học đã được sản xuất với một số lượng lớn, có kích thước khác nhau. Người ta chia chúng thành hai nhóm: nhóm máy sàng mặt phẳng và nhóm máy sàng hình trụ.</para>
+    <para id="id6491343">Ở máy sàng phân loại mặt phẳng nhờ có cơ cấu dẫn động mà các sàng có chuyển động rung (song phẳng hoặc tròn). Các cơ cấu bánh răng tạo ra các chuyển động quay xung quanh trục. Các chuyển động đó làm cho hỗn hợp chuyển động theo bề mặt sàng và được sàng.</para>
+    <para id="id6491360">Hình 4.7 mô tả máy phân loại dạng тЮ-120, bộ phận hoạt động chính của máy là sàng đục lỗ, nó được lắp nghiêng cố định trong hộp so với mặt phẳng nằm ngang một góc là 20. Dưới đáy hộp có một trục lệch tâm, khi trục lệch tâm quay sẽ làm cho hộp và sàng chuyển động dao động.</para>
+    <figure id="id6491392">
+      <media id="id1169841062523" alt=""><image src="../../media/graphics1-236e.png" mime-type="image/png" height="169" width="450"/></media>
+    </figure>
+    <para id="id6120503">Hình 4.7. Máy phân loại có sàng lắc dạng mặt phẳng CЮ-120:</para>
+    <para id="id6120522">1- Đế máy; 2- Giá lắc phía sau; 3- Hộp; 4- Sàng trên; 5- Puli lớn; 6- Sàng dưới; 7- Thanh truyền; 8,13- Cửa khoang; 9- Gía lắc phía trước; 10- Máng;11- Puli nhỏ;12- Động cơ điện; 14- Trục dẫn động; 15- Cam; 16- Đầu thanh truyền</para>
+    <para id="id6120541">Nguyên tắc làm việc của máy như sau: các phôi bào có kích thước chưa đúng quy định được đưa vào túi nhận và do chuyển động dao động của sàng, các phôi bào chuyển động dọc theo bề mặt của nó. Phôi có kích thước đúng quy định lọt qua sàng trên và rơi xuống sàng dưới, sau đó được chuyển vào kho nguyên liệu và vào phân xưởng thuỷ phân. Các mẫu gỗ không lọt được qua sàng đầu tiên sẽ được tiếp tục nghiền lại. Để thu nhận các phôi gỗ có kích thước đúng quy định, người ta thường sử dụng các loại máy có nhãn hiệu CЮM - 60, CЮ - 120, CЮ - 500 và năng suất của chúng đạt được tương ứng 60, 120 và 500 m3/h.</para>
+    <para id="id6120597">Máy phân ly từ tính. Các tạp chất kim loại thường chứa trong các nguyên liệu dạng rời, trong bán thành phẩm và thành phẩm. Tạp chất kim loại chủ yếu là thép và gang có tính chất sắt từ.</para>
+    <para id="id6828237">Các tạp chất kim loại trước hết có thể gây ra sứt mẻ thiết bị, tạo ra tia sáng khi va đập với phần kim loại của thiết bị, khi đó các hỗn hợp rời phân tán mịn có thể nổ. Cho nên không cho phép có tạp chất kim loại trong sản phẩm. Vì vậy trong các giai đoạn sản xuất cần chú ý tách chúng ra bằng các máy phân ly từ tính.</para>
+    <para id="id6828251">Nguyên tắc hoạt động của các loại máy phân ly là dựa vào lực hút tạp chất kim loại của các nam châm có từ tính, sau đó tách chúng ra khỏi nam châm bằng những phương pháp khác nhau.</para>
+    <para id="id6828264">Sử dụng nam châm vĩnh cửu hoặc nam châm điện để tạo nên trường từ tính trong máy. Cực bắc và cực nam của nam châm có lượng từ tính như nhau, tỷ lệ với khối lượng nam châm. Lực của từ trường là lực tác động tới một đơn vị cực tại một điểm nào đó của trường từ.</para>
+    <para id="id6828278">Trường từ tính có hai loại: loại trường đồng nhất và loại trường không đồng nhất. Do hình dạng và sự phân bố́ của các cực nam châm mà trong không gian làm việc của máy phân ly tạo ra những từ tính không thống nhất. Lực hút của nam châm (N) được xác định theo công thức: ; trong đó: B - cường độ cảm ứng từ, N; S - diện tích tiết diện của cực nam châm, m2.</para>
+    <para id="id6828337">Các cột nam châm loạị ВIмМ - 2 - 3 (hình 4.8 a) có khung gỗ hay nhôm 1 và các khối nam châm 3, chúng có thể quay xung quanh trục một góc 900 nhờ tang quay 2. Loại cột BKM - 3 - 7 (hình 4.8 b) các nam châm 1 được đẩy tới hay rút ra theo một hướng khi tiến hành làm sạch hay thay thế.</para>
+    <para id="id6120897"><figure id="id6120908"><media id="id5298909" alt=""><image src=".png" mime-type="image/png" height="438" width="450"/></media></figure>b)a)</para>
+    <para id="id6120997">Kích thước các thỏi nam châm</para>
+    <para id="id6467074">Hình 4. 8. Các cột nam châm:</para>
+    <para id="id6467080">a- ВIмМ-2-3:1- khung; 2- Tay quay;3- Khối nam châm; 4- Lỗ thoát; 5- Cửa quan sát; 6- Vít điều chỉnh; 7- Tấm hướng; b- ВIмМ-3-7: 1- Bộ nam châm; 2- Hộp</para>
+    <para id="id6467091">Bảng 4.4. Đặc tính kỹ thuật của các cột nam châm</para>
+    <table id="id6467108" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <tbody>
+          <row>
+            <entry>Tên gọi</entry>
+            <entry>ВKM2-1,5</entry>
+            <entry>ВKM2-3</entry>
+            <entry>ВKM2-5</entry>
+            <entry>ВKM2-7,5</entry>
+            <entry>ВKM3-7</entry>
+            <entry>ВKM4-5</entry>
+            <entry>ВKM2-3</entry>
+          </row>
+          <row>
+            <entry>Số nam châm, cáiChiều dài của đường từ tính, mmSố đường từ tính</entry>
+            <entry>121502</entry>
+            <entry>243002</entry>
+            <entry>405002</entry>
+            <entry>607502</entry>
+            <entry>847003</entry>
+            <entry>805004</entry>
+            <entry>243002</entry>
+          </row>
+          <row>
+            <entry>Vật liệu nam châm</entry>
+            <entry namest="c2" nameend="c8">Hợp kim manico (3Cu, 8Al, 14Ni, 24Co, 51Fe)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5937332">Tang điện từ cố định là bộ phận chính của máy phân ly điện từ loại tang quay và loại băng tải có hệ từ tính cố định. Đoạn ống 2 làm từ vật liệu mỏng không có từ tính được quay quanh tang điện từ cố định (hình 4.9, bảng 4.5).</para>
+    <para id="id5937346">Bảng 4.5. Đặc tính kỹ thuật của máy phân ly điện tử</para>
+    <table id="id5937353" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Tên gọi</entry>
+            <entry>Г1-ФЭт</entry>
+            <entry>ФIт1-т</entry>
+          </row>
+          <row>
+            <entry>Năng suất hạt, tấn/hKích thước tang, mm:đường kínhbề dày làm việcSố vòng quay của tang, độ/sCông suất thiết kế, kW</entry>
+            <entry>20400510180 hay 901,0</entry>
+            <entry>125004151,22,2</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6904965">Đối với máy phân ly điện từ có tang quay, sản phẩm từ phễu nhận 3 đưa vào trục nạp liệu 4 để đảm bảo tải đều sản phẩm đến đoạn ống quay. Trong máy phân ly có băng tải, sản phẩm từ phễu nhận 3 cho vào băng tải chuyển động, khi các tạp chất kim loại rơi vào trường từ thì bị giữ lại trên bề mặt của đoạn ống quay, cho đến khi nào dưới tác dụng của trọng lực vẫn không bị rơi vào thùng 6. Dùng chổi để lấy các tiểu phần nhỏ ra khỏi tang quay hay ra khỏi băng tải.</para>
+    <para id="id6904990">Sản phẩm được làm sạch hết kim loại thì cho ra khỏi máy qua rãnh thoát 7. Để làm sạch có kết quả hơn thì hệ điện từ của máy phải là hệ nhiều cực, bố trí theo thứ tự dọc đường chuyển dịch của sản phẩm. Động cơ 9 làm quay các đoạn ống của máy.</para>
+    <para id="id5736953"><figure id="id5736963"><media id="id1169835027503" alt=""><image src=".png" mime-type="image/png" height="408" width="598"/></media></figure>Hình 4.9: Máy phân ly điện từ. a- Dạng tang quay; b- Dạng băng tải:1- Tang điện từ; 2- Đoạn ống; 3- Phễu nhận; 4- Trục nạp liệu; 5- Băng tải vận chuyển; 6- Thùng thu nhận; 7- Rãnh thoát; 8- Chổi; 9- Động cơ.a)b)</para>
+    <para id="id6102284">THÙNG CHỨA</para>
+    <para id="id6102289">Để bảo quản ngắn hạn các vật liệu rời và đảm bảo hoạt động nhịp nhàng của thiết bị thường người ta bố trí các thùng chứa ở đầu và cuối băng tải, dưới xyclon của các thiết bị sấy và thiết bị vận chuyển thủy lực, trước và sau các máy nghiền, trước và sau các máy phân loại. Thùng chứa được sử dụng rộng rãi cùng với các bộ phận nạp liệu, các bộ phận định lượng trong tất cả các công đoạn sản xuất các sản phẩm tổng hợp sinh học. Thùng chứa có các dạng trụ, chóp, cầu (hình 4.10 a, h). Phụ thuộc vào hình dáng của thùng chứa mà việc chuyển nguyên liệu có dạng cột chảy bình thường (hình 4.10 e), dạng thuỷ lực khi tất cả khối nguyên liệu cùng chuyển (hình 4.10 g) và dạng hổn hợp (hình 4.10 h).</para>
+    <para id="id6102314">Khi chuyển bình thường thì tốc độ chuyển động của nguyên liệu (m/s) được xác định theo công thức:</para>
+    <para id="id6102323"/>
+    <para id="id6102360">trong đó: Ku- hệ số chuyển (đối với vật liệu ẩm dạng bụi Ku = 0,221, dạng hạt Ku = 0,6 và dạng cục Ku = 0,4);</para>
+    <para id="id6120623">R - bán kính thuỷ lực của lỗ (được xác định bằng tỷ số giữa diện tích của lỗ / chu vi), m.</para>
+    <para id="id6120638">Khi chuyển dịch dạng thuỷ lực thì tốc độ chuyển động của vật liệu (m/s) được xác định theo công thức :</para>
+    <para id="id6120648"/>
+    <para id="id6120681">trong đó: h - chiều cao của vật liệu trong thùng chứa, m.</para>
+    <para id="id6120694">Tiêu hao nguyên liệu từ thùng chứa (m3/h):</para>
+    <para id="id6120705"/>
+    <para id="id6120731">trong đó: F - diện tích lỗ thoát (đối với bột và hạt nhỏ mịn thường lấy  0,09 m2). </para>
+    <para id="id6777025">Để ngăn ngừa sự treo liệu và tạo tự do cốt liệu, trong thùng chứa thường trang bị thêm bộ làm tơi hay bộ rung. Để điều chỉnh việc cấp liệu cho thùng chứa thường dùng cửa van với các dạng tấm chắn, quạt chắn, van chắn...</para>
+    <para id="id6777040"><figure id="id6777050"><media id="id1169846278722" alt=""><image src=".png" mime-type="image/png" height="249" width="516"/></media></figure>Hình 4.10. Các loại thùng chứah)a)g)b)c)d)e)</para>
+    <para id="id5962886">CÁC BỘ ĐỊNH LƯỢNG MÔI TRƯỜNG THỂ HẠT VÀ THỂ LỎNG</para>
+    <para id="id5962893">Các bộ định lượng để tải đều nguyên liệu vào thiết bị, đồng thời cũng được sử dụng ở các công đoạn sản xuất cuối cùng. Trong trường hợp đầu chúng được gọi là bộ nạp liệu. Trong sản xuất vi sinh, các bộ định lượng môi trường dạng hạt có nguyên tắc tác động khác nhau: tác động gián đoạn (định lượng theo thể tích, định lượng theo trọng lượng) và tác động liên tục.</para>
+    <para id="id5962907">Bộ định lượng theo thể tích</para>
+    <para id="id5962913">Để định lượng liên tục theo thể tích của muối, bột, cám, bã, bán thành phẩm và thành phẩm của công nghiệp vi sinh thường người ta sử dụng các bộ định lượng theo thể tích có các dạng sau: vít tải, âu, rung, vít rung điều khiển bằng phương pháp thủ công, bằng điện hay bằng khí động học.</para>
+    <para id="id5962917">Năng suất của các bộ định lượng được điều chỉnh bằng cơ cấu điều hành của bộ dẫn động bằng điện hay bằng khí động học.</para>
+    <para id="id5792438">Bộ nạp liệu dạng âu. Được sử dụng để tải các vật liệu dạng hạt hay dạng bột có mật độ xếp đến 1,8 g/cm3, kích thước hạt đến 10 mm và nhiệt độ đến 1000C.</para>
+    <para id="id5792465">Bộ nạp liệu gồm rôto lắp cố định trên trục và cơ cấu dẫn động. Các cơ cấu dẫn động gồm ổ chìa, bộ truyền động trục vít và cơ cấu bánh cóc (hình 4.11).</para>
+    <para id="id5792477"><figure id="id5792480"><media id="id1169839636201" alt=""><image src="../../media/graphics2-6d35.png" mime-type="image/png" height="506" width="517"/></media></figure>.</para>
+    <para id="id5792554">Hình 4.11. Bộ nạp liệu kiểu âu:1,4 - Các nắp biên; 2- Vỏ; 3- Rôto; 5- Trục; 6- Cơ cấu bánh cóc; 7- Chốt; 8- Cam; 9- Trục vít; 10- Vô lăng; 11- Đai ốc; 12- Trục vít</para>
+    <para id="id5794911">Bộ nạp liệu được bọc trong vỏ và có các khớp nối ống nạp liệu và thải liệu.</para>
+    <para id="id5794919">Điều chỉnh năng suất của bộ nạp liệu (dạng âu có cơ cấu điều khiển khí động) được dẫn động bằng màng khí nén, còn trong các bộ nạp liệu có các cơ cấu điều khiển bằng điện thì việc điều chỉnh năng suất nhờ cơ cấu chấp hành bằng điện.</para>
+    <para id="id5794936">Năng suất của bộ nạp liệu phụ thuộc vào loại kích thước và dao động trong khoảng: 0,14 1,3; 0,7  3,6; 1,5 14,2; 5  56 m3/h với số vòng quay của rôto 0,03  0,31 và 0,035  0,33 vòng /s.</para>
+    <para id="id5794990">Bộ định lượng kiểu vít tải. Dùng để tải nguyên liệu hạt - bột có kích thước hạt đến 5 mm, độ ẩm đến 1,5 % và mật độ xếp đến 1,9 kg/ cm3. Bộ định lượng kiểu vít được sử dụng thực chất là những cơ cấu tải liệu trong ống nằm ngang của đường dẫn nguyên liệu và có thể điều khiển bằng thủ công hay bằng điện.</para>
+    <para id="id5795019"><figure id="id5795022"><media id="id1169845133377" alt=""><image src="../../media/graphics3-d5be.png" mime-type="image/png" height="245" width="503"/></media></figure>Vỏ hình trụ của bộ nạp liệu được lắp chặt vào các ống khớp nối tải liệu và tháo liệu (hình 4.12). Bên trong vỏ có vít tải xoắn vận chuyển. Các mặt nút của vỏ được lắp kín bởi các nắp và các cơ cấu bịt kín.</para>
+    <para id="id5735814">Nạp liệuThải liệu</para>
+    <para id="id5735887">Hình 4.12: Bộ định lượng kiểu vít tải dạng B-1:</para>
+    <para id="id5735894">1- Bộ truyền động trục vít; 2- Bộ biến tốc; 3- Động cơ;4- Vỏ hình trụ; 5- Vít vận chuyển</para>
+    <para id="id5735902">Năng suất của bộ nạp liệu phụ thuộc vào đường kính của vít tải, vào số vòng quay. Điều chỉnh bộ biến tốc có thể bằng thủ công, từ xa hay tự động. Năng suất (m3/h): 0,06  0,37; 0,13  0,76 ; 0,61  3,65; 2,4  14,3; 7  42.</para>
+    <para id="id6776064">Để tải vật liệu bột có độ rời kém, mật độ xếp đến 8,8 kg/ cm3 và nhiệt độ đến 600C thường sử dụng bộ nạp liệu kiểu rung dạng vít (B-2).</para>
+    <para id="id6776085">Bộ định lượng dạng đĩa. Loại này dùng để tải các vật liệu hạt, bột dạng rời có kích thước đạt đến 5 mm và mật độ xếp đến 1,8 kg/cm3, được sử dụng trong các quá trình công nghệ liên tục để nạp liệu cho các thiết bị, cho các máy trộn, máy nghiền...đồng thời cũng là loại máy dỡ tải cho các thùng chứa cố định. Bộ định lượng dạng đĩa được điều khiển bằng khí nén hay bằng phương pháp thủ công.</para>
+    <para id="id6776122">Bộ định lượng gồm vỏ kín, các đĩa, ống lồng và tấm nạp liệu (hình 4.13). Dẫn động của đĩa là tự động qua hộp biến tốc và bộ truyền động trục vít.</para>
+    <para id="id6776134">Năng suất của bộ định lượng được điều chỉnh khi chuyển đứng ống lồng nhờ hộp biến tốc hay bằng biến đổi tốc độ góc quay của đĩa. Trong các bộ định lượng được điều khiển bằng khí động học, ống lồng được di chuyển nhờ sự dẫn khí nén, bằng màng mỏng, còn khi điều khiển bằng điện - nhờ cơ cấu thừa hành.</para>
+    <figure id="id6776151">
+      <media id="id3945645" alt=""><image src="../../media/graphics4-0f5f.png" mime-type="image/png" height="315" width="486"/></media>
+    </figure>
+    <para id="id5757365">Hình 4.13. Bộ định lượng dạng đĩa:</para>
+    <para id="id5757371">1- Đĩa; 2- Tang quay; 3- Tấm nạo liệu; 4- Ống lồng; 5- Vỏ; 6- Cơ cấu đòn vít tải; 7- Tang quay; 8- Động cơ; 9- Bộ truyền động trục vít</para>
+    <para id="id5757381">Bộ định lượng kiểu rung. Bộ định lượng kiểu rung được ứng dụng để tải các vật liệu có độ tơi kém, có góc nghiêng tự nhiên lớn hơn 400, nhiệt độ đến 700C.</para>
+    <para id="id5757408">Bộ nạp liệu gồm có buồng chứa và đáy rung. Đáy rung được lắp cố định trên giàn treo có bộ giảm xóc. Ống nạp liệu và đáy rung được nối lại bằng ống caosu dẻo. Máy rung được lắp trên mặt bích chịu lực của đáy rung. Động cơ làm quay trục máy rung.</para>
+    <para id="id5757423">Năng suất của bộ nạp lệu phụ thuộc vào sự điều khiển máy rung và phụ thuộc vào kích thước của thiết bị, từ 21 đến 36 m3, khi công suất của máy rung 0,6 kW.</para>
+    <para id="id5757440">Cân định lượng</para>
+    <para id="id5757445">Cân định lượng gồm hai nhóm: định lượng gián đoạn (theo mẻ), được định lượng chủ yếu ở công đoạn cuối cùng và định lượng liên tục. </para>
+    <para id="id5757456">Cân định lượng có thể điều chỉnh thủ công, bán tự động và tự động.</para>
+    <para id="id5757464">Cân định lượng gián đoạn. Cân định lượng BAФ-1-342 dùng để định lượng bột có mật độ xếp 0,2  0,8 g/cm3. Loại cân liền bốn cấu tử được trang bị bốn bộ định lượng kiểu rung, đồng hồ đo, các cảm biến xenxin để nhận tín hiệu từ xa. Điều khiển cân bằng điện - khí nén.</para>
+    <para id="id5757502">Việc xác định khối lượng cho một mẻ được thực hiện từ trạm điều khiển.</para>
+    <para id="id5757510">Cân định lượng tự động cho các vật liệu hạt rời BA-3Bn; BA-3-Тa dùng để cân các vật liệu hạt rời có mật độ xếp 0,2  0,8 g/cm3.</para>
+    <para id="id6922657">Trước tiên nạp liệu thô, sau đó nạp liệu tinh nhờ bộ nạp liệu bằng điện từ.</para>
+    <para id="id6922666">Để định lượng các chế phẩm đặc biệt có thể dùng cân tự động.</para>
+    <para id="id6922672">Các cân đòn tự động được trang bị bộ nạp liệu, phễu chứa có đáy mở và máy đếm cơ học. Cân có thể hoạt động trong một tổ hợp thống nhất với máy gói chế phẩm.</para>
+    <para id="id6922684">Trong sản xuất premik và tiêu chuẩn hoá các chế phẩm ứng dụng định lượng theo trọng lượng (cân định lượng) và định lượng theo thể tích. Cân định lượng dạng ФK được sử dụng rộng rãi nhất. Nhờ các cân này mà các cấu tử premik có thể định lượng với độ chính xác đến 0,1 %.</para>
+    <para id="id6922707">Để định lượng môi trường nhiều cấu tử đáng lẽ phải có nhiều bộ định lượng cho nhiều cấu tử, nhưng có thể sử dụng các bộ định lượng cho sản phẩm liên tục vào một gàu cân. Trên gàu cân có các phễu nạp liệu, số phễu bằng số cấu tử. Định lượng thứ tự theo từng cấu tử với phễu nạp liệu cho cấu tử đó.</para>
+    <para id="id6922727">Nhờ các bộ định lượng ФK mà có thể định lượng sản phẩm trong giới hạn rộng (bảng 4.6).</para>
+    <para id="id6922736">Cân định lượng liên tục. Các bộ nạp liệu và các bộ định lượng theo thể tích - dạng đĩa, tang quay, vít xoắn... không đảm bảo độ chính xác yêu cầu và tính đều đặn của dòng nguyên liệu, cân định lượng liên tục có nhiều ưu điểm hơn, khắc phục được các nhược điểm của các loại cân đã được nêu ở trên.</para>
+    <para id="id6922756">Bảng 4.6. Đặc tính kỹ thuật của các cân định lượng gián đoạn</para>
+    <table id="id6922763" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Các chỉ số</entry>
+            <entry>ФIм-2</entry>
+            <entry>ФIм-10</entry>
+            <entry>ФIм-20</entry>
+          </row>
+          <row>
+            <entry>Khối lượng mẻ, kgThời gian của chu kỳ cân, sSức chứa của gàu, m3Công suất dẫn động, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+            <entry>0,32,5600,0141,514556451110400</entry>
+            <entry>110600,0341,514556451110385</entry>
+            <entry>520600,11,014508401400330</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6475539">Tiếp theo bảng 4.6</para>
+    <table id="id6475544" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Các chỉ số</entry>
+            <entry>ФIм-40</entry>
+            <entry>ФIм-70</entry>
+            <entry>ФIм-100</entry>
+          </row>
+          <row>
+            <entry>Khối lượng mẻ, kgThời gian của chu kỳ cân, sSức chứa của gàu, m3Công suất dẫn động, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+            <entry>2040600,1281,014508401565335</entry>
+            <entry>4070600,261,0176010751590545</entry>
+            <entry>70100600,351,017601075193560</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5949760">Loại này bao gồm các bộ định lượng băng tải. Bộ định lượng băng tải gồm đĩa nhận, băng tải, cơ cấu tay đòn có con lăn nhận vật liệu nằm ở dưới phần cân của băng tải</para>
+    <para id="id5949772">Năng suất của bộ định lượng được thiết kế theo tải trọng trên băng và theo tốc độ chuyển động của băng tải. Nguyên liêụ từ phễu nhận cho vào băng tải của bộ định lượng. Phần băng tải từ trục con lăn đỡ cuối cùng đến trục của tang bị động là sàng cân của định lượng. Khối lượng của băng cùng với khối lượng vật liệu nằm trên băng tải tác động tới con lăn , còn cánh tay đòn khác (kéo căng) được nối với đòn cân có quả cân di động. Năng suất được xác định theo quả cân này. Đòn cân có liên quan đến điều tiết tự động hạ xuống, nâng lên. Điều tiết làm giảm hoặc tăng cửa thoát của phễu nhận tương ứng khi biến đổi nạp liệu. </para>
+    <para id="id5949811">Bộ định lượng môi trường lỏng</para>
+    <para id="id5949817">Để định lượng theo thể tích với lượng điều chỉnh chính xác các dung dịch trung hoà, các dung dịch có tính ăn mòn thường người ta sử dụng bơm định lượng. Các bơm định lượng được nối với nhau bằng trục dẫn động chung, tạo ra tổ hợp định lượng để định lượng đồng thời một số cấu tử khác nhau</para>
+    <para id="id5949821">Trong các quá trình công nghệ đòi hỏi phải điều chỉnh và giữ tỷ lệ nạp liệu đồng thời một số cấu tử khác nhau thường sử dụng các tổ hợp định hướng. Trong kết cấu có cơ cấu điều chỉnh và 7 xilanh thuỷ lực. Trên cơ sở số xilanh, ta thiết kế dãy bơm định lượng và các tổ hợp cần thiết. Cấp liệu trong bơm và trong tổ hợp được điều chỉnh bằng sự thay đổi chiều dài hành trình làm việc của pitton.</para>
+    <para id="id5949825">Cơ cấu điều chỉnh cho phép thay đổi năng suất khi động cơ làm việc hay dừng.</para>
+    <para id="id6910455">Nhiệt độ của chất lỏng định lượng cho phép đến 800C khi có vòng đệm bằng caosu và khi có vòng đệm bằng chất dẻo chứa flo đến 2000C, độ nhớt động học của các môi trường được bơm từ 106 đến 0,1 Pas. Cấp liệu định mức:10,16, 25, 40, 63, 100, 160, 400, 630, 1000, 1600 và 2500 l/h.</para>
+    <para id="id6910502">NỒI PHẢN ỨNG</para>
+    <para id="id6910508">Nồi phản ứng bằng thép hay bằng gang tráng men dùng để tiến hành các quá trình hoá - lý khác nhau.</para>
+    <para id="id6910516">Nồi phản ứng - máy trộn là một thiết bị dạng xilanh đứng có thể tích từ 0,1  100 m3 hoặc hơn, có áo hơi (hình 4.14).</para>
+    <para id="id6910537">Bên trong thiết bị có cơ cấu đảo trộn dạng tuabin hở.</para>
+    <para id="id6910544">Khi sử dụng các thiết bị có áo hơi dạng bán ống thì áp suất làm việc cho phép đến 1,6 MPa, còn trong áo hàn phẳng không nhỏ hơn 0,4 MPa. Nước máy hay nước tuần hoàn, nước muối, hơi nước bảo hoà hay chất tải nhiệt hữu cơ có nhiệt độ cao có thể cho vào áo hay vào ruột xoắn.</para>
+    <para id="id6910558">Nồi phản ứng - máy trộn có thể tháo rời hay hàn cố định với các bộ phận đáy elip và nắp. Trên thiết bị có các khớp nối để nạp các chất tải nhiệt, chảy tràn sản phẩm, để nối ống quá áp, nối khớp đầu ống nguyên liệu, khảo sát chất liệu, các khớp nối để nạp và thải chất tải nhiệt và sản phẩm, van an toàn, nhiệt kế. Sau khi nạp vào thiết bị một lượng nước nhất định, tiến hành chất liệu các cấu tử dạng hạt bằng băng tải.Tiến hành đun nóng môi trường đến một nhiệt độ đã cho bằng phương tiện điều chỉnh tự động.</para>
+    <figure id="id6910592">
+      <media id="id1169842048821" alt=""><image src="../../media/graphics5-5d47.png" mime-type="image/png" height="371" width="196"/></media>
+    </figure>
+    <para id="id6466740">Hình 4.14. Nồi phản ứng dạng đứng:</para>
+    <para id="id6466746">1- Ống nối để nạp chất tải nhiệt;</para>
+    <para id="id6466752">2- Ống chảy tràng sản phẩm;</para>
+    <para id="id6466757">3- Ống quá áp;</para>
+    <para id="id6466762">4- Đầu nối ống nạp nguyên liệu;</para>
+    <para id="id6466768">5- Cửa quan sát;</para>
+    <para id="id6466773">6- Cửa thoát chất tải nhiệt;</para>
+    <para id="id6466779">7- Cửa vào của chất tải nhiệt;</para>
+    <para id="id6466784">8- Cửa ra của sản phẩm;</para>
+    <para id="id6466790">9- Cửa thoát chất tải nhiệt.</para>
+    <para id="id6466801">Tần số trộn của máy khuấy 0,2  0,33 vòng/s, phụ thuộc vào dạng cơ cấu trộn và các tính chất của các cấu tử đem trộn.</para>
+    <para id="id6466819">Khi thiết kế máy trộn dạng tuabin, số vòng quay - 3  3,3 vòng/s, dạng khung - 0,33  1 vòng /s.</para>
+    <para id="id6466839">Dẫn động máy trộn được thực hiện nhờ động cơ điện qua hộp giảm tốc.</para>
+    <para id="id6466847">Thiết bị có các đệm nắp bít đối với môi trường không độc, không nổ, làm việc ở áp suất khí quyển, có các đệm mặt mút dạng TФM làm việc ở áp suất dư 0,6 MPa hay trong chân không đến 40 kPa đối với môi trường độc hại, dễ cháy và dễ nổ.</para>
+    <para id="id6466868">THIẾT BỊ ĐUN NÓNG BẰNG ĐIỆN LOẠI CHỐNG NỔ</para>
+    <para id="id6466875">Thuộc loại này gồm nồi phản ứng, nồi hấp có bộ phận đun nóng bằng điện chống nổ. Chúng được sử dụng trong công nghiệp vi sinh để tiến hành các quá trình công nghệ khác nhau trong các môi trường chất lỏng một pha, nhiều pha dễ nổ cũng như trong các phòng có tính nguy hiểm cao.</para>
+    <para id="id6466890">Môi trường làm việc trong vỏ thiết bị là chất lỏng có tính ăn mòn thiết bị, dễ cháy, dễ nổ hay độc, là nhũ tương, hỗn hợp khí lỏng hay là huyền phù có nồng độ pha rắn nhỏ hơn 30 %.</para>
+    <para id="id6742005">Các nồi phản ứng có sức chứa từ 25 đến 630 lít và các nồi hấp có sức chứa từ 10 đến 250 lít làm việc dưới áp suất 0,6 và 10 MPa tương ứng.Việc chống nổ của các cơ cấu bằng điện của nồi phản ứng và nồi hấp bằng cách thổi không khí sạch hay khí trơ với áp suất dư từ 0,02 đến 0,05 MPa vào khoảng giữa vỏ và tường thiết bị.</para>
+    <para id="id6742019">Khi giảm áp suất dư trong vỏ nhỏ hơn 0,01 MPa sẽ xảy ra tắt tự động các phần tử đun nóng bằng điện. Các thiết bị có gắn các bộ phận đóng tự động để ngắt nguồn điện khi nhiệt độ của môi trường trong thiết bị cao hơn nhiệt độ quy định theo quy trình công nghệ nhưng không cao hơn 2000C đối với nồi phản ứng và 2500C đối với nồi hấp.</para>
+    <para id="id6742047">Vỏ thiết bị được chế tạo bằng các loại thép không gỉ chứa hợp kim cao niken 12X18H10T và 10X17H13M2T.</para>
+    <para id="id6742056">Các nồi phản ứng có các cơ cấu đảo trộn dạng xoắn ốc hay kiểu neo với đệm kép cho trục, cho phép hoạt động khi hạ áp đến 2666 Pa.</para>
+    <para id="id6742067">Thiết bị có ống quá áp; có các khớp nối để tháo ở dưới, để nạp các cấu tử chính, để nạp và tháo chất lỏng đã được làm nguội, để gắn các nhiệt kế, nhiệt ngẫu, van bảo hiểm; có các cửa nạp và khảo sát, cửa nạp khí trơ.</para>
+  </content>
+</document>

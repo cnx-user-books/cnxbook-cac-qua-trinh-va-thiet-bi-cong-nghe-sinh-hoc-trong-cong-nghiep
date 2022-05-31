@@ -1,0 +1,1012 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các sơ đồ thiết bị - dụng cụ sản xuất</title>
+  <metadata>
+  <md:content-id>m29890</md:content-id><md:title>Các sơ đồ thiết bị - dụng cụ sản xuất</md:title>
+  <md:abstract>¬Các sơ đồ công nghệ để sản xuất bằng phương pháp vi sinh gồm một số lớn công đoạn. Có thể chia ra những công đoạn quan trọng, tại đó xảy ra sự biến đổi nguyên liệu hay là sự biến đổi các sản phẩm trung gian. Toàn bộ các thiết bị, dụng cụ được ứng dụng để thực hiện các công đoạn cơ bản và các công đoạn phụ được gọi là sơ đồ thiết bị - dụng cụ.
+Sau đây chúng ta sẽ khảo sát cụ thể công nghệ sản xuất axit xitric để làm rõ vấn đề trên.</md:abstract>
+  <md:uuid>bbc6ef69-2951-460c-98a6-776f35e76b2b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6117259">Nội dung:</para>
+    <section id="id-183021154123">
+      <title>SẢN XUẤT AXIT XITRIC</title>
+      <para id="id6117271">Axit xitric là một axit hữu cơ rất phổ biến trong thực vật. Nó có nhiều trong nước chanh (6 %), nước lựu (9 %), trong quả cam, quýt, dứa, dâu tây,... axit xitric được dùng nhiều trong thực phẩm làm nước giải khát, bánh kẹo, đồ hộp, trong y dược, dệt, nhuộm, nghề ảnh, nghề in,...</para>
+      <para id="id6117286">Trước kia axit xitric chỉ được sản xuất từ chanh, nhưng giá thành cao và hiệu suất thu hồi rất thấp. Hiện nay dùng oxy hóa gluxit để tạo thành axit xitric do nấm mốc, hơn 90 % axit xitric đã được sản xuất theo phương pháp lên men.</para>
+      <section id="id-26392684734">
+        <title>Các loại vi sinh vật để sản xuất axit xitric</title>
+        <para id="id6117314">Aspergillus (Asp.) niger, Asp. clavarus, Penicillium luteum, Penicillium citrinum, Mucor piriformis và những loài Mucor khác. Những chủng của Asp. niger cho kết quả cao nhất.</para>
+      </section>
+      <section id="id-144410794037">
+        <title>Cơ chế hình thành axit xitric</title>
+        <para id="id5977552">Phương trình chung của quá trình chuyển hóa đường thành axit xitric là:</para>
+        <para id="id5977559">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mn>2C</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>12</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>3O</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mn>2C</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>4H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{2C rSub { size 8{6} } H rSub { size 8{"12"} } O rSub { size 8{6} } +3O rSub { size 8{2} }  rightarrow 2C rSub { size 8{6} } H rSub { size 8{8} } O rSub { size 8{7} } +4H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6082117">Cơ chế của sự chuyển hóa này có thể được biểu diễn như sau:</para>
+        <para id="id6082124">­­Đường C6H12O6 thủy phân thành axit pyruvic (CH3COCOOH)</para>
+        <para id="id6082151">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mi>C</m:mi>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>OCOOH</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>HOOCCH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>COCOOH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} } C ital "OCOOH"+ ital "CO" rSub { size 8{2} }  rightarrow  ital "HOOCCH" rSub { size 8{2} }  ital "COCOOH"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6117008"> (axit oxaloaxetic)</para>
+        <para id="id6117021">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>HOOCCH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>COCOOH</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>COOH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>COOHCOHCOOHCH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>COOH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "HOOCCH" rSub { size 8{2} }  ital "COCOOH"+ ital "CH" rSub { size 8{3} }  ital "COOH" rightarrow  ital "CH" rSub { size 8{2} }  ital "COOHCOHCOOHCH" rSub { size 8{2} }  ital "COOH"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5797650">(axit axetic) (axit xitric)</para>
+      </section>
+      <section id="id-873688571388">
+        <title>Các yếu tố quyết định đến quá trình sản xuất axit xitric</title>
+        <para id="id5797673">- Môi trường thức ăn: Bao gồm đường, các hợp chất hữu cơ, vô cơ. Để nuôi cấy Asp. Niger sử dụng môi trường có thành phần (g/l):</para>
+        <para id="id5797693"> Saccaroza ­­140; NH4NO3 2,23; KH2PO4 1; MgSO47H2O  0,23.</para>
+        <para id="id6086709">- Môi trường lên men: </para>
+        <para id="id6086714">Nước 1000 ml + đường 150 g + NH4Cl 1,9 g và bổ sung ZnSO4 là̀m tăng khả năng tích lũy axit xitric.</para>
+        <para id="id6086748">- pH của môi trường:</para>
+        <para id="id6086753"> * Để nấm mốc phát triển tốt giữ pH = 6.</para>
+        <para id="id6086760"> * Để lên men tốt giữ pH = 3,4  3,5.</para>
+        <para id="id6086777"> * Để điều chỉnh pH thường dùng HCl.</para>
+        <para id="id6086784">Vì điều kiện môi trường để nấm phát triển và để thu axit xitric là khác nhau nên trong sản xuất phải chuẩn bị môi trường cho nấm phát triển đầy đủ, sau đó điều chỉnh môi trường thích hợp để lên men xitric.</para>
+        <para id="id6086798">- Sự thoáng khí: Tất cả mixen của nấm mốc là loại hiếu khí điể̃n hình, rất cần oxy tự do. Trong sản xuất có thể thực hiện được bằng quạt gió vô trùng vào phòng lên men hoặc thổi khí vô trùng vào dịch lên men.</para>
+        <para id="id6086812">- Ảnh hưởng của nhiệt độ: Nhiệt độ thích hợp khoảng 31  37oC. Sinh khối nấm mốc phát triển mạnh ở 34  37oC. Để tạo ra nhiều axit cần duy trì nhiệt độ 31  32oC. Nhiệt độ thấp hơn thì tích lũy nhiều axit gluconic. Nhiệt độ cao hơn thì việc tạo axit xitric bị kìm hãm.</para>
+        <para id="id6087240">- Thời gian nuôi cấy từ 7 đến 10 ngày.</para>
+      </section>
+      <section id="id-115649007989">
+        <title>Công nghệ sản xuất axit xitric</title>
+        <para id="id6087255">Sản xuất axit xitric có thể thực hiện theo phương pháp bề mặt hoặc cấy chìm. Trong phương pháp nổi (bề mặt) mốc tạo thành màng nổi trên môi trường thức ăn; Trong phương pháp chìm (cấy sâu) mốc tạo thành sợi nằm trong toàn bộ môi trường lỏng. Phương pháp chìm có nhiều ưu việc hơn phương pháp nổi, cho phép tăng năng suất. Hiện nay nuôi cấy chủ yếu bằng phương pháp chìm vì các công đoạn đều được thanh trùng, tạo được chế độ công nghệ bền vững, rút ngắn được thời gian lên men, dễ tự động hóa, giảm được lao động nặng nhọc.</para>
+        <para id="id6087285">* Công nghệ sản xuất cụ thể bao gồm các công đoạn sau:</para>
+        <para id="id6087296">1. Nuôi cấy nấm mốc (nuôi cấy trong phòng thí nghiệm và nhân giống trong sản xuất)</para>
+        <para id="id6087304">Chuẩn bị dung dịch rỉ đường 3  4% trong thùng nuôi cấy ở nhiệt độ 35  38oC. Bổ sung dung dịch các chất dinh dưỡng vào thùng nuôi cấy. Chuyển men giống từ phòng thí nghiệm vào theo tỷ lệ 3 gam bào tử khô /2  3 lít dung dịch rỉ đường. Sau đó mở cánh khuấy và cung cấp không khí vô trùng (nạp không khí và đảo trộn suốt quá trình nhân giống). Duy trì áp suất trong thùng 0,1  0,2 at, to = 34  35oC và thời gian 28  36 h. Thời kỳ đầu cho oxy vào với lượng 9 10 m3/h, thời kỳ cuối (24  30 h) là 90 100 m3/h.</para>
+        <para id="id6080639">2. Chuẩn bị dịch lên men</para>
+        <para id="id6080644">Trước hết phải dùng hơi cao áp để tiệt trùng thiết bị và đường ống.</para>
+        <para id="id6080652">Rỉ đường được pha thành hai loại nồng độ: nồng độ 3  4% để nuôi cấy mốc giống và lên men ban đầu. Nồng độ 25  28% để bổ sung trong quá trình lên men.</para>
+        <para id="id6080675">Để pha chế dịch lên men, dùng nước vô trùng trộn với dung dịch các muối dinh dưỡng và rỉ đường rồi khuấy đều.</para>
+        <para id="id6080682">Môi trường 3  4 % được pha chế trong thiết bị lên men. Sau đó cho mốc giống từ thiết bị nuôi cấy vào và tiếp tục khuấy trộn trong 30 phút.</para>
+        <para id="id6080698">3. Lên men</para>
+        <para id="id6080703">Trong quá trình lên men, lượng đường giảm nhanh , để bù lại dùng dung dịch rỉ có nồng độ 25  28 % để bổ sung gián đoạn vào thiết bị lên men.</para>
+        <para id="id6080720">Thời kỳ đầu giữ ở 33  34oC, khi tạo axit mạnh thì giữ ở nhiệt độ 31  32oC.</para>
+        <para id="id6080749">Thời kỳ đầu cung cấp 100 m3/h (thể tích thiết bị 50 m3). Thời kỳ cuối 800 1000 m3/h.</para>
+        <para id="id6103723">4. Tách nấm mốc</para>
+        <para id="id6103728">Kết thúc quá trình lên men bằng cách kiểm tra mẫu. Nếu hai mẫu kiểm tra cách nhau 4  6 h mà có độ axit như nhau thì coi như kết thúc quá trình lên men.</para>
+        <para id="id6103745">Thời gian lên men có thể kéo dài 5  10 ngày, phụ thuộc vào hoạt lực của nấm mốc. Khi kết thúc quá trình lên men thì đun nóng dịch lên men 60  65oC và chuyển vào thùng trung gian để tách nấm mốc. Nấm mốc được tách trên máy lọc chân không.</para>
+        <para id="id6103777">5. Tạo canxi xitrat </para>
+        <para id="id6103782">Dung dịch đã lên men là hỗn hợp gồm: axit xitric, axit gluconic, axit oxalic, đường không lên men và các hợp chất khoáng.</para>
+        <para id="id6103792">Tách axit xitric bằng cách cho liên kết với cation canxi để tạo muối ít tan canxi xitrat. Dung dịch đã lên men cho vào thiết bị trung hòa và đun sôi. Sau đó mở cánh khuấy và cho sữa vôi vào để trung hòa. Quá trình trung hòa được kết thúc khi pH = 6,8  7,5. </para>
+        <para id="id6103827">Khi trung hòa tạo thành:</para>
+        <para id="id6103833">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Ca</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>Ca</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo stretchy="false">↓</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>6H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{8} } O rSub { size 8{7} } +3 ital "Ca" \(  ital "OH" \)  rSub { size 8{2} } = ital "Ca" rSub { size 8{3} }  \( C rSub { size 8{6} } H rSub { size 8{5} } O rSub { size 8{7} }  \)  rSub { size 8{2} }  downarrow +6H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5777523">axit xitric canxi xitrat</para>
+        <para id="id5798623">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mn>2C</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>12</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>Ca</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>Ca</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>11</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>2H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{2C rSub { size 8{6} } H rSub { size 8{"12"} } O rSub { size 8{7} } + ital "Ca" \(  ital "OH" \)  rSub { size 8{2} } = ital "Ca" \( C rSub { size 8{6} } H rSub { size 8{"11"} } O rSub { size 8{7} }  \)  rSub { size 8{2} } +2H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5953936">axit gluconic  canxi gluconat</para>
+        <para id="id5953954">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>Ca</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CaC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo stretchy="false">↓</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>2H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{2} } H rSub { size 8{2} } O rSub { size 8{4} } + ital "Ca" \(  ital "OH" \)  rSub { size 8{2} } = ital "CaC" rSub { size 8{2} } O rSub { size 8{4} }  downarrow +2H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5708752">axit oxalic  canxi oxalat</para>
+        <para id="id5708767">Dùng thiết bị lọc chân không tách các chất kết tủa canxi xitrat và canxi oxalat rồi đem sấy khô.</para>
+        <para id="id5708775">6. Tách canxi xitrat</para>
+        <para id="id5708780">Dùng H2SO4 để tách canxi xitrat (trong thiết bị tách có cánh khuấy, ống phun hơi và thoát hơi). Đầu tiên cho nước vào thiết bị 0,25  0,5 m3/ 1 tấn axit xitric chứa trong xitrat, mở cánh khuấy và cho chất kết tủa vào. Để làm trong axit xitric dùng than hoạt tính với lượng 2% so với lượng axit xitric trong xitrat. Sau đó đem đun nóng lên 60oC và cho H2SO4 có tỷ trọng 1,8 1,84 vào (0,425 lít H2SO4/ 1kg axit xitric có trong xitrat). Khuấy đều rồi đun sôi 10  15 phút.</para>
+        <para id="id5708863">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>Ca</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>3H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>SO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mn>2C</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CaSO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Ca" rSub { size 8{3} }  \( C rSub { size 8{6} } H rSub { size 8{5} } O rSub { size 8{7} }  \)  rSub { size 8{2} } +3H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } =2C rSub { size 8{6} } H rSub { size 8{8} } O rSub { size 8{7} } +3 ital "CaSO" rSub { size 8{4} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6079935">Để tách canxi oxalat khi có mặt axit xitric, sử dụng 1 lượng dư axit sunfuric, khi đó canxi oxalat sẽ kết tủa cùng với thạch cao được tạo thành và lúc đó trong dung dịch chỉ còn axit xitric. Để tách dung dịch axit xitric khỏi kết tủa có chứa thạch cao, canxi oxalat, than, các hợp chất sunfua của kim loại nặng. Chuyển hỗn hợp vào lọc chân không, dung dịch sau khi lọc đem sấy.</para>
+        <para id="id6079958">7. Sấy dung dịch axit xitric trong thiết bị sấy chân không</para>
+        <para id="id6084593">Giai đoạn đầu sấy đến tỷ trọng 1,24  1,26</para>
+        <para id="id6084609">Giai đoạn hai sấy đến tỷ trọng 1,32  1,36 tương ứng với nồng độ 80 %.</para>
+        <para id="id6084632">8. Kết tinh và sấy khô axit xitric</para>
+        <para id="id6084638">Khi nhiệt độ của dung dịch 35  37oC thì cho mầm kết tinh (tinh thể axit xitric) vào để kết tinh và tiếp tục làm nguội 8 10oC và cho khuấy liên tục trong 30 phút. Sau đó cho qua thiết bị ly tâm để tách tinh thể rồi đưa đi sấy khô (dùng thiết bị sấy kiểu băng tải, tác nhân sấy là không khí với nhiệt độ không quá 35oC).</para>
+        <para id="id6084683">Toàn bộ quy trình công nghệ bao gồm các công đoạn cơ bản và thiết bị ứng dụng tương ứng được trình bày trong bảng sau 2.1.</para>
+        <para id="id6084693">Bảng 2.1</para>
+        <table id="id6084698" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Công đoạn cơ bản</entry>
+                <entry>Thiết bị tương ứng (hình 2.1)</entry>
+              </row>
+              <row>
+                <entry>- Chuẩn bị môi trường dinh dưỡng rỉ đường để làm canh trường</entry>
+                <entry>- Thiết bị nấu số 4</entry>
+              </row>
+              <row>
+                <entry>- Thanh trùng môi trường - Nuôi cấy (sục khí liên tục và đảo trộn) - Chuẩn bị và thanh trùng môi trường để sản xuất lớn dạng công nghiệp - Lên men công nghiệp - Lọc và rửa mixen</entry>
+                <entry>- Tháp thanh trùng số 6, bộ giữ nhiệt số 7, bộ trao đổi nhiệt số 8- Nồi nuôi cấy số 10- Thiết bị nấu, thiết bị thanh trùng- Nồi lên men công nghiệp số 11- Lọc chân không số 15, thùng chân không số 17</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5972804"><figure id="id5972814"><media id="id1168299667509" alt=""><image src=".png" mime-type="image/png" height="331" width="472"/></media></figure>Không khíKhông khíThải mixenGia công chất lọcHình 2.1. Sơ đồ thu nhận axit xitric bằng phương pháp lên men chìm trong các dung dịch rỉ đườngKhông khíKhông khí nén1- Thùng để bảo quản rỉ đường; 2- Thùng chứa rỉ đường; 3- Cân ; 4- Nồi nấu; 5- Thùng trung gian để chứa môi trường dinh đưỡng; 6- Tháp thanh trùng; 7- Bộ giữ nhiệt; 8- Bộ trao đổi nhiệt; 9- Thiết bị cấy; 10- Nồi nuôi cấy;11- Nồi lên men công nghiệp; 12- Bộ lọc vi khuẩn; 13- Thùng chứa dung dịch lên men;14- Bơm dung dịch; 15- Lọc chân không để tách và rửa mixen bằng nước nóng; 16- Thùng chứa mixen đã được rửa; 17- Thùng chân không chứa mixen; 18- Thùng chứa chất lọc để tách axit xitric</para>
+        <para id="id6100406">Bảng thu nhận axit xitric từ chất lọc</para>
+        <table id="id6100415" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Công đoạn cơ bản</entry>
+                <entry>Thiết bị tương ứng (hình 2.2)</entry>
+              </row>
+              <row>
+                <entry>- Lắng axit xitric bằng vôi</entry>
+                <entry>- Nồi trung hòa số 3</entry>
+              </row>
+              <row>
+                <entry>- Tách cặn axit xitric - Chuyển axit xitric vào trạng thái tự do, bổ sung than hoạt tính, H2SO4 - Tách axit xitric khỏi cặn - Cô dung dịch axit xitric - Tách cặn thạch cao (CaSO4) khỏi dung dịch axit xitric - Cô lần 2 dung dịch axit xitric - Tinh thể hóa axit xitric bằng cách đảo và làm lạnh liên tục- Phân ly các tinh thể axit xitric- Sấy tinh thể axit xitric- Gói axit xitric</entry>
+                <entry>- Máy lọc số 4- Nồi phản ứng số 5- Lọc băng tải chân không số 8- Nồi chân không 13- Bơm 17, lọc ép 18- Nồi cô chân không 20- Nồi tinh thể 19- Ly tâm 20- Sấy thùng quay 24- Máy đóng bì tự động 26</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6116437"><figure id="id6116448"><media id="id1168304514268" alt=""><image src=".png" mime-type="image/png" height="367" width="557"/></media></figure>Nước lạnhNước nóngHơiThải cặn thạch caoHơihơiDung dịch axit xitricNước ngưngPhế thảikhí nénHình 2.2. Sơ đồ tách axit xitric khỏi dung dịch lên men:Không 1- Thùng đựng dung dịch axit xitric ; 2- Thùng đựng sữa vôi; 3- Nồi trung hòa; 4- Bộ lọc tách cặn; 5- Nồi phản ứng để tách axit xitric khỏi cặn; 6- Thùng chứa than hoạt tính; 7- Thùng trung gian; 8- Bộ lọc chân không dạng băng tải; 9- Thùng chân không; 10- Bơm chân không;11- Thùng đựng dung dịch axit xitric; 12- Bộ ngưng tụ của thiết bị cô đặc; 13, 20- Nồi cô chân không lần 1 và lần 2;14- Máy nén của thiết bị cô;15- Giỏ áp kế; 16- Hút chân không;17- Bơm; 18. Lọc ép tách dung dịch khỏi thạch cao; 19- Nồi tinh thể; 21- Thùng trung gian; 22- Máy ly tâm; 23- Thùng chứa dung dịch; 24- Sấy thùng quay; 25- Sàng rung; 26- Máy gói tự động</para>
+        <para id="id6080973">Các sơ đồ dưới đây cho phép thu nhận được các sản phẩm quan trọng nhất bằng phương pháp tổng hợp vi sinh học.</para>
+      </section>
+    </section>
+    <section id="id-704829704155">
+      <title>SẢN XUẤT VITAMIN B12</title>
+      <table id="id5798788" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn</entry>
+              <entry>Thiết bị cơ bản(hình minh họa)</entry>
+            </row>
+            <row>
+              <entry>- Nạp bã axeton-butylic từ thùng chứa vào bộ gạn. Làm lạnh chất gạn</entry>
+              <entry>- Bộ gạn 2, thiết bị lạnh 5</entry>
+            </row>
+            <row>
+              <entry>- Nạp chất gạn lạnh (55  57oC) vào thiết bị lên men. Lên men metylic yếm khí liên tục- Ổn định vitamin B12 khi gia công nhiệt bằng con đường khuấy trộn với natri sunfit và HCl- Đun nóng dịch lên men metylic đã được ổn định trước khi cô- Cô dịch metylic- Đun nóng phần cô đặc của dung dịch lên men metylic trước khi sấy- Sấy phần cô đặc- Tách sản phẩm và không khí</entry>
+              <entry>- Thùng lên men (bê tông cốt sắt) 8 có thể tích 4200 m3- Nồi phản ứng 12- Các bộ đun nóng 15- Thiết bị cô chân không 16- Các bộ đun nóng 21- Máy sấy phun 22- Hệ băng tải khí nén, xyclon 23, thiết bị lọc khí 26</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5798998"><figure id="id5799009"><media id="id1168299326253" alt=""><image src=".png" mime-type="image/png" height="321" width="577"/></media></figure>Lên menGạnBãChất gạnCH3OHCoCl2-6H2OHClỔn địnhKhíSấyNướcNướcĐưa vềcô đặcHoá đặcHơi nước trực tiếpHình 2.3. Sơ đồ thu nhận chất cô của vitamin B12:hơi </para>
+      <para id="id6110284">1- Thùng chứa bã; 2- Bộ gạn bã; 3- Thùng chứa bã đặc; 4- Thùng chứa chất được gạn trong bã; 5- Máy lạnh để làm lạnh chất gạn; 6- Bộ đo metanol; 7- Bộ đo dung dịch CoCl2.6H2O; 8- Nồi lên men metanol; 9- Bộ đo HCl;10- Bộ đo dung dịch Na2SO3; 11- Máy trộn dịch lên men metanol; 12- Thùng phản ứng để ổn định vitamin B12 trong dịch lên men metanol; 13- Bộ đun nóng để ổn định dịch lên men; 14- Lọc khí thải ra từ dịch lên men; 15- Đun nóng dung dịch lên men đã được ổn định; 16- Bốn thiết bị cô chân không; 17- Bình ngưng tụ;18- Bơm chân không; 19- Thùng chứa dung dịch lên men đã được cô đặc; 20- Thùng trung gian chứa dung dịch lên men đã được cô đặc; 21- Bộ đun nóng dung dịch lên men đã được cô đặc; 22- Máy sấy phun; 23- Xyclon của máy sấy phun; 24- Phểu chứa chất cô dạng khô; 25- Máy gói tự động vào bao; 26- Thiết bị lọc khí để làm sạch khí thải từ máy sấy; 27- Bộ thiết bị đốt khí được tách ra khi axit hóa và đun nóng dịch lên men; 28- Bình chứa khí lên men; 29- Máy lạnh để tách nước ra khỏi khí lên men; 30- Bếp hơi dùng cho máy sấy phun</para>
+    </section>
+    <section id="id-642940810481">
+      <title>SẢN XUẤT NẤM MEN GIA SÚC TỪ CÁC PHẾ LIỆU TRONG CÔNG NGHIỆP THỰC PHẨM</title>
+      <para id="id6088297">Nguyên liệu sử dụng chủ yếu là các phế liệu trong sản xuất đường - rỉ đường</para>
+      <para id="id6088305">Bảng 2.4</para>
+      <table id="id6088310" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn cơ bản</entry>
+              <entry>Thiết bị tương ứng (hình 2.4)</entry>
+            </row>
+            <row>
+              <entry>- Chuẩn bị dung dịch của các muối làm môi trường dinh dưỡng</entry>
+              <entry>- Thiết bị gạn 7</entry>
+            </row>
+            <row>
+              <entry>- Tạo bọt- Khử trùng rỉ đường- Phối trộn rỉ đường đã được làm lạnh với dung dịch muối- Thu nhận chủng nấm men thuần khiết- Thu nhận chủng nấm men nuôi cấy- Lên men công nghiệp (giai đoạn đầu)- Phân ly huyền phù nấm men- Hồi lưu dung dịch canh trường sau khi phân ly bậc 1 có bổ sung dung dịch các muối dinh dưỡng- Phân ly mức 2- Lên men công nghiệp (giai đoạn 2)- Tách men khỏi dung dịch lên men- Cô huyền phù nấm men- Sấy nấm men- Gói nấm men</entry>
+              <entry>- Máy tạo nhũ tương 5- Bộ lọc 38, trao nhiệt 37, thùng tiệt trùng 8- Máy khuấy trộn 10- Các thiết bị 39, 40- ­Thùng chứa men loại nhỏ 41, loại lớn 42, nguồn men 15- Thiết bị lên men đầu 14, tách bọt 18 và cơ cấu dập bọt 17- Máy lọc 35, máy phân ly mức 1 số 34.- Máy trộn 11- Các máy phân ly bậc 2 số 33- Thiết bị lên men lần 2 số 16Tách bọt, dập bọt 18- Các thiết bị phân ly bậc 2 số 33 và 34- Thiết bị cô, thiết bị nhũ hóa 20.- Sấy phun 22, xyclon thu hồi 27, thùng chứa 26- Cân tự động 25, thiết bị gói</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6115592"><figure id="id6115605"><media id="id5989152" alt=""><image src=".png" mime-type="image/png" height="886" width="349"/></media></figure>Không khíVào khí quyểnĐến công đoạn côNướcThảiCác muối dinh dưỡngBã rượu cặnrỉrỉHơiHình 2.4. Sơ đồ thu nhận nấm men gia súc từ rỉ đường:1-Thùng dập bọt; 2,4- Thùng chứa axit; 3- Van lọc; 5- Bộ tạo nhũ tương; 6- Thiết bị khử trùng; 7- Bộ gạn; 8- Nồi tiệt trùng; 9- Bộ định lượng dung dịch các muối dinh dưỡng; 10, 11- Máy khuấy trộn; 12- Ống góp; 13- Quạt gió; 14, 16- Các thiết bị lên men; 15- Thiết bị sinh khối; 17. Cơ cấu dập bọt;18- Bộ tách bọt; 19- Các thiết bị lọc huyền phù men; 20- Nhũ hóa huyền phù; 21- Nguồn nhiệt; 22- Sấy phun; 23- Xyclon tách bụi; 24- Bơm hút bụi; 25- Cân;26- Phễu chứa; 27- Xyclon thu; 28. Quạt; 29, 32, 35, 38- Lọc nước; 30, 31, 33, 34- Các máy lọc bậc 1 và bậc 2; 36- Dập bọt; 37. Trao đổi nhiệt kiểu khung bản; 39, 40- Các thiết bị chứa các chủng tinh khiết</para>
+      <para id="id5974479">2.4. SẢN XUẤT NẤM MEN GIA SÚC TỪ NGUỒN KHÍ HYDROCACBON</para>
+      <para id="id5974488">Bảng 2.5</para>
+      <table id="id5974493" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn cơ bản</entry>
+              <entry>Thiết bị tương ứng (hình 2.5)</entry>
+            </row>
+            <row>
+              <entry>- Nạp khí hydrocacbon hoặc hỗn hợp khí tái sinh, dung dịch các muối dinh dưỡng.</entry>
+              <entry>- Máy khuấy trộn số 1.</entry>
+            </row>
+            <row>
+              <entry>- Tiệt trùng môi trường dinh dưỡng- Nuôi cấy- Cô đặc- Sấy chất cô đặc- Bao gói</entry>
+              <entry>- Nồi tiệt trùng số 2- Nồi lên men số 5- Nồi cô đăc̣ số 6- Sấy phun số 8- Thiết bị bao gói</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5958317"><figure id="id5958328"><media id="id1168308092842" alt=""><image src=".png" mime-type="image/png" height="381" width="476"/></media></figure>Môi trường dinh dưỡngChất lọcNướcHuyền phùMôi trường dinh dưỡngNước</para>
+      <para id="id5958484">Hình 2.5. Sơ đồ thu nhận các chế phẩm protein từ nguồn metan:</para>
+      <para id="id5958503">1- Máy trộn để chuẩn bị môi trường dinh dưỡng; 2- Thanh trùng môi trường dinh dưỡng; 3- Thùng chứa để bảo quản môi trường dinh dưỡng; 4- Thùng chứa để bảo quản amoniac; 5- Nồi lên men; 6- Thiết bị lọc; 7- Thùng chứa nước rửa; 8- Máy sấy; 9- Máy trộn; 10- Máy lọc; 11- Máy nén; 12- Kho nguyên liệu và thành phẩm</para>
+      <para id="id5958526">2.5. SẢN XUẤT CÁC CHẾ PHẨM ENZIM</para>
+      <para id="id6081813">Các chế phẩm enzim vi sinh được sản xuất theo hai sơ đồ thiết bị sau: phương pháp nuôi cấy bề mặt trên môi trường dinh dưỡng rắn và phương pháp nuôi cấy chìm trong môi trường dung dịch.</para>
+      <para id="id6081826">2.5.1. Sản xuất các chế phẩm enzim bằng phương pháp bề mặt trên  môi trường dinh dưỡng rắn</para>
+      <para id="id6081841"><figure id="id6081851"><media id="id1168298773712" alt=""><image src=".png" mime-type="image/png" height="410" width="577"/></media></figure>Vào khoKhông khíChất bổ sungKhông khíNguyên liệuChân khôngVào khoKhông khíCấyVào khí quyểnVào khí quyểnNướcVào khí quyểnNướcVật liệu cấy</para>
+      <para id="id5709399">Hình 2.6. Sơ đồ sản xuất các chế phẩm enzim trên môi trường rắn:</para>
+      <para id="id5709407">1- Thùng nhận nguyên liệu; 2- Định lượng; 3. Xyclon; 4- Nồi thanh trùng nước; 5- Nồi thanh trùng nguyên liệu; 6- Thiết bị nuôi cấy; 7- Nạp liệu; 8- Bộ tự động phân chia; 9- Thiết bị để sản xuất dung dịch các muối dinh dưỡng; 10- Thiết bị đồng hóa; 11- Nồi thanh trùng môi trường; 12- Máy lọc để làm sạch không khí; 13- Thiết bị tán nhỏ; 14- Lọc thô; 15- Lọc vi khuẩn; 16- Calorife; 17- Làm ẩm không khí; 18- Thùng chứa canh trường nấm; 19- Cơ cấu vận chuyển; 20- Thiết bị để sấy và nghiền nhỏ; 21- Lọc; 22- Bơm chân không; 23- Thùng chứa canh trường nấm khô; 24- Thùng chứa chất bổ sung; 25- Máy nghiền trộn ;26- Thùng chứa chế phẩm đã được tiêu chuẩn hóa ; 27- Máy gói tự động</para>
+      <para id="id5709462">Bảng 2.6</para>
+      <table id="id5709467" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn cơ bản</entry>
+              <entry>Thiết bị tương ứng (hình 2.6)</entry>
+            </row>
+            <row>
+              <entry>- Sản xuất môi trường để nuôi cấy</entry>
+              <entry>- Vận chuyển bằng khí nén, xyclon 3, nồi tiệt trùng nước và môi trường 4 và 5</entry>
+            </row>
+            <row>
+              <entry>- Nuôi cấy- Sản xuất và thanh trùng môi trường dinh dưỡng ở mức độ công nghiệp- Tiệt trùng và cấy môi trường dinh dưỡng ở dạng công nghiệp- Nuôi cấy dạng công nghiệp</entry>
+              <entry>- Thiết bị nuôi cấy 6- Vận tải bằng khí nén, xyclon 3, nồi phản ứng để sản xuất dung dịch các muối dinh dưỡng 9- Nồi tiệt trùng 11, thiết bị đồng hóa 10­- Thiết bị tán nhỏ 13</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6708250">2.5.2. Sản xuất các chế phẩm enzim bằng phương pháp cấy chìm trong   môi trường dinh dưỡng lỏng</para>
+      <para id="id6708267">Bảng 2.7</para>
+      <table id="id6708272" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn</entry>
+              <entry>Thiết bị tương ứng (hình 2.7)</entry>
+            </row>
+            <row>
+              <entry>- Chuẩn bị môi trường dinh dưỡng.</entry>
+              <entry>- Xyclon 1, bộ trích ly 4, bộ tự chảy 5, máy nén kiểu trục vít 6, lọc chân không kiểu băng tải 12, máy trộn 20</entry>
+            </row>
+            <row>
+              <entry>- Thanh trùng và làm lạnh môi trường dinh dưỡng- Chuẩn bị vật liệu cấy- Nuôi cấy- Tách sinh khối khỏi dung dịch canh trường- Sấy sinh khối- Bao gói bã thải- Tách chất lọc ra khỏi dung dịch canh trường- Cô chất đã được li tâm- Sấy chất đã được cô đặc- Kết tủa enzim bằng etanol- Sấy enzim kết tủa.- Tiêu chuẩn hóa chế phẩm- Gói chế phẩm</entry>
+              <entry>- Tháp đun 23, giữ nhiệt 24, bộ trao đổi nhiệt 25, 26- Bộ cấy 22- Nồi lên men 33­- Bộ ép lọc tự động 36- Sấy thùng quay- Máy tự động để chia và gói- Li tâm 50- Thiết bị cô chân không 42- Sấy phun 45- Thiết bị kết tủa liên tục 52, sấy chế phẩm 56, li tâm 57- Sấy chân không kiểu thùng quay 58- Thiết bị rung kiểu đĩa 60, máy trộn 64- Các thiết bị gói tự động 65, 66</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5708984"><figure id="id5708995"><media id="id1168296834441" alt=""><image src=".png" mime-type="image/png" height="378" width="577"/></media></figure>Đến thiết bị 51Đến 45Không khí từ calorifeKhông khí Mầm Sinh khối đem sấyNước muốiNước ngưngVào khoHơiChất độn Chất bổ sung Mạch nhaMạch nha và bã đem sấy và đóng góiNước muối4443Tới bơm chân không40Bã củ cảiTừMuối</para>
+      <para id="id6116776">Hình 2.7. Sơ đồ sản xuất các chế phẩm enzim trong các môi trường dinh dưỡng lỏng bằng phương pháp cấy chìm:</para>
+      <para id="id6116810">1- Xyclon dỡ tải bã củ cải; 2- Xyclon làm sạch không khí; 3- Các cân tự động; 4- Nồi trích ly bã củ cải; 5- Tự chảy; 6- Máy ép vít tải; 7- Thùng chứa chất trích ly; 8- Thùng chứa mạch nha; 9- Máy nâng; 10- Cân tự động; 11- Trích ly mạch nha; 12- Lọc chân không kiểu băng tải; 13- Thùng chứa nước rửa; 14- Bình để làm lắng; 15- Thùng chứa chất lọc (mạch nha đã được trích ly); 16- Bộ ngưng tụ; 17- Thiết bị tuyển nổi; 18- Giỏ áp kế; 19- Thùng thu nhận; 20- Máy trộn để chuẩn bị môi trường dinh dưỡng; 21- Thùng đựng môi trường dinh dưỡng để cấy; 22- Thiết bị để chuẩn bị vật liệu để cấy; 23- Nồi thanh trùng; 24- Bộ giữ nhiệt độ cho môi trường dinh đưỡng (to =130 oC); 25- Thiết bị trao đổi nhiệt kiểu bảng mỏng; 26- Trao đổi nhiệt để làm lạnh môi trường đến 40 oC; 27- Lọc không khí; 29- Máy lọc để làm sạch không khí thải; 30- Thanh trùng thiết bị khử bọt; 28- Máy lọc để làm sạch không khí khi nạp; 31- Bộ đo máy dập bọt; 32- Vòi phun; 33. Nồi lên men; 34. Trao nhiệt để làm lạnh chất lỏng canh trường và sinh khối; 35. Thanh trùng; 36- Máy ép lọc tự động; 37- Thùng chứa sinh khối; 38, 40- Thùng chứa chất lỏng canh trường; 39, 50, 55- Các máy phân ly; 41- Bộ ngưng tụ; 42- Nồi cô chân không; 43- Thùng chứa nước ngưng; 44- Thùng chứa chất cô; 45- Sấy phun; 46- Xyclon tháo dỡ; 47- Lọc túi; 48- Thùng chứa chế phẩm thô; 49- Vít tải; 51- Bộ trao đổi nhiệt để làm lạnh chất cô; 52- Thiết bị làm lắng liên tục; 53- Bộ đo rượu; 54- Thiết bị trao đổi nhiệt để làm lạnh rượu; 56- Thiết bị để làm khô chất kết tủa enzim bằng rượu; 57- Ly tâm; 58- Sấy chân không kiểu thùng quay; 59- Thùng chứa các chế phẩm khô; 60- Thiết bị rung kiểu đĩa; 61- Thùng chứa chất bổ sung; 62- Thùng chứa chế phẩm nghiền; 63. Cân tự động; 64. Máy trộn; 65. Máy gói tự động theo lô 17 kg; 66- Máy gói tự động theo lô 0,5 kg</para>
+      <para id="id6116927">2.6. SẢN XUẤT CÁC CHẾ PHẨM VI KHUẨN</para>
+      <para id="id6116934">Bảng 2.8</para>
+      <table id="id6116938" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Công đoạn cơ bản</entry>
+              <entry>Thiết bị tương ứng (hình 2.8)</entry>
+            </row>
+            <row>
+              <entry>- Chuẩn bị vật liệu cấy</entry>
+              <entry>- Lọ hình nón có sức chứa 3 lít, thiết bị Baborova, thiết bị nuôi cấy 18</entry>
+            </row>
+            <row>
+              <entry><media id="id1168298769924" alt=""><image src="../../media/graphics1-7819.png" mime-type="image/png"/></media>- Chuẩn bị môi trường dinh dưỡng- Thanh trùng môi trường dinh dưỡng- Nuôi cấy giống sản xuất- Tách bào tử và các dạng tinh thể- Sấy khối bột nhão.- Tiêu chuẩn hóa- Gói</entry>
+              <entry>- Thiết bị khuấy trộn 14- Cột đun 15, bộ giữ nhiệt kiểu ống 16, thiết bị trao đổi nhiệt dạng ống lồng ống 17- Thiết bị lên men 19- Ly tâm 21- Máy sấy phun 26, xyclon 28- Cân tự động 32, vít trộn 33, nghiền rung 36- Thiết bị gói</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6086278">NướcVào khí quyểnVào khí quyểnNướcVật liệu cấyCấyNguyên liệuVào khí quyểnKhông khíKhông khíVào khoChất bổ sungKhông khíVào khoChân không3</para>
+      <para id="id6080223">Hình 2.8. Sơ đồ sản xuất chế phẩm chăn nuôi entobacterin:</para>
+      <para id="id6086397">1- Thùng chứa; 2,4- Các bộ định lượng; 3- Thiết bị tiệt trùng; 5- Thiết bị Bobơrova; 6- Lọc để làm sạch không khí; 7- Máy nén không khí đến 0,3 MPa và đun nóng dến 180  2400C; 8- Máy làm lạnh; 9- Thiết bị tách ẩm; 10- Máy lọc; 11- Thiết bị đun nóng không khí; 12, 13- Các máy lọc không khí; 14- Máy trộn để chuẩn bị môi trường dinh dưỡng; 15- Tháp đun; 16- Thiết bị giữ nhiệt kiểu ống ; 17- Thiết bị trao đổi nhiệt kiểu ống lồng ống; 18- Thiết bị cấy;19- Thiết bị lên men; 20- Thùng chứa chất lỏng canh trường; 21- Máy tách dạng ly tâm; 22- Thùng chứa chế phẩm dạng bột nhão ; 23- Nồi chứa; 24- Lọc không khí; 25- Calorife hơi; 26- Máy sấy phun; 27- Quạt</para>
+      <para id="id6086454">* Tất cả các thiết bị công nghệ trong công nghiệp vi - sinh học có thể kết hợp lại thành những nhóm sau:</para>
+      <para id="id6086463">1. Để bảo quản các nguyên liệu dạng hạt.</para>
+      <para id="id6086470">2. Để bảo quản nguyên liệu lỏng.</para>
+      <para id="id6086476">3. Để nghiền các dạng nguyên liệu khác nhau.</para>
+      <para id="id6086482">4. Để trích ly nguyên liệu ra các cấu tử cần thiết cho môi trường dinh dưỡng.</para>
+      <para id="id6086491">5. Để trích ly các enzim từ canh trường.</para>
+      <para id="id6086497">6. Để hòa tan các chất rắn trong dung dịch (thiết bị phản ứng).</para>
+      <para id="id6086504">7. Để lọc.</para>
+      <para id="id6086510">8. Để tiệt trùng các môi trường dinh dưỡng lỏng.</para>
+      <para id="id6086516">9. Để tiệt trùng các môi trường rời.</para>
+      <para id="id6086523">10. Để tiệt trùng nước.</para>
+      <para id="id6086529">11. Để chuẩn bị vật liệu cấy trên môi trường rắn.</para>
+      <para id="id6086536">12. Chuẩn bị vật liệu cấy trong môi trường lỏng bằng phương pháp bề mặt.</para>
+      <para id="id6086544">13. Để chuẩn bị vật liệu cấy trong môi trường dinh dưỡng lỏng bằng phương pháp cấy chìm.</para>
+      <para id="id6086553">14. Để cấy vi sinh vật trên môi trường dinh dưỡng rắn.</para>
+      <para id="id6086560">15. Để cấy vi sinh vật trên môi trường dinh dưỡng lỏng.</para>
+      <para id="id6086567">16. Để tách sinh khối khỏi dung dịch canh trường.</para>
+      <para id="id6086574">17. Để làm trong dung dịch canh trường.</para>
+      <para id="id6086580">18. Để lọc tiệt trùng dung dịch canh trường.</para>
+      <para id="id6086586">19. Để cô các chất hoạt hóa sinh học bằng phương pháp tuyển nổi.</para>
+      <para id="id6086594">20. Để cô dung dịch chứa các chất hoạt hóa sinh học bằng phương pháp siêu lọc.</para>
+      <para id="id6086602">21. Để cô dung dịch chứa các chất hoạt hóa sinh học bằng phương pháp cô chân không</para>
+      <para id="id6086610">22. Để tiêu huyết tương.</para>
+      <para id="id6086616">23. Để sấy dung dịch chứa các chất hoạt hóa sinh học bằng sấy phun.</para>
+      <para id="id6086624">24. Để sấy bột nhào và chất kết tủa chứa các chất hoạt hóa sinh học.</para>
+      <para id="id6086632">25. Để kết tủa enzim từ các dung dịch bằng dung môi hữu cơ và muối trung hòa.</para>
+      <para id="id6086640">26. Để tách các chất kết tủa chứa các chất hoạt hóa sinh học từ các dung dịch.</para>
+      <para id="id6086648">27. Để cô các chất hoạt hóa sinh học bằng con đường hấp thụ và nhả trong nhựa trao đổi ion.</para>
+      <para id="id6086657">28. Để kết tinh các chất hoạt hóa sinh học.</para>
+      <para id="id6086664">Có thể sử dụng các dạng thiết bị này trong sản xuất các chất hoạt hóa sinh học khác nhau (bảng 2.9).</para>
+      <para id="id6086673">Bảng ngang B 2.9</para>
+    </section>
+  </content>
+</document>

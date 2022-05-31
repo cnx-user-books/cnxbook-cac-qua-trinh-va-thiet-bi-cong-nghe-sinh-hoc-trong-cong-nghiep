@@ -1,0 +1,1518 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị phân chia pha lỏng và pha rắn</title>
+  <metadata>
+  <md:content-id>m30728</md:content-id><md:title>Thiết bị phân chia pha lỏng và pha rắn</md:title>
+  <md:abstract>Các máy dùng để phân chia các hệ không đồng nhất trong trường ly tâm được gọi là máy ly tâm và máy phân ly. Khác với máy ly tâm, máy phân ly có yếu tố phân ly cao, bề mặt kết tủa phát triển, mức độ phân chia các hệ phân tán cao nên năng suất rất lớn đến 300 m3/h.</md:abstract>
+  <md:uuid>5d60bf80-b702-4321-a16b-f49f992cc37b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4461918">Nội dung:</para>
+    <para id="id4461922">Trong công nghiệp vi sinh thường sử dụng các máy ly tâm và phân ly khác nhau để phân chia các hệ dị thể.</para>
+    <section id="id-6220002648">
+      <title>CÁC THIẾT BỊ ĐỂ LY TÂM HUYỀN PHÙ</title>
+      <para id="id4461939">Các máy ly tâm được ứng dụng rộng rãi để tách các tiểu phần ổn định trong dung dịch các chất hoạt hoá sinh học, các dung dịch rượu khỏi chế phẩm hoạt hoá làm lắng etanol, axetol và các dung môi hữu cơ khác, tách sinh khối khỏi dung dịch canh trường, để tách phức hoạt hoá sinh học (khi kết tủa bằng muối) từ các dung dịch, cũng như để phân chia các hỗn hợp chất lỏng hay các huyền phù.</para>
+      <para id="id4461954">Các hệ phân tán thô thường được phân chia dưới tác động của trọng lực. Tuy nhiên khi tỷ trọng của các cấu tử có độ chệnh lệch nhỏ và độ nhớt của chất lỏng không đồng nhất cao thì sự lắng xảy ra rất chậm. Do ứng suất của trường lực ly tâm quán tính lớn hơn nhiều lần ứng suất của trường trọng lực, cho nên việc phân chia dưới tác động của trường ly tâm xảy ra rất nhanh và hoàn toàn.</para>
+      <para id="id4461968">Trong các thiết bị công nghiệp việc phân chia bằng phương pháp ly tâm được ứng dụng để tách các tiểu phần có kích thước từ 25 mm đến 0,5 m.</para>
+      <para id="id4461985">Phương pháp ly tâm dựa trên cơ sở tác động của trường ly tâm tới hệ không đồng nhất gồm hai hoặc nhiều pha. Ly tâm các hệ chất lỏng không đồng nhất được thực hiện bằng hai phương pháp: lọc ly tâm qua tường đột lỗ của rôto, vách lọc được đặt ở phần trong của rôto (máy ly tâm lọc) và qua rôto lắng có đoạn ống liền (máy ly tâm lắng). Đồng thời các máy ly tâm tổng hợp kết hợp cả hai nguyên tắc phân chia lọc - lắng cũng được sử dụng.</para>
+      <para id="id4462010">Khi tách huyền phù trong các máy ly tâm lọc ở trong rôto, dưới tác động của lực ly tâm chất lỏng được lọc qua vải lọc hay lưới kim loại, đồng thời các tiểu phần pha rắn bị lắng xuống; chất lỏng qua sàng và sau đó qua lỗ trong rôto, xối mạnh vào tường của máy ly tâm, còn cặn được tháo ra trong thời gian rôto quay hoặc là sau khi máy ngừng.</para>
+      <para id="id4462025">Khi phân chia các huyền phù trong các máy ly tâm lắng, các tiểu phần rắn có tỷ trọng lớn hơn tỷ trọng cấu tử chất lỏng được lắng xuống (dưới tác động của lực ly tâm trong đoạn ống rôto) tạo thành lớp vòng khuyên. Cấu tử lỏng cũng tạo thành lớp vòng khuyên nhưng nằm gần trục quay hơn, chất lỏng trong được dẫn ra ngoài qua mép tràn hay nhờ ống hút; cặn được tháo ra theo hành trình xả hay sau khi thiết bị ngừng. Việc phân chia nhũ tương xảy ra tương tự: ở tường rôto tạo ra lớp chất lỏng nặng, còn gần trục quay - lớp chất lỏng nhẹ.</para>
+      <section id="id-333059025446">
+        <title>Phân loại các máy ly tâm</title>
+        <para id="id4462062">Các máy ly tâm công nghiệp được chia ra:</para>
+        <para id="id4462068">Theo nguyên tắc phân chia - kết tủa, phân chia (phân ly), lọc và tổng hợp.</para>
+        <para id="id4462076">Theo đặc tính tiến hành quá trình ly tâm - chu kỳ và liên tục.</para>
+        <para id="id4462083">Theo dấu hiệu về kết cấu - nằm ngang (có trục nằm ngang), nghiêng (có trục nghiêng) và đứng.</para>
+        <para id="id4462091">Theo phương pháp thải cặn ra khỏi rôto.</para>
+        <para id="id4462097">Khi sản xuất các chất hoạt hoá sinh học thường sử dụng các máy ly tâm tác động chu kỳ, thải cặn bằng cơ khí hoá hay thủ công, còn khi sản xuất lớn - các máy ly tâm tự động hoá tác động liên tục.</para>
+        <para id="id4462111">Khi lựa chọn các máy ly tâm cần phải dựa vào các đặc tính công nghệ của chúng và các tính chất lý học của vật liệu đem gia công (độ phân tán của pha rắn, độ nhớt của pha lỏng và nồng độ của nó).</para>
+        <para id="id4462125">Nồng độ huyền phù bằng tỷ số giữa lượng pha rắn và tổng lượng huyền phù. Nồng độ huyền phù có thể thể hiện bằng phần trăm theo khối lượng hay phần trăm theo thể tích. Hiệu nồng độ giữa pha rắn và pha lỏng càng lớn thì năng suất của máy ly tâm lắng càng cao.</para>
+        <para id="id4462139">Lực ly tâm Pl (N) là động lực của quá trình ly tâm:</para>
+        <para id="id4462151">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>P</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>l</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mtext>mv</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>G</m:mi>
+                            <m:msup>
+                              <m:mo stretchy="false">Ω</m:mo>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mi>R</m:mi>
+                          </m:mrow>
+                          <m:mi>g</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>GR</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:msup>
+                            <m:mi>ω</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mtext>900</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{l} } = {  { ital "mv" rSup { size 8{2} } }  over  {2} } = {  {G %OMEGA  rSup { size 8{2} } R}  over  {g} } = {  { ital "GR"ω rSup { size 8{2} } }  over  {"900"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4404894">trong đó: m - khối lượng của máy và chất lỏng, kg;</para>
+        <para id="id4404906">v - tốc độ biên, m/s;</para>
+        <para id="id4404915">R - bán kính bên trong của thùng quay, m; </para>
+        <para id="id4404925">G - trọng lượng của vật thể quay, N;  - tốc độ góc của thùng quay, độ/s (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">Ω</m:mo><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>πω</m:mtext></m:mrow></m:mstyle><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ %OMEGA = {  { ital "πω"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>);</para>
+        <para id="id4405006">g - gia tốc rơi tự do, m/s2.</para>
+        <para id="id4405021">Yếu tố phân chia là một trong những chuẩn cơ bản để lựa chọn máy ly tâm hay máy phân ly. Yếu tố phân chia xác định gia tốc của trường ly tâm được phát triển trong máy, có bao nhiêu lần lớn hơn gia tốc trọng lực. Yếu tố phân chia được xác định theo công thức:</para>
+        <para id="id4405035"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>f</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msup><m:mo stretchy="false">Ω</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>R</m:mi></m:mrow><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">≃</m:mo><m:mfrac><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>R</m:mi></m:mrow><m:mtext>900</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{p} } = {  { %OMEGA  rSup { size 8{2} } R}  over  {g} }  simeq  {  {ω rSup { size 8{2} } R}  over  {"900"} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id4405137">Yếu tố phân chia càng cao thì khả năng phân chia của máy càng lớn. Yếu tố phân chia sẽ tăng đáng kể khi tăng số vòng quay của rôto. Ký hiệu năng suất của máy là chỉ số cơ bản của máy hoạt động: </para>
+        <para id="id4405154">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">∑</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>l</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>p</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ sum =F rSub { size 8{l} } f rSub { size 8{p} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4405223">trong đo : Fl - diện tích bề mặt lắng của xilanh, m2.</para>
+      </section>
+      <section id="id-133555841419">
+        <title>Máy ly tâm dạng lắng và dạng lọc</title>
+        <para id="id4235219">Các máy ly tâm thuộc dạng này được bịt kín, có thiết bị điện an toàn và thải cặn ở phía trên bằng phương pháp thủ công. Dẫn động máy ly tâm được thực hiện từ động cơ qua truyền động bằng dây đai hình thang. Trong các máy loại này có khoá liên động cho động cơ và nắp vỏ khi giảm áp suất khí trơ trong các khoang vỏ dưới 1470 Pa. Các chi tiết của máy tiếp xúc với sản phẩm được chế tạo bằng thép 12X18H10T.</para>
+        <para id="id4235234">Trong công nghiệp vi sinh máy ly tâm đứng có kích thước nhỏ được sử dụng rộng rãi do độ kín và tính an toàn cao. Loại này rất thuận lợi cho nhiều quá trình tách và làm sạch một lượng vừa phải các chất hoạt hoá sinh học. Đặc tính kỹ thuật của chúng được nêu ở bảng 11.1.</para>
+      </section>
+      <section id="id-179762628685">
+        <title>Máy ly tâm ống (máy ly tâm siêu tốc)</title>
+        <para id="id4235258">Để làm trong các huyền phù có chứa một lượng không đáng kể các tạp chất rắn có độ phân tán cao, để tách các tạp chất rắn có độ phân tán cao và các nhũ tương thường sử dụng máy ly tâm siêu tốc. Khi làm trong huyền phù có chứa pha rắn có độ phân tán cao hơn 1% thì các máy ly tâm siêu tốc được hoạt động theo chu kỳ và tháo cặn bằng phương pháp thủ công. Khi tách nhũ tương thì các máy ly tâm siêu tốc hoạt động liên tục.</para>
+        <para id="id4235282">Bộ phận kết cấu quan trọng của máy ly tâm siêu tốc thuộc loại OTP và PTR là loại rôto ống. Máy siêu âm cao tốc (hình 11.1) được lắp đặt trên bệ bằng gang 8, đồng thời cũng là vỏ để bảo vệ máy và nó gồm rôto 9, đỉnh dẫn động 2 được nối với trục, bộ hãm và các khớp nối để thu nhận và tháo chất lỏng 4 và 7. Đầu trên của rôto được nối với đỉnh dẫn động qua trục, còn đầu dưới thì tỳ tự do vào ống dẫn hướng, cho phép trung tâm quay của rôto luôn ở hướng trọng tâm vì đáy rôto chuyển dời vào vị trí trọng tâm.</para>
+        <para id="id4235316">Bảng 11.1. Đặc tính kỹ thuật của các máy ly tâm lắng và lọc</para>
+        <table id="id4235323" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>ЮРВ - 303K - 04</entry>
+                <entry>ЮРВ - 403K - 04ЮРВ - 403K - 04</entry>
+              </row>
+              <row>
+                <entry>Rôto, mmđường kính trongchiều cao hoạt độngYếu tố phần chia khi số vòng quay, vòng/phút1500244034604250Dung tích, m3Tải trọng lớn nhất, kgThời gian, stăng tố́chãmCông suất động cơ, kWSố vòng quay của trục, vòng/phútKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>3001503751000200030000,0510909030328501160700765400</entry>
+                <entry>40020050013002680-0,120909030328501160700765420</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4450109"><figure id="id4450120"><media id="id4135193" alt=""><image src=".png" mime-type="image/png" height="348" width="309"/></media></figure>Hình 11.1.Máy ly tâm siêu tốcKhả năng chuyển dời tự do được giảm đến tối thiểu nhằm giảm sự nguy hiểm khi xuất hiện ứng lực lớn trong các ổ bi và loại trừ rung động gây ra sự phá huỷ cân bằng. Bên trong rôto lắp cánh quạt 5 để truyền tốc độ góc của rôto cho chất lỏng. Phớt chắn 3 ở dưới có lỗ trung tâm để thu nhận chất lỏng. Ly tâm siêu tốc dạng ống làm việc với số vòng quay của rôto từ 8000 đến 45000 vòng/phút. Dẫn động máy ly tâm được thực hiện từ động cơ 1 nằm ở phần trên của máy, qua truyền động dây đai dẹt có cơ cấu căng đai dạng con lăn ép 10.</para>
+        <para id="id4450193">Khi máy hoạt động, huyền phù qua vòi phun của ống nạp liệu vào phần dưới của rôto và khi quay cùng rôto huyền phù sẽ chảy theo tường của nó theo hướng dọc trục. Theo mức độ chuyển động dọc theo rôto, huyền phù bị phân lớp tương xứng với tỷ trọng của các phần trong thành phần chất lỏng. Khi đó tiểu phần rắn trong trạng thái lơ lửng bị tách ra khỏi chất lỏng, và bị lắng trên tường rôto, còn chất lỏng qua lỗ trên ở đầu rôto được đưa vào ngăn rót, và sau đó vào thùng chứa. Nhờ không xảy ra biến đổi đáng kể hướng chuyển động của chất lỏng và những dòng xoáy rối, nên loại trừ được khả năng tái xâm nhập của các tiểu phần vào huyền phù. Khi kết thúc sự phân chia, máy được dừng lại nhờ bộ hãm 6, tháo rôto cùng cặn, thiết lập sự an toàn và lặp lại chu kỳ hoạt động.</para>
+        <para id="id4450228">Ly tâm nhũ tương được tiến hành như sau: nhũ tương theo ống tiếp liệu vào phần dưới của rôto và theo mức độ chuyển động lên, trên được phân ra thành những cấu tử nặng và nhẹ. Cấu tử nặng sẽ qua các lỗ được phân bổ ở tường rôto rồi vào đĩa rót ở dưới và tiếp tục qua đoạn ống để đưa ra ngoài.</para>
+        <para id="id4450242">Các bộ phận tiếp xúc trực tiếp với sản phẩm đều được chế tạo bằng thép 12X18H10T và 20X13. Khoang bên trong của khung bằng gang được phủ lớp sơn chịu axit. Các máy ly tâm siêu tốc rất gọn, tiện lợi cho thao tác và có số vòng quay lớn, mặc dầu đường kính rôto nhỏ (bảng 11.2). </para>
+        <para id="id4450260">Bảng 11.2. Đặc tính kỹ thuật của máy ly tâm siêu tốc</para>
+        <table id="id4450267" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>OTP- 101K-1PTP -101K-1</entry>
+                <entry>OTP-151K-1PTP- 151K-1</entry>
+              </row>
+              <row>
+                <entry>Đờng kính trong của rôto, mmSố vòng quay lớn nhất của rôto, vòng/phútYếu tố phân chia lớn nhấtTải trọng lớn nhất, kgCông suất động cơ điện, kWKích thước cơ bản của máy với động cơ, mmKhối lượng, kg</entry>
+                <entry>1051500013200102,28507301720560</entry>
+                <entry>1501353015250207,510707402050850</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4450484">Khi tăng số vòng quay của rôto lên bao nhiêu lần, đồng thời giảm đường kính của nó xuống bấy nhiêu lần thì tốc độ biên và ứng suất trong trường là không đổi. Yếu tố phân chia đối với các máy siêu tốc 12000  51000.</para>
+        <para id="id4450504">Nhược điểm của các máy ly tâm siêu tốc: tính hoạt động chu kỳ, cần thiết phải tháo và lắp thường xuyên, tháo chất lắng và rửa rôto bằng phương pháp thủ công, sự tồn tại truyền động bằng dây đai.</para>
+      </section>
+      <section id="id-891284156472">
+        <title>Máy ly tâm lắng nằm ngang có bộ tháo chất lắng bằng vít tải</title>
+        <para id="id4450528">Máy ly tâm lắng nằm ngang được ứng dụng để phân chia huyền phù có hàm lượng thể tích pha rắn từ 1 đến 40%, có kích thước các tiểu phần lớn hơn 2  5 m và sai khác giữa tỷ trọng pha rắn và lỏng lớn hơn 200 kg/m3. Theo chức năng công nghệ, các máy ly tâm được chia ra làm ba nhóm: làm trong và phân cấp, lắng vạn năng và lắng bằng phương pháp khử nước.</para>
+        <para id="id4450566">Ly tâm làm trong được ứng dụng để tinh chế huyền phù có pha rắn phân tán cao với nồng độ thấp, để tinh chế huyền phù khỏi các tiểu phần có kích thước lớn hơn 5 m trước khi nạp chúng đến các máy phân ly kiểu đĩa và máy phân ly siêu tốc và đồng thời để làm giảm nồng độ pha rắn trong huyền phù. Các máy ly tâm làm trong và phân cấp có yếu tố phân chia lớn hơn 2500 và tỷ số giữa chiều dài hoạt động của rôto và đường kính là 1,6  2,2.</para>
+        <para id="id4450599">Các máy ly tâm lắng vạn năng được ứng dụng để phân chia huyền phù có nồng độ pha rắn nhỏ và trung bình. Khi đó nhận được chất lỏng nguyên chất và chất lắng có độ ẩm không lớn. Yếu tố phân chia bằng 2000  3000, tỷ số giữa chiều dài hoạt động của rôto và đường kính 1,6 2,2.</para>
+        <para id="id4450628">Ly tâm lắng bằng phương pháp khử nước được ứng dụng để phân chia các huyền phù thô có nồng độ cao. Tính theo chất rắn loại này có năng suất lớn, đồng thời chất rắn nhận được có độ ẩm không lớn lắm. Yếu tố phân chia nhỏ hơn 2000, tỷ số chiều dài hoạt động của rôto và đường kính không lớn hơn 2.</para>
+        <para id="id4450643">Máy ly tâm lắng nằm ngang (hình 11.2) có rôto nằm ngang hình xilanh - nón 8, bên trong được lắp vít tải 7. Vít tải và rôto cùng quay một chiều, nhưng với số vòng quay khác nhau.</para>
+        <figure id="id4450663">
+          <media id="id8261829" alt=""><image src="../../media/graphics1-7e04.png" mime-type="image/png" height="192" width="467"/></media>
+        </figure>
+        <para id="id5279400">Hình 11.2. Máy ly tâm lắng nằm ngang:</para>
+        <para id="id5279406">1- Cơ cấu ngưng máy khi quá tải; 2- Cửa tháo; 3-Vỏ có các vách bên trong, 4- Cống nạp liệu; 5, 10- Bệ tựa rôto; 6- Khoang để tháo chất lỏng “nguyên chất”; 7- Vít tải; 8- Rôto xilanh- nón; 9- Khoang để tháo cặn; 11- Bộ truyền động </para>
+        <para id="id5279435">Vít tải vận chuyển chất lắng dọc theo rôto đến cửa tháo 2 nằm trong phần thắt lại của rôto. Rôto được lắp cố định trên hai bệ tựa 5 và 10 và được quay nhờ động cơ và truyền động bằng đai hình thang. Dẫn động vít tải được thực hiện từ rôto của máy ly tâm qua bộ truyền động 11. Vỏ bao phủ lấy rôto, có các vách ngăn 3 tạo ra các khoang để tháo chất lắng 9 ra khỏi khoang, để tháo chất lỏng “nguyên chất “ 6. Trong trường hợp quá tải thì cơ cấu an toàn 1 sẽ hoạt động làm ngừng máy đồng thời nạp các tín hiệu ánh sáng và báo động. Khi máy hoạt động, huyền phù nạp theo ống 4 vào khoang trong của vít tải rồi qua cửa tháo 2 để vào rôto. Dưới tác động của lực ly tâm, huyền phù được phân chia và các tiểu phần của pha rắn được lắng trên tường của rôto. Chất lỏng trong chảy vào cửa rót, tràn qua ngưỡng rót và được tháo ra khỏi rôto. Đường kính của ngưỡng tràn được điều chỉnh bởi van điều tiết. Đặc tính kỹ thuật của máy ly tâm dạng lắng nằm ngang được nêu ở bảng 11.3.</para>
+        <para id="id5279474">Bảng 11.3. Đặc tính kỹ thuật của các máy ly tâm hở lắng nằm ngang</para>
+        <table id="id5279482" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>202K - 3 và202K - 5</entry>
+                <entry>321K - 5</entry>
+                <entry>352K -3</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong lớn nhất của rôto, mmSố vòng quay lớn nhất của rôto vòng/phútYếu tố phân chia lớn nhấtTỷ số giữa chiều dài hoạt động của rôto và đường kínhCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>2006000400035,514551080740637</entry>
+                <entry>325350022301,667,51560970650660</entry>
+                <entry>350400031402,85302530185010752240</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5279766">Tiếp bảng 11.3</para>
+        <table id="id5279780" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>352K - 5 và202K - 6</entry>
+                <entry>501K - 6 và502K-4</entry>
+                <entry>802K -4</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong lớn nhất của rôto, mmSố vòng quay lớn nhất của rôto vòng/phútYếu tố phân chia lớn nhấtTỷ số giữa chiều dài hoạt động của rôto và đường kínhCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>350400031401,8222160185010751550</entry>
+                <entry>500265019601,86302585220010803400</entry>
+                <entry>800185015001,61753950266013707835</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5280071">Hoạt động của máy ly tâm được điều chỉnh bởi số vòng quay của rôto bằng cách thay đổi đường kính bánh đai, thay đổi tốc độ nạp huyền phù và thay đổi giá trị đường kính của ngưỡng tràn. </para>
+      </section>
+      <section id="id-867804058858">
+        <title>Các máy ly tâm lắng tự động có dao tháo cặn</title>
+        <para id="id5280099">Để tách các huyền phù khó lọc có pha rắn gồm những hạt nhỏ với kích thước 5  40 m không hoà tan và có nồng độ thể tích 10% thường sử dụng các máy ly tâm lắng dạng kín có dao tháo cặn. Máy ly tâm dạng lắng tự động (hình 11.3) có rôto ngang được lắp cố định trong các ổ bi lắc. </para>
+        <para id="id5280126">Trên nắp ly tâm được lắp ống nạp liệu, cơ cấu cắt chất cặn, phễu tháo liệu, bộ điều chỉnh mức lớp chất liệu và chuyển hành trình của dao. Máy ly tâm được trang bị thêm các cơ cấu tháo chất lỏng đã được làm trong, gồm ống tháo có xi lanh thuỷ lực và van tiết lưu để điều chỉnh tốc độ quay của ống tháo.</para>
+        <para id="id5280140">Có thể phân chia huyền phù bằng hai phương pháp. Phương pháp đầu là ở chỗ: huyền phù được nạp đầy vào rôto, sau đó phân chia hỗn hợp, tháo pha rắn qua ống tháo, rồi sau đó tháo pha lỏng đã được làm trong. Việc nạp huyền phù sẽ được dừng lại một cách tự động sau khi đạt được mức cặn quy định, tiếp theo tiến hành vắt. Dùng dao quay tròn hay chuyển động tịnh tiến để cắt chất cặn đã được vắt khô và cho qua phễu chứa để thải khỏi thiết bị. </para>
+        <para id="id5280144">Phương pháp hoạt động thứ hai của máy ly tâm lắng như sau: huyền phù cho vào rôto một cách liên tục, pha rắn được gom lại trong rôto, còn pha lỏng được làm trong rồi cho chảy tràn qua mép và được tháo ra khỏi máy. Sự nạp liệu cho máy ly tâm được tiếp tục cho đến khi rôto chứa đầy cặn. Pha lỏng còn lại sẽ qua ống tháo để tháo ra khỏi rôto. Khi phân chia các sản phẩm dễ nổ cần phải nạp khí trơ vào vỏ máy ly tâm. </para>
+        <para id="id5280162">Bảng 11.4. Đặc tính kỹ thuật của máy ly tâm lắng tự động</para>
+        <table id="id4442786" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>903K - 1</entry>
+                <entry>2003K - 1</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong của rôto, mmSố vòng quay lớn nhất của rôto, vòng/phútYếu tố phân chia lớn nhấtSức chứa, m3Tải trọng lớn nhất, kgCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>900170014500,315030318037021009593</entry>
+                <entry>20007606401,2515007542004660455019300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4443015">HGED<figure id="id4443120"><media id="id6849108" alt=""><image src=".png" mime-type="image/png" height="846" width="549"/></media></figure>ILFBHC1000 - 1500Hướng AKM</para>
+        <para id="id4443392">Hình 11-3. Máy ly tâm lắng tự động:B- Nạp huyền phù; C- Tháo chất lỏng đã được làm trong; D- Tháo chất lỏng nguyên chất; E- Thải nước rò rỉ; F- Thải hơi ra khỏi vỏ; G- Thải chất lắng; H- Nạp khí trơ; I- Nạp chất lỏng để rửa cặn; k- Thải khí; L- Nạp nước vào đệm kín; M- Thải nước ra khỏi đệm kín</para>
+      </section>
+      <section id="id-792751461161">
+        <title>Máy ly tâm lọc và ly tâm lắng kiểu treo có dẫn động ở trên </title>
+        <para id="id4443455">Loại này được sử dụng để gia công huyền phù có pha rắn hoà tan và không hoà tan, đặc biệt là để gia công axit ascorbic. Dùng dao để cắt chất cặn trong máy khi giảm số vòng quay của rôto.</para>
+        <para id="id4443468">Các bộ phận kết cấu chung của máy ly tâm kiểu treo gồm rôto đứng và trục cọc sợi, đầu trên của trục được lắp vào gối hình cầu. Gối hình cầu được đặt cao hơn trọng tâm của hệ quay và là hệ của các ổ lắc nằm trong cốc, được tựa tự do trên bề mặt cầu của vỏ bọc bộ dẫn động.</para>
+        <para id="id4443482">Lắp vỏ của bộ dẫn động trên thanh thép dọc hình chữ U. Dẫn động được thực hiện từ động cơ nối với trục máy ly tâm qua khớp đàn hồi.</para>
+        <para id="id4443494">Nạp huyền phù từ trên vào máy ly tâm lọc khi số vòng quay của rôto giảm, sau đó tăng số vòng quay đến trị số lớn nhất, vắt, rửa và lại vắt chất lỏng. Trong các máy ly tâm lắng, huyền phù được nạp vào khi tốc độ quay của rôto hoạt động. Dùng phanh đai gắn trong mũ của bộ dẫn động để hãm máy ly tâm, cũng như dùng động cơ điện có kết cấu cho phép hãm khi quay ngược chiều. Vỏ cũng là thùng để đựng phần lọc, từ đó được tháo ra qua khớp nối nằm ở dưới đáy thùng.</para>
+        <para id="id4443521">Máy ly tâm dạng мТ không được bịt kín, chúng được trang bị rôto có gờ trên đột lỗ, bộ điều chỉnh mức tải trọng rôto.</para>
+        <para id="id4443539">Máy ly tâm ЮмТ được trang bị thêm áo hơi để đun nóng. Chất liệu cho rôto lắng một cách liên tục qua ống nạp liệu có vòi phun. Chất lọc được tháo ra khỏi rôto một cách liên tục qua ống thải di động, còn cặn (đạt được lớp bề dày lớn nhất) thì tháo gián đoạn vào thùng chứa khi giảm số vòng quay của rôto đến 100 vòng/phút.</para>
+        <para id="id4443543">Bảng 11.5. Đặc tính kỹ thuật của máy ly tâm</para>
+        <table id="id4443549" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>ЮмТ - 10054- 1</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong của rôto, mmSố vòng quay lớn nhất vòng/ phútYếu tố phân chia lớn nhấtSức chứa, m3Tải trọng lớn nhất, kgCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>1000150012500,215320302000138042002700</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-86434248203">
+        <title>Máy ly tâm dạng ЮмФ</title>
+        <para id="id4235883">Loại này được sử dụng để phân chia các huyền phù mà pha rắn của chúng không thể tách được bằng phương pháp cơ học. Tháo cặn qua đáy rôto. Các cửa tháo cặn được đóng kín nhờ côn khoá hay đậy kín bằng đĩa phân phối.</para>
+        <figure id="id4235901">
+          <media id="id7057528" alt=""><image src="../../media/graphics2-55c2.png" mime-type="image/png" height="412" width="335"/></media>
+        </figure>
+        <para id="id4235929">Hình 11.4. Máy ly tâm dạngмФ-120 (мМ-1200):</para>
+        <para id="id4235947">1- Ống nối dưới của vỏ; 2- Các trục đỡ; 3- Cơ cấu để hấp; 4- Cơ cấu rửa; 5- Cơ cấu khoá chuyền của nắp; 6- Nắp vỏ; 7- Khu các ổ trục; 8- Khu dẫn động; 9- Động cơ điện; 10- Khớp nối bằng cao su; 11- Phanh đai; 12- Bộ giảm xóc bằng cao su; 13- Khu dẫn động; 14- Trục; 15- Khoá điều khiển; 16- Vỏ; 17- Rôto; 18- Côn khoá; 19- Đáy vỏ; 20- Khớp tháo; 21- Bộ phân tụ</para>
+        <para id="id4235962">Huyền phù được nạp vào khi nắp trên đóng kín (hình 11.4), có số vòng quay của rôto 333 vòng/phút, côn khoá hạ xuống và huyền phù được đẩy đến đĩa phân phối làm tăng khả năng phân bổ đều huyền phù trong rôto. Sau khi tháo liệu thì tăng dần số vòng quay của rôto đến 1000 vòng/phút. Kết thúc quá trình vắt và rửa cặn thì cho máy ngừng lại, nâng côn khoá và cặn được tháo ra qua đáy rôto. Tải trọng lớn nhất của máy ly tâm 450 kg với yếu tố phân chia cực đại 670.</para>
+      </section>
+      <section id="id-751461828728">
+        <title>Máy ly tâm kiểu chống nổ</title>
+        <para id="id4235997">Khi sản xuất các chất hoạt hoá sinh học trong các giai đoạn tách, thường sử dụng các dung môi hữu cơ. Cho nên sự phân chia các hệ như thế cần phải tiến hành trong các máy ly tâm đựợc sản xuất ở dạng chống nổ. Các máy ly tâm thuộc các dạng ЮКТ, ЮКТ và МВ được sử dụng rộng rãi nhất.</para>
+        <para id="id4236034">Các máy ly tâm thuộc các dạng ЮКТ-353K-2 và 353K-9 được chế tạo bằng thép không gỉ 12X18H10T rất thuận tiện để tách các huyền phù dễ cháy và dễ nổ.</para>
+        <para id="id4236046">Bảng 11.6. Đặc tính kỹ thuật của máy ly tâm ЮКТ-353K-2 và 353K-9để tách các huyền phù dễ cháy và dễ nổ </para>
+        <table id="id4236064" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>ЮКТ -353K- 2 và 353K- 9</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong của rôto, mmSố vòng quay lớn nhất, vòng/phútYếu tố phân chia lớn nhấtTỷ số giữa chiều dài hoạt động của rôto và đường kínhÁp suất khí trơ trong vỏ máy, PaCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>350360025002,854900302530185010762500</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4236222">Máy ly tâm tự động dạng КТ-1254K-7 được dùng để tách các hoạt hoá sinh học bị kết tủa bởi các dung môi hữu cơ. Chúng được sử dụng để trích ly huyền phù trong một khoảng rộng của độ phân tán và nồng độ của pha rắn với kích thước khác nhau của các hạt. Máy ly tâm hoạt động dưới áp suất 3,8 kPa có thổi khí trơ.</para>
+        <para id="id4236247"><figure id="id4236250"><media id="id6812202" alt=""><image src="../../media/graphics3-0b18.png" mime-type="image/png" height="429" width="504"/></media></figure>Máy ly tâm КТ-1254K-7 (hình 11.5) lắp đặt trên bệ gang và gồm có vỏ, cụm </para>
+        <para id="id4236294">Hình 11.5. Máy ly tâm tự động dạng  КТ - 1254 K- 7 kiểu chống nổ:1- Ống nạp liệu ; 2- Bộ điều chỉnh mức cặn; 3- Phễu tháo; 4- Ống ghép; 5- Cơ cấu tái sinh các lưới lọc; 6- Nắp phía trước; 7- Cơ cấu tháo cặn; 8- Rôto; 9- Bàn chải (chổi); 10- Khoang sau của vỏ</para>
+        <para id="id4236387">van chính và động cơ thuỷ lực. Bên trong vỏ có rôto 8, được lắp trên trục chính, trục chuyển động được nhờ động cơ và bộ truyền dẫn đai hình thang, cửa 6 được kẹp chặt bản lề trên bệ để đóng kín vỏ. Ở phần trên của vỏ có các đoạn ống để xả hơi và thổi khí trơ, còn phần dưới - các đoạn ống để tháo chất lọc và van tháo dung dịch rửa.</para>
+        <para id="id4236402">Trên nắp có gắn dao quay, bộ điều chỉnh tải trọng rôto, các đoạn ống để rửa cặn và các thiết bị lọc. Van nạp liệu và đồng hồ đo chuyển động của huyền phù được nối với ống nạp liệu, còn van rửa máy và van rửa lưới lọc thì nối với ống rửa. Số vòng quay của rôto khi rửa bằng 70  80 vòng/phút và được đảm bảo bỡi bộ dẫn động phụ, gồm thiết bị dẫn động thuỷ lực có khớp trục một chiều và trạm bơm dầu. Mở dẫn động phụ chỉ sau khi ngừng dẫn động chính. Huyền phù nạp vào rôto qua van nạp liệu và được điều chỉnh nhờ bộ điều chỉnh tải trọng. Sau khi tách pha lỏng khỏi sản phẩm rắn, có thể tiến hành rửa sản phẩm bằng chất lỏng được đưa qua van và ống rửa. Dùng dao có cơ cấu cắt để cắt cặn và sau đó cho qua máng để vào thùng nhận.</para>
+        <para id="id4236445">Thời gian thao tác lọc, vắt, rửa và tái sinh các lưới lọc được xác định nhờ rơle thời gian.</para>
+        <para id="id4236454">Bảng 11.7. Đặc tính kỹ thuật của máy ly tâm tự động kiểu chống nổ</para>
+        <table id="id4236461" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>ЮКТ-1254K-7</entry>
+                <entry>ЮКТ-633K-2</entry>
+              </row>
+              <row>
+                <entry>Đường kính trong của rôto, mmSố vòng quay của rôto, vòng/phútYếu tố phân chia lớn nhấtTải trọng lớn nhất, kgCông suất động cơ, kWcủa máy ly tâmcủa trạm bơmKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>12501000710400402,24560356030906730</entry>
+                <entry>6302390200040200,63130196515701352</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4314288">Máy ly tâm dạng МВ-603-2 là thiết bị kín, chống nổ, tác động tuần hoàn với động cơ được lắp đồng trục với trục của rôto. Tất cả các cụm cơ bản của máy đều được lắp trên khung treo nhờ các thanh đỡ ở trên ba trụ. Rôto quay được nhờ động cơ nối với trục qua khớp nối ly hợp khởi động. Để dừng rôto một cách nhanh chóng và êm, máy cần lắp bộ hãm tự động. Nắp vỏ và cơ cấu đóng kín được tự động hoá và có thể mở ra chỉ sau khi dừng hẳn.</para>
+        <para id="id4314320">Nạp huyền phù theo ống qua cơ cấu ép nén để phân bổ đều. Sức chứa của rôto 0,08 m3, tải trọng lớn nhất 100 kg. Áp suất hoạt động của khí trơ 2,94 KPa. Số vòng quay lớn nhất của rôto 1450 vòng/phút, yếu tố phân chia cực đại 945. Công suất của động cơ 5,5 kW. Kích thước cơ bản 13751415 1635 mm. Vật liệu của các bộ phận tiếp xúc với sản phẩm - thép cacbon được phủ chất dẻo. Máy có trang bị bộ điều khiển.</para>
+      </section>
+    </section>
+    <section id="id-00143746631081">
+      <title>CÁC MÁY PHÂN LY</title>
+      <para id="id4314369">Việc phân chia các hệ ra thành các phần có tỷ trọng khác nhau được tiến hành có hiệu quả nhất khi phân ly. Phân ly đã được sử dụng rộng rãi khi tuyển tinh nấm men gia súc và nấm men bánh mì, khi phân chia các nhũ tương và làm trong các dung dịch các chất hoạt hoá sinh học trước khi cô trong các thiết bị cô và trong các thiết bị siêu lọc. Ứng dụng các máy phân ly cho phép gia công một khối lượng lớn các loại huyền phù khó lọc, cho phép tăng cường việc tách và cô các vi sinh vật và các tiểu phần rắn có kích thước lớn hơn 0,5 m.</para>
+      <para id="id4314404">Theo mục đích của công nghệ, các máy phân ly chất lỏng theo phương pháp ly tâm được chia ra làm năm nhóm:</para>
+      <para id="id4314413">- Các máy phân ly để tách hai chất lỏng không hoà tan với nhau (ví dụ nước và parafin) đồng thời loại cấu tử lơ lửng khỏi chất lỏng;</para>
+      <para id="id4314424">- Bộ lọc để loại các cấu tử lơ lửng (các tế bào của huyền phù vi sinh) khỏi chất lỏng;</para>
+      <para id="id4314432">- Bộ lọc - bộ phân chia được hoạt động chủ yếu phụ thuộc vào sự lắp ráp rôto;</para>
+      <para id="id4314440">- Máy cô đặc để tăng nồng độ các cấu tử lơ lửng hay các cấu tử keo của huyền phù vi sinh, đồng thời với việc phân chia sản phẩm trong trường hợp nhũ tương;</para>
+      <para id="id4314452">- Máy phân cấp để phân loại các cấu tử lơ lửng của huyền phù theo kích thước hay theo tỷ trọng các hạt.</para>
+      <para id="id4314462">Theo phương pháp thải chất lắng từ rôto, các máy phân ly được chia ra loại máy phân ly tháo bằng xung động ly tâm (tự tháo liệu), loại máy phân ly tháo bằng ly tâm liên tục (có ống thổi thẳng) và loại máy phân ly tháo cặn bằng phương pháp thủ công khi dừng rôto.</para>
+      <para id="id4314476">Năng suất của máy phân ly phụ thuộc vào các tính chất hoá lý của vật liệu gia công, cũng như vào mức độ cô đặc được yêu cầu.</para>
+      <para id="id4314487">Yếu tố phân chia của máy phân ly phụ thuộc vào các chỉ số kết cấu và được tính theo công thức:</para>
+      <para id="id4314496">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>p</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mi>i</m:mi>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mo stretchy="false">Ω</m:mo>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>tg</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mi>ϕ</m:mi>
+                    <m:mfenced open="" close="">
+                      <m:mrow>
+                        <m:msubsup>
+                          <m:mi>R</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>max</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msubsup>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msubsup>
+                          <m:mi>R</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>min</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msubsup>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{p} } =i %OMEGA  rSup { size 8{2} }  ital "tg"ϕ left (R rSub { size 8{"max"} }  rSup { size 8{3} }  - R rSub { size 8{"min"} }  rSup { size 8{3} }  right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id4314627">trong đó : i - số đĩa;</para>
+      <para id="id4314638"> - tốc độ góc của trống, độ/s;</para>
+      <para id="id4314653"> - góc nghiêng tạo ra giữa đĩa và mặt phẳng ngang, độ;</para>
+      <para id="id4314667">Rmax và Rmin - bán kính lớn nhất và bán kính bé nhất của đĩa, mm.</para>
+      <section id="id-391565465302">
+        <title>Máy phân ly - máy làm lắng trong</title>
+        <para id="id4314703">Máy phân ly làm lắng dạng đĩa được sử dụng trong công nghệ vi sinh để làm trong chất lỏng và tách các hợp chất của các chất lỏng hay của các huyền phù.</para>
+        <para id="id4314715">Thuộc loại này bao gồm các máy phân ly kín dạng ГтЭ-В, ЮФIт-637, ГтЭ có bộ tháo cặn bằng xung động ly tâm.</para>
+        <para id="id4314740">Máy phân ly dạng ГтЭ-В (hình 11.6) gồm khung máy 2 có cơ cấu dẫn động, trống quay có van để tháo chất lỏng giữa các đĩa, cơ cấu nhận và tháo 18, thuỷ trạm 7 và bộ hãm .Bên trong vỏ máy phân ly lắp các cơ cấu dẫn động, tốc kế vòng 5, bộ hãm và thuỷ trạm. Ở phần trên của vỏ có âu 8, bên trong nó có thùng 9 để chứa chất lỏng giữa các đĩa. Âu 8 được lắp thêm hai đoạn ống để nạp và tháo chất lỏng lạnh trong qúa trình phân ly. Trống quay là bộ phận hoạt động cơ bản, dưới tác động của lực ly tâm trong không gian giữa các đĩa xảy ra hiện tượng tách các hạt lơ lửng từ chất lỏng canh trường. </para>
+        <para id="id4314770">Trong vỏ 11 của trống quay được lắp bộ giữ đĩa 14, bộ đĩa 15, pittông 13 và van 10. Thuỷ trạm được đặt trong âu để điều khiển đóng, tháo trống quay và mở các van.</para>
+        <para id="id4314782">Trống quay được nhờ động cơ riêng biệt. Động cơ nối với trục ngang 4 qua khớp nối, do đó những biến đổi đáng kể của momen xoắn bị triệt tiêu. Khớp ly hợp ma sát bảo đảm cho truyền động quay không đổi và nhịp nhàng.</para>
+        <para id="id4314797">Chất lỏng canh trường theo ống nạp trung tâm 19 vào khoang trong của bộ giữ đĩa, sau đó vào khoang không gian chứa bùn 23 của trống. Dưới tác dụng của lực ly tâm, những hạt nặng và lớn nhất của sinh khối bị bắn tới ngoại vi của trống, còn chất lỏng có các hạt sinh khối nhỏ hơn thì vào túi của các đĩa hình nón. Độ mỏng của lớp và tính phân tầng của dòng chảy sẽ bảo đảm tách những hạt sinh khối nhỏ nhất trong không gian giữa các đĩa ở trên bề mặt trong của các đĩa.</para>
+        <para id="id4314823">Chất lỏng đã được làm trong chảy ngược lên theo các rãnh ngoài của bộ giữ đĩa vào khoang của đĩa áp lực 17 và được tháo ra khỏi trống, còn các hạt sinh khối đã được tách ra chuyển xuống theo bề mặt các đĩa vào khoảng không chứa bùn. Khi khoảng không chứa bùn đã đầy thì ngừng nạp canh trường chất lỏng và nhờ hai cơ cấu van rót mà chất lỏng đã được làm trong từ khoảng không giữa các đĩa vào thùng chứa. Nhờ cơ cấu tháo mà sinh khối được đẩy vào thùng chứa bùn 22. Sau khi ngừng nạp nước đệm vào khoang trên pittông, đóng kín trống quay và chu kỳ công nghệ được lặp lại. Để bít kín khoảng không gian chứa bùn trong máy phân ly kiểu ly tâm có bộ tháo cặn bằng xung động cần phải tạo độ chênh lệch áp suất giữa chất lỏng bên trong trống và áp suất của phần tử đưa vào bề mặt kín. Để thực hiện được điều đó có thể sử dụng chất đệm phụ, không khí, cũng có thể là lò xo hay các phần tử đàn hồi khác.</para>
+        <para id="id4314858">Đường kính trống quay 600 mm, khe hở giữa các đĩa 0,5 mm, số vòng quay của trống 5000 vòng/phút.</para>
+        <para id="id4314864"><figure id="id4314867"><media id="id8372521" alt=""><image src="../../media/graphics4-58f5.png" mime-type="image/png" height="577" width="423"/></media></figure>23112346272625242221201211109871314151617</para>
+        <para id="id4205018">Sản phẩm raSản phẩm vào</para>
+        <para id="id4205085">Hình 11.6. Máy phân ly dạng ГтЭ-В:</para>
+        <para id="id4205102">1,6- Các nút; 2- Khung máy; 3- Bộ chỉ mức dầu; 4- Trục ngang; 5- Tốc kế vòng; 7- Thuỷ trạm; 8- Âu; 9- Thùng thu nhận; 10- Van; 11- Vỏ trống quay; 12- Đáy trống; 13; Pittông; 14- Bộ giữ đĩa; 15- Đĩa; 16- Nắp trống; 17- Đĩa áp lực; 18- Cơ cấu nhận và tháo; 19- Ống trung tâm; 20,21- Các vòng căng; 22- Thùng chứa bùn; 23- Khoảng không gian chứa bùn; 24- Ổ trục trên; 25- Lò xo trục trên; 26- Trục đứng; 27- Gối tựa</para>
+        <para id="id4205117">Bảng 11.8. Đặc tính kỹ thuật của máy phân ly có bộ tháo cặn ly tâm xung động</para>
+        <table id="id4205125" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>ГтЭВ</entry>
+                <entry>РтIт</entry>
+                <entry>ЮХР</entry>
+              </row>
+              <row>
+                <entry>Năng suất , l/hSố đĩaThể tích không gian chứa bùn, lCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>2000135 15516131450107015601440</entry>
+                <entry>20001009141560116018701412</entry>
+                <entry>160091-141245109015201122</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-751186246935">
+        <title>Các máy phân ly có bộ tháo cặn liên tục bằng ly tâm</title>
+        <para id="id4205416">Để phân chia các huyền phù nấm men, trong công ghiệp vi sinh thường sử dụng máy phân ly có tháo cặn liên tục. Đó là loại máy phân ly - cô đặc kín bằng đĩa có bộ tháo cặn liên tục bằng phương pháp ly tâm và tháo chảy tự do cấu tử lỏng.</para>
+        <para id="id4205432">Máy phân ly (hình11.7) gồm khung 1 với cơ cấu dẫn động, trống quay 2 với các đĩa và trục, bộ phận chứa chất cô nấm men 4 và đoạn ống để tháo chất lỏng canh trường đã xử lý 3. Dẫn động máy phân ly được thực hiện từ động cơ riêng biệt qua khớp nối ly hợp ma sát và bộ truyền trục vít bánh vít có tốc độ cao. Trống quay được lắp đặt tự do trên trục con và được lắp vào các rãnh xẻ của trục bằng thanh giằng, nhờ đó đảm bảo việc tự điều chỉnh tâm của trống quay. Bên trong trống được lắp các đĩa hình nón có các gờ trên bề mặt ngoài, khoảng cách giữa các đĩa bằng 0,8 mm. Gia cố các túi trong ống quay nằm trong bộ giữ đĩa. Ở phần dưới của máy theo vòng tròn phân bổ các rãnh xuyên qua được đặt các ống tháo chất cô nấm men. </para>
+        <para id="id4205469">Huyền phù nấm men nạp qua ống phân phối vào khoang trong của bộ giữ đĩa, tại đây nhờ các gờ của nó mà chuyển động quay được truyền đến. Huyền phù chảy qua giữa bộ giữ đĩa và đáy trống. Dưới tác động của lực ly tâm, các tế bào nấm men lớn hơn bắn vào ngoại vi của trống quay. Huyền phù từ khoang chứa nấm men vào túi của các đĩa hình nón và trong chế độ chảy tầng thì bị tràn ra thành lớp mỏng đều nhau. Dưới tác động của lực ly tâm các tế bào nấm men, khi có tỷ trọng lớn so với pha lỏng, lắng trên bề mặt trong của các đĩa và được chuyển đảo theo bề mặt vào không gian chứa bùn của trống. Chất cô nấm men qua miệng phun ngoài vào thùng chứa.</para>
+        <para id="id4205504">Có thể điều chỉnh nồng độ nấm men trong huyền phù cô đặc bằng phương pháp thay đổi đường kính các lỗ trong miệng phun, tuy nhiên tỷ số các đường kính lỗ ở trong và bên ngoài của miệng phun lớn hơn 1:1/7. Khi giảm lượng miệng phun thì mức độ cô huyền phù nấm men tăng lên làm cho năng suất của máy giảm.</para>
+        <para id="id4205518">Chất lỏng được phân ly khi qua túi của các đĩa, chảy ngược lên dọc theo bề mặt ngoài của bộ giữ đĩa và chảy vào khoang rồi được tháo ra ngoài nhờ đĩa áp lực.</para>
+        <para id="id4205530">Mức độ cô huyền phù phụ thuộc vào nồng độ nấm men trong huyền phù ban đầu. Khi nồng độ của nấm men có 75% nước, bằng 20  30 g/l, mức độ cô là 8  10%, còn khi nồng độ 80  120 g/l là 5  6%. Cô huyền phù đến hàm lượng nấm men 550  600 g/l được tiến hành trong khoảng 2  3 mức phân ly liên tục. </para>
+        <para id="id4457741">Chất lắng cần phải đạt độ dẻo để cho nó không thể chảy ra khỏi vòi phun, không bít vòi và không tạo vòm bên trong rôto. Liên quan với điều đó việc lọc sơ bộ có ảnh hưởng tốt tới hoạt động của máy phân ly. Lọc sơ bộ qua bộ lọc lưới để loại các tạp chất cơ học, làm bẩn khoảng không gian giữa các đĩa và làm bẩn các lỗ trong miệng phun. Sử dụng các máy phân ly trên để thu nhận các chất cặn có độ ẩm nhỏ nhất là không cần thiết.</para>
+        <para id="id4457767"><figure id="id4457777"><media id="id7080501" alt=""><image src=".png" mime-type="image/png" height="772" width="644"/></media></figure>Hình 11.7. Máy ly tâm COC -501K-3</para>
+        <para id="id4457824">Hiện nay nhiều nước đã sản xuất các máy phân ly để cô nấm men gia súc và các sản phẩm vi sinh khác có năng suất đến 200.000 l/h (loại FEUX), trống quay được lắp ống áp lực để thải các hạt rắn. Dưới tác động của lực ly tâm, trong tổ hợp gồm các đĩa hình nón của trống quay, huyền phù được phân ra các hạt rắn và pha lỏng. Các hạt nặng bắn vào thành ống và xa hơn đến ngoại vi, rồi theo một loạt ống (nhờ vòi phun) ở đầu trong vào khoang ở đáy trống. Ống áp lực cố định bên trong cô kết chất cô và dưới áp lực được tháo qua ống vào phần trên của trống. Chất lỏng trong được tháo ra khỏi trống qua cửa thoát.</para>
+        <para id="id4457864">Bảng 11.6. Đặc tính kỹ thuật của máy phân ly để cô huyền phù nấm men</para>
+        <table id="id4457871" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>COC - 501K -1(тФК-35)</entry>
+                <entry>COC - 501K -3(тФК - 50)</entry>
+                <entry>тФIт</entry>
+                <entry>тФХ 901; М-01</entry>
+                <entry>FEUX - 412 (Thuỵ Điển)</entry>
+                <entry>FEU X-420 T31C (Thuỵ Điển)</entry>
+                <entry>TA - 205 - 01167 (Đức)</entry>
+              </row>
+              <row>
+                <entry>Năng suất tính theo huyền phù ban đầu, m3/hĐường kính trống, mmCông suất động cơ, kWTiêu thụ năng lượng riêng, kW/kg</entry>
+                <entry>152551620-</entry>
+                <entry>2035516300,19</entry>
+                <entry>4050650750,064</entry>
+                <entry>70809001320,084</entry>
+                <entry>200900150-</entry>
+                <entry>80909001350,09</entry>
+                <entry>100800550,06</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-154541298829">
+        <title>Máy phân ly vi khuẩn tốc độ cao dạng AX - 213</title>
+        <para id="id4458296">Máy phân ly vi khuẩn tốc độ cao dạng AX-213 thuộc máy phân lý mới nhất và hiện đại. Yếu tố phân chia của nó bằng 142000, nhờ đó có thể tách các hạt có đường kính đến 0,0005 mm. Năng suất của máy đạt 36 m3/h.</para>
+        <para id="id4458321">Các hạt rắn được phân ly tập trung ở ngoại vi của trống quay - ngoài vùng phân ly - và trong khoảng thời gian 4  5 phút thì tháo ra ngoài nhằm tránh sự ngăn cản dòng tiếp theo. Máy phân ly vi khuẩn làm việc liên tục, không cần phải ngừng để làm sạch, có hệ thống điều khiển quá trình tháo dỡ các hạt rắn, quá trình rửa không cần phải tháo trống quay và hoàn toàn được tự động hoá.</para>
+        <para id="id4458346">Máy phân ly vi khuẩn (hình11.8) được lắp đặt trên bệ 13 có bốn chân giảm xóc 10, đảm bảo tính ổn định và loại trừ dao động của máy khi hoạt động. Bên trong vỏ có trục đứng, trống quay 2 được lắp chặt trên trục hình thành dạng lõi - ống. Các ổ trục trên và dưới được lắp trong các bộ giảm xóc bằng cao su để loại trừ rung động. Hệ bôi trơn bằng phun dầu tạo sương mù được tiến hành khi trục quay.</para>
+        <para id="id4458360">Trống của máy phân ly vi khuẩn được trang bị các túi 3 để gom hạt rắn. Các mặt bên của túi được xếp thành góc để hướng các hạt rắn vào các ống xả. Sự bố trí các ống xả theo dọc trục cho phép đảm giữ sự hoàn chỉnh tường ngoài của trống, và làm cho nó có độ bền cơ học lớn. Sự tồn tại vòng hãm làm cho đường kính nhỏ lại nhằm giảm khối lượng và tăng độ bền thiết bị nhưng cho phép đạt tốc độ cao.</para>
+        <para id="id4458375">Động cơ 12 được lắp trên bệ. Truyền động quay tới trục trống nhờ đai đơn dẹt. Khớp nối từ tính 11 bảo đảm việc mở và dừng trục một cách êm thuận. Máy phân ly vi khuẩn được trang bị bộ hãm bằng thủ công để tác động tới tang của thùng chứa dầu đặt ở trong đáy vỏ trục.</para>
+        <figure id="id4458396">
+          <media id="id6083960" alt=""><image src="../../media/graphics5-7136.png" mime-type="image/png" height="446" width="480"/></media>
+        </figure>
+        <para id="id4458424">Hình 11.8. Máy phân ly vi khuẩn có tốc độ cao AX - 213 của Hãng -Lavale:</para>
+        <para id="id4458443">1- Ống nạp chất lỏng để làm trong; 2- Trống; 3- Các túi để chứa các hạt rắn; 4- Đĩa áp lực; 5- Vật đệm kín; 6- Vòi để xả các hạt rắn; 7- Các đĩa; 8- Vỏ trục;9- Bộ tra dầu; 10- Bộ giảm xóc; 11- Khớp nối từ tính; 12- Động cơ; 13- Bệ máy</para>
+        <para id="id4458463">Nạp chất lỏng canh trường ban đầu vào trống từ trên theo ống tâm cố định 1, rồi qua bộ phân phối để vào bộ đĩa 7, tại đây các hạt rắn được tách ra. Các hạt rắn được bắn xuyên tâm theo hướng tác động của các lực ly tâm và được tháo xuống đĩa, rơi xuống mép đĩa và được đẩy ra khỏi khoảng giữa các đĩa vào ngoại vi đã được phân bố của túi, tại đây các hạt được gom lại.</para>
+        <para id="id4458478">Chất lỏng trong chảy lên miệng trống và được tháo ra nhờ đĩa áp lực 4. Trên đĩa áp lực có vật đệm kín 5.</para>
+        <para id="id4458487">Tiến hành phun gián đoạn các hạt rắn, cứ 4  5 phút phun một lần trong khi chất lỏng được nạp liên tục và không được ngừng hoạt động. Các ống xả dọc trục 6 được nối với các van. Trong điều kiện bình thường, các van được đóng lại nhờ tấm chắn lò xo. Để đẩy các hạt rắn, tấm chắn hạ xuống nhờ thổi đột ngột không khí vào trục rỗng của trống. Khi đó các van được mở ra và các hạt rắn được tháo vào vòng gom. Các hạt rắn được tháo ra từ vòng gom vào xiclon, sau đó được tháo ra ngoài dưới áp suất của lực ly tâm.</para>
+        <para id="id4458523">Thiết bị để phân ly vi khuẩn (hình 11.9) gồm máy phân ly 3, trạm điều khiển 2, tủ 1 có thiết bị chuyển mạch và bộ van 4. Tất cả các công đoạn đều được tiến hành ở chế độ tự động.</para>
+        <para id="id4458536"><figure id="id4458546"><media id="id6105677" alt=""><image src=".png" mime-type="image/png" height="212" width="510"/></media></figure>Tháo cặnNạp dung dịch ban đầuTháo chất lỏng đã được phân lyNước để rửa Không khí nén</para>
+        <para id="id4440183">Hình 11.9. Sơ đồ thiết bị phân ly vi khuẩn tốc độ cao AX - 213 của Hãng  -Lavale</para>
+        <para id="id4440202">Đặc tính kỹ thuật của thiết bị phân ly vi khuẩn AX - 213</para>
+        <para id="id4440208">Năng suất, m3/h: 36</para>
+        <para id="id4440228">Đường kính trống quay, mm: 430</para>
+        <para id="id4440237">Công suất động cơ, kW: 30/37</para>
+        <para id="id4440251">Kích thước cơ bản, mm:</para>
+        <para id="id4440257">dài: 1770</para>
+        <para id="id4440273">rộng: 940</para>
+        <para id="id4440293">cao: 1800</para>
+        <para id="id4440310">Khối lượng, kg:</para>
+        <para id="id4440315">máy phân ly vi khuẩn: 1550</para>
+        <para id="id4440331">trống quay: 460</para>
+      </section>
+      <section id="id-567127655141">
+        <title>Tính toán thiết bị phân ly</title>
+        <para id="id4440359">Hiệu suất phân ly tỷ lệ với số vòng quay của trống, đường kính của nó, kích thước các hạt, với sự khác biệt giữa các pha rắn và lỏng. Khi tăng độ nhớt của môi trường thì hiệu suất phân ly giảm.</para>
+        <para id="id4440373">Năng suất phân ly tính theo thể tích huyền phù được nạp vào trong một giây (m3,s):</para>
+        <para id="id4440386">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>Q</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>η</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>σ</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>K</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>C</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mtext>27</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mn>4π</m:mn>
+                      <m:msup>
+                        <m:mo stretchy="false">Ω</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>itg</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mi>ϕ</m:mi>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msubsup>
+                            <m:mi>R</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>max</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msubsup>
+                            <m:mi>R</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>min</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mi>μ</m:mi>
+                      </m:mfrac>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>c</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>C</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>c</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>C</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>d</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q= {  {η rSub { size 8{σ} } K rSub { size 8{C} } }  over  {"27"} } 4π %OMEGA  rSup { size 8{2} }  ital "itg"ϕ left (R rSub { size 8{"max"} }  rSup { size 8{2} }  - R rSub { size 8{"min"} }  rSup { size 8{2} }  right ) r rSup { size 8{2} }  {  {ρ rSub { size 8{1} }  - ρ rSub { size 8{2} } }  over  {μ} }  {  {C rSub { size 8{c} } }  over  {C rSub { size 8{c} }  - C rSub { size 8{d} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4440616">trong đó:  - hiệu suất của trống quay trong máy phân ly (lấy bằng 0,25);</para>
+        <para id="id4440634">Kc - hệ số cô, có tính đến ảnh hưởng hàm lượng tế bào nấm men trong huyền phù ban đầu đến quá trinh 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≈</m:mo><m:mi>f</m:mi></m:mrow><m:mfenced open="" close=""><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} }  approx f left (C rSub { size 8{d} }  right )} {}</m:annotation></m:semantics></m:math>, bảng 11.10;</para>
+        <para id="id4440739"> - tốc độ góc của trống, độ/s;</para>
+        <para id="id4440752">i - lượng đĩa;</para>
+        <para id="id4440764"> - góc nghiêng tạo nên côn đĩa, độ ( = 45  60);</para>
+        <para id="id4440792">Rmax và Rmin- bán kính lớn nhất và bán kính nhỏ nhất của đĩa, m;</para>
+        <para id="id4440820">1 và 2- tỷ trọng pha rắn và môi trường, kg/m3;</para>
+        <para id="id4440854"> - độ nhớt động học của hệ phân tán; Pas;</para>
+        <para id="id4440873">r - bán kính quy đổi của hạt rắn, m;</para>
+        <para id="id4440886">Cd và Cc- phần thể tích của các hạt rắn (tế bào nấm men) trong huyền phù ban đầu và trong chất cô, %.</para>
+        <para id="id4440913">Công thức quy đổi được sử dụng để tính các máy phân ly bằng phương pháp phun. Hệ số cô tính đến ảnh hưởng hàm lượng pha rắn hay tựa pha rắn (ví dụ, các tế bào nấm men) trong huyền phù ban đầu đến quá trình phân ly, xảy ra trong túi các đĩa. Trị số hệ số cô phụ thuộc vào nồng độ huyền phù nạp vào máy được nêu ở bảng 11.10.</para>
+        <para id="id4440927">Bảng 11.10. Trị số hệ số cô phụ thuộc vào nồng độ huyền phù nạp vào máy</para>
+        <table id="id4440935" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Cd</entry>
+                <entry>Kc</entry>
+                <entry>Cd</entry>
+                <entry>Kc</entry>
+              </row>
+              <row>
+                <entry>102030</entry>
+                <entry>10,86940,7558</entry>
+                <entry>405060</entry>
+                <entry>0,65720,57120,4966</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4441106">Lực ly tâm là động lực của quá trình. Tốc độ lắng của các hạt trong máy phân ly (m/s):</para>
+        <para id="id4441115">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msup>
+                          <m:mi>d</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mi>ω</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mi>R</m:mi>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi fontstyle="italic">rr</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>l</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{m} } =d rSup { size 8{2} } ω rSup { size 8{2} } R left (ρ rSub { size 8{rr} }  - ρ rSub { size 8{l} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4432875">trong đó: d - đường kính của các hạt rắn, m;</para>
+        <para id="id4432887"> - số vòng quay của trống, vòng/ph;</para>
+        <para id="id4432898">R - bán kính trống, m;</para>
+        <para id="id4432907">r - tỷ trọng của pha rắn, kg/m3;</para>
+        <para id="id4432927">l - tỷ trọng của pha lỏng, kg/ m3;</para>
+        <para id="id4432947"> - độ nhớt động học, Pas.</para>
+        <para id="id4432963">Đường kính các lỗ phun của máy phân ly (m):</para>
+        <para id="id4432968">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>d</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msup>
+                        <m:mfenced open="[" close="]">
+                          <m:mfrac>
+                            <m:mn>4Q</m:mn>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi fontstyle="italic">πZ</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>c</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>K</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>ch</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mi>ω</m:mi>
+                              <m:msqrt>
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mi>R</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:msup>
+                                    <m:mi>r</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:msqrt>
+                              <m:mfenced open="" close="">
+                                <m:mfrac>
+                                  <m:msub>
+                                    <m:mi>C</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>c</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mrow>
+                                    <m:msub>
+                                      <m:mi>C</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mi>d</m:mi>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mfrac>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:mn>2</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{d= left [ {  {4Q}  over  {πZ rSub { size 8{c} } K rSub { size 8{"ch"} } ω sqrt {R rSup { size 8{2} }  - r rSup { size 8{2} } }  left ( {  {C rSub { size 8{c} } }  over  {C rSub { size 8{d} }  - 1} }  right )} }  right ] rSup { size 8{  {  {1}  over  {2} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4433132">trong đó: Q - năng suất của máy phân ly, m3/s;</para>
+        <para id="id4433150">Zc - số lượng các lỗ;</para>
+        <para id="id4433164">Kch - hệ số chảy, đối với cặn (chất lỏng) thường lấy bằng 0,7;</para>
+        <para id="id4433180">R - khoảng cách từ trục quay của trống đến lỗ thoát của vòi phun;</para>
+        <para id="id4433192">r - khoảng cách từ trục quay của trống đến bề mặt chất lỏng, m.</para>
+        <para id="id4433204">Từ phương trình này có thể xác định nồng độ sinh khối trong huyền phù cồ:</para>
+        <para id="id4433212">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mtext>QC</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>d</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi fontstyle="italic">πZ</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>c</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>K</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>cb</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msup>
+                              <m:mi fontstyle="italic">ωd</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:msqrt>
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mi>R</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:msup>
+                                  <m:mi>r</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{c} } = {  {4 ital "QC" rSub { size 8{d} } }  over  {πZ rSub { size 8{c} } K rSub { size 8{"cb"} } ωd rSup { size 8{2} }  sqrt {R rSup { size 8{2} }  - r rSup { size 8{2} } } } } +C rSub { size 8{d} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4433366">Trong các máy phân ly ngoài các vòi phun bên ngoài còn có các vòi phun bên trong được nối với nhau bằng các van. Để cho máy phân ly hoạt động bình thường, tỷ số kích thước giữa các vòi trong và vòi ngoài cần phải ở trong giới hạn : </para>
+        <para id="id4433381">1,7d­ngoài &lt; dtrong &lt; 2d</para>
+        <para id="id4433409">Tổng công suất tiêu hao cho dẫn động máy phân ly (kW):</para>
+        <para id="id4433416">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>N</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>c</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msub>
+                              <m:mi>N</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>l</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>N</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>t</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N=N rSub { size 8{c} } +N rSub { size 8{l} } +N rSub { size 8{t} } +N rSub { size 8{m} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4433521">trong đó: Nc và Nl - công suất tiêu hao để tháo chất cô qua vòi phun và tháo chất lỏng đã được làm trong, kW;</para>
+        <para id="id4433550">Nt và Nm - công suất tiêu hao không khí để thắng sức cản của trống và thắng ma sát trong gối trục, kW.</para>
+        <para id="id4433576">Tiêu hao công suất để tháo chất cô (kW):</para>
+        <para id="id4433583">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>c</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1,</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>785</m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>ρ</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>v</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>1,</m:mn>
+                          </m:mrow>
+                          <m:mtext>56</m:mtext>
+                          <m:msup>
+                            <m:mi>ω</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>R</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>2,5</m:mn>
+                          </m:mrow>
+                          <m:mi fontstyle="italic">vωR</m:mi>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>β</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{c} } =1,"785" cdot "10" rSup { size 8{ - 4} } Q rSub { size 8{c} } ρ rSub { size 8{c} }  left (v rSup { size 8{2} } +1,"56"ω rSup { size 8{2} } R rSup { size 8{2} }  - 2,5vωR"cos"β right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4433751">trong đó: c - tỷ trọng chất cô, kg/m3;</para>
+        <para id="id4433771">v - tốc độ tháo chất cô qua vòi phun, m/s: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0,</m:mn></m:mrow><m:mtext>08</m:mtext><m:mi>ω</m:mi><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=0,"08"ω sqrt {R rSup { size 8{2} }  - r rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id5276538"> - góc nghiêng của trục tâm vòi với đường tiếp tuyến, độ;</para>
+        <para id="id5276550">Qc - tiêu hao chất cô qua vòi phun, m3/s.</para>
+        <para id="id5276569">Nếu chất lỏng phế thải được tháo tự do, tiêu hao công suất (kW) để tháo có thể xác định theo công thức:</para>
+        <para id="id5276578">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>l</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>l</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{l} } ="10" rSup { size 8{ - 3} } Q rSub { size 8{l} } r} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5276667">trong đó: Ql - Lưu lượng chất lỏng đã được làm trong, m3/h.</para>
+        <para id="id5276688">Nếu chất lỏng trong được tháo ra nhờ đĩa áp lực thì tiêu hao công suất (kW) có thể được cho phép xác định tương tự như hoạt động của bơm:</para>
+        <para id="id5276699">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>l</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>l</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mi fontstyle="italic">ρH</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>102</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mtext>3600</m:mtext>
+                          <m:mi>η</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{l} } = {  {Q rSub { size 8{l} } ρH}  over  {"102" rSup { size 8{2} } "3600"η} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5276790">trong đó: - tỷ trọng chất lỏng trong, kg/m3;</para>
+        <para id="id5276808">H - cột áp được đĩa tạo ra, kPa;</para>
+        <para id="id5276818"> - hiệu suất của cơ cấu áp lực, có thể lấy bằng 0,5.</para>
+        <para id="id5276830">Cột áp được tạo bởi đĩa áp lực:</para>
+        <para id="id5276836">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>H</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>102</m:mtext>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:msup>
+                          <m:mi>ω</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mn>2g</m:mn>
+                      </m:mfrac>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>R</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msup>
+                            <m:mi>r</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H="102" {  {ω rSup { size 8{2} } }  over  {2g} }  left (R rSup { size 8{2} }  - r rSup { size 8{2} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5276936">Công suất (kW) tiêu hao để thắng ma sát của trống với không khí:</para>
+        <para id="id5276943">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>mk</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>36</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:msubsup>
+                        <m:mi>r</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>σ</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msubsup>
+                      <m:msup>
+                        <m:mi>ω</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{ ital "mk"} } ="36",8 cdot "10" rSup { size 8{ - 6} } r rSub { size 8{σ} }  rSup { size 8{5} } ω rSup { size 8{3} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5277062">trong đó: r - bán kính của trống, m.</para>
+        <para id="id5277081">Tiêu hao công suất (kW) để thắng ma sát trong các trục:</para>
+        <para id="id5277088">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>mo</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mn>0,5</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:msup>
+                            <m:mtext>10</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>σ</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi fontstyle="italic">gωd</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>n</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{"mo"} } =0,5 cdot "10" rSup { size 8{ - 3} } m rSub { size 8{σ} } gωd rSub { size 8{n} } f} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5277196">trong đó: m - khối lượng của trống với sản phẩm, kg;</para>
+        <para id="id5277217">d­n - đường kính ngõng trục, m;</para>
+        <para id="id5277232">f - hệ số ma sát (đối với các ổ bi bằng 0,02  0,03).</para>
+      </section>
+    </section>
+  </content>
+</document>

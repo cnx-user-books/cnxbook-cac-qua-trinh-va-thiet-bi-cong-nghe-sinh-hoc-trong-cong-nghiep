@@ -1,0 +1,1297 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sinh trưởng và phát triển của vi sinh vật</title>
+  <metadata>
+  <md:content-id>m29921</md:content-id><md:title>Sinh trưởng và phát triển của vi sinh vật</md:title>
+  <md:abstract>Sinh trưởng là sự tăng kích thước và khối lượng của tế bào, còn phát triển (hoặc sinh sản) là sự tăng số lượng tế bào.</md:abstract>
+  <md:uuid>331edaff-b1cc-4399-a5b2-2cc4a3003294</md:uuid>
+</metadata>
+
+<content>
+    <para id="id5682325">Nội dung:</para>
+    <para id="id5682333">Khi nói về sinh trưởng và phát triển của vi khuẩn tức là đề cập tới sinh trưởng và phát triển của một số lượng lớn tế bào của cùng một loài. Do tế bào vi khuẩn quá nhỏ nên việc nghiên cứu chúng gặp nhiều khó khăn. Sự tăng số lượng không phải bao giờ cũng diễn ra cùng với sự tăng sinh khối.</para>
+    <para id="id5682347">Vì vậy cần phải phân biệt các thông số và hằng số khác nhau khi xác định số lượng và khối lượng vi khuẩn.</para>
+    <para id="id5682356">Bảng các thông số và hằng số sử dụng khi xác địnhsố lượng và khối lượng vi khuẩn</para>
+    <table id="id5682370" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Các thông số cần xác định</entry>
+            <entry>Số lượng vi khuẩn</entry>
+            <entry>Khối lượng vi khuẩn</entry>
+          </row>
+          <row>
+            <entry>Đơn vị thể tíchSố lần tăng đôi sau một đơn vị thời gianThời gian cần thiết cho sự tăng đôi</entry>
+            <entry>Nồng độ vi khuẩn (số tế bào/ ml)Hằng số tốc độ phân chia C (h1)Thời gian thế hệ g (h)</entry>
+            <entry>Mật độ vi khuẩn (sinh khối khô/ ml)Hằng số tốc độ sinh trưởng  (h1)Thời gian tăng đôi (h)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5682536">Tuỳ theo tính chất thay đổi của hệ vi khuẩn có hai phương pháp nuôi cấy vi khuẩn cơ bản: nuôi cấy tĩnh và nuôi cấy liên tục.Trong vi sinh vật học khi nói đến sinh trưởng là nói đến sự sinh trưởng của cả quần thể. Dưới đây chúng ta khảo sát mẫu thí nghiệm lí tưởng để theo dõi sự sinh trưởng và phát triển của vi khuẩn.</para>
+    <para id="id5682550">Nếu số tế bào ban đầu là No thì sau n lần phân chia số tế bào tổng cộng là N:</para>
+    <para id="id5682573"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N=N rSub { size 8{o} }  cdot 2 rSup { size 8{n} } } {}</m:annotation></m:semantics></m:math>  (1.1)</para>
+    <para id="id5682679">Giá trị n (số thế hệ) có thể tính nhờ logarit thập phân:</para>
+    <para id="id5682686">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>log</m:mtext>
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>log</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>N</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mi>o</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>n</m:mi>
+                  </m:mrow>
+                  <m:mtext>log</m:mtext>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"log"N="log"N rSub { size 8{o} } +n"log"2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id5682764"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>log</m:mtext><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mfenced open="" close=""><m:mrow><m:mtext>log</m:mtext><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>log</m:mtext></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n= {  {1}  over  {"log"2} }  left ("log"N - "log"N rSub { size 8{o} }  right )} {}</m:annotation></m:semantics></m:math>  (1.2)</para>
+    <para id="id5682875">Thời gian thế hệ (g) được xác định theo công thức :</para>
+    <para id="id5682881"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>t</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>log</m:mtext></m:mrow><m:mn>2</m:mn><m:mfrac><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mtext>log</m:mtext><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>log</m:mtext></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g= {  {t}  over  {n} } ="log"2 {  {t rSub { size 8{2} }  - t rSub { size 8{1} } }  over  {"log"N - "log"N rSub { size 8{o} } } } } {}</m:annotation></m:semantics></m:math>  (1.3)</para>
+    <para id="id5683019">trong đó: t là thời gian vi khuẩn phân chia n lần; t2  t1 biểu thị sự sai khác giữa thời gian đầu (t1) và thời gian cuối (t2), h.</para>
+    <para id="id5683076">Hằng số tốc độ phân chia:</para>
+    <para id="id5683082"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>n</m:mi><m:mi>t</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>log</m:mtext><m:mn>2</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:mtext>log</m:mtext><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>log</m:mtext></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C= {  {1}  over  {g} } = {  {n}  over  {t} } = {  {1}  over  {"log"2} }  cdot  {  {"log"N - "log"N rSub { size 8{o} } }  over  {t rSub { size 8{2} }  - t rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math>  (1.4)</para>
+    <para id="id5683242">Rõ ràng, thời gian thế hệ càng ngắn, vi khuẩn sinh trưởng và sinh sản càng nhanh.</para>
+    <para id="id5683250">Vì  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>n</m:mi><m:mi>t</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C= {  {n}  over  {t} } } {}</m:annotation></m:semantics></m:math> nên n = Ct  (1.5)</para>
+    <para id="id5789999">Thay giá trị của n vào phương trình (1.1), ta có:</para>
+    <para id="id5790006"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>Ct</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N=N rSub { size 8{o} }  cdot 2 rSup { size 8{"Ct"} } } {}</m:annotation></m:semantics></m:math>  (1.6)</para>
+    <para id="id5790101">Hằng số tốc độ phân chia C phụ thuộc vào một số điều kiện: loài vi khuẩn, nhiệt độ nuôi cấy, môi trường nuôi cấy.</para>
+    <para id="id5790116">Nhưng không phải bao giờ sinh trưởng cũng diễn ra song song với sinh sản, vì vậy khi nghiên cứu động học trong quá trình nuôi cấy liên tục thường theo dõi sinh trưởng và sinh sản của quần thể vi khuẩn bằng một tiêu chuẩn khác.</para>
+    <para id="id5790130">Thay cho hằng số tốc độ phân chia (C) ở đây chúng ta dùng hằng số tốc độ sinh trưởng (). Như vậy trong một khoảng thời gian dt đã có một sự tăng dX của sinh khối vi khuẩn tỷ lệ với X và . Nghĩa là:</para>
+    <para id="id5790170"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi fontstyle="italic">dX</m:mi><m:mi fontstyle="italic">dt</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>X</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {dX}  over  {dt} } =μ cdot X} {}</m:annotation></m:semantics></m:math>   (1.7)</para>
+    <para id="id5790261">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi fontstyle="italic">dt</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mi>μ</m:mi>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mi>X</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">⋅</m:mo>
+                    <m:mi fontstyle="italic">dX</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{dt= {  {1}  over  {μ cdot X} }  cdot dX} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id5790348">Tích phân phương trình trong giới hạn (Xo, X) và (0, t), ta có:</para>
+    <para id="id5790374"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">μt</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X=X rSub { size 8{o} }  cdot e rSup { size 8{μt} } } {}</m:annotation></m:semantics></m:math>  (1.8)</para>
+    <para id="id5790475">Ở đây Xo là lượng sinh khối ban đầu.</para>
+    <para id="id5790490">Vì  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>ln</m:mtext></m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>t</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ= {  {"ln"X - "ln"X rSub { size 8{o} } }  over  {t} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5790577">Và chuyển sang logarit thập phân</para>
+    <para id="id5790583"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2,</m:mn></m:mrow><m:mtext>302</m:mtext><m:mfrac><m:mfenced open="" close=""><m:mrow><m:mtext>lg</m:mtext><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>lg</m:mtext></m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ=2,"302" {  { left ("lg"X - "lg"X rSub { size 8{o} }  right )}  over  {t rSub { size 8{2} }  - t rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math>  (1.9)</para>
+    <para id="id5790715">Nếu lượng sinh khối (Xo, X) biểu thị bằng số tế bào (No, N) ta sẽ xác định được mối quan hệ qua lại giữa hằng số tốc độ sinh trưởng () , hằng số tốc độ phân chia (C) và thời gian thế hệ (g).</para>
+    <para id="id5790774">Kết hợp các phương trình (1.4) và (1.9), ta có :</para>
+    <para id="id5790780"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0,</m:mn></m:mrow><m:mtext>69</m:mtext><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0,</m:mn><m:mtext>69</m:mtext></m:mrow><m:mi>g</m:mi></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ=0,"69"C= {  {0,"69"}  over  {g} } } {}</m:annotation></m:semantics></m:math> (1.10)</para>
+    <section id="id-507480635491">
+      <title>Sinh trưởng và phát triển của vi khuẩn trong điều kiện nuôi cấy tĩnh</title>
+      <para id="id5790878">Phương pháp nuôi cấy mà trong suốt thời gian đó người ta không bổ sung thêm chất dinh dưỡng và cũng không loại bỏ sản phẩm cuối cùng của sự trao đổi chất gọi là nuôi cấy tĩnh (quần thể tế bào bị giới hạn trong một khoảng thời gian nhất định). Sự sinh trưởng trong một “hệ thống động” như vậy tuân theo những quy luật bắt buộc [theo các pha lag (pha mở đầu), pha log, pha ổn định và pha tử vong].</para>
+      <section id="id-408746008632">
+        <title>Pha lag</title>
+        <para id="id5790900">tot1titr hlog2N12Hình 1.8 .Đồ thị biểu diễn pha lag:1- Đường thẳng lý tưởng;2- Đường thẳng thực tế;(r- Thực tế; i- Lý tưởng)hlog2Ni= log2NrPha này tính từ lúc bắt đầu cấy đến khi vi khuẩn đạt được tốc độ sinh trưởng cực đại. Trong pha lag vi khuẩn chưa phân chia nhưng thể tích và khối lượng tế bào tăng lên rõ rệt do quá trình tổng hợp các chất trước hết là các hợp chất cao phân tử (protein, enzim, axit nucleic) diễn ra mạnh mẽ.</para>
+        <para id="id5978474">Độ dài của pha lag phụ thuộc trước hết vào tuổi của ống giống và thành phần môi trường. Thường tế bào càng già thì pha lag càng dài.</para>
+        <para id="id5978481">Việc tìm hiểu độ dài của pha lag là cần thiết trong việc phán đoán đặc tính của vi khuẩn và tính chất của môi trường. Để thuận tiện cho việc tính toán người ta chuyển các phương trình này thành các phương trình đường thẳng bằng cách sử dụng logarit:</para>
+        <para id="id5978496"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Ct</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>ln</m:mtext></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"ln"N= ital "Ct" "ln"2+"ln"N rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math> =</para>
+        <para id="id5978581">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mi fontstyle="italic">μt</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>ln</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}=μt+"ln"N rSub { size 8{o} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5978656">Và  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mi>μ</m:mi></m:mrow><m:msub><m:mtext> log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>e</m:mi><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"log" rSub { size 8{2} } N=μ" log" rSub { size 8{2} } e+"log" rSub { size 8{2} } N rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>=</para>
+        <para id="id5978768">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>Ct</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mtext>log</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}= ital "Ct"+"log" rSub { size 8{2} } N rSub { size 8{o} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5978861">Pha lag được coi như là khoảng cách thời gian giữa đường thẳng thực nghiệm (hoặc thực tế) và đường thẳng lý tưởng song song với nó khi mà vi khuẩn, giả dụ không phải trải qua pha lag. Gọi thời gian của pha lag là TL, ta có :</para>
+        <para id="id5978875"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TL</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "TL"=t rSub { size 8{r} }  - t rSub { size 8{i} } } {}</m:annotation></m:semantics></m:math> =</para>
+        <para id="id5978964"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {}=t rSub { size 8{1} }  - t rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>(1.11)</para>
+        <para id="id5979057">Phương trình của đường thẳng lý tưởng là:</para>
+        <para id="id5979063">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>log</m:mtext>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>Ct</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>i</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>log</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"log"N rSub { size 8{i} } = ital "Ct" rSub { size 8{i} } +"log"N rSub { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5979168">Vì: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>log</m:mtext><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mtext>log</m:mtext></m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"log"N rSub { size 8{i} } ="log"N rSub { size 8{r} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5979248">Có thể viết:</para>
+        <para id="id5979253">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>log</m:mtext>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>Ct</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>i</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>log</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"log"N rSub { size 8{r} } = ital "Ct" rSub { size 8{i} } +"log"N rSub { size 8{o} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5979353">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>log</m:mtext>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>log</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>o</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>Ct</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>i</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"log"N rSub { size 8{r} }  - "log"N rSub { size 8{o} } = ital "Ct" rSub { size 8{i} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5979455">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>i</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>log</m:mtext>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>N</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>r</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>log</m:mtext>
+                          </m:mrow>
+                          <m:msub>
+                            <m:mi>N</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mi>C</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{t rSub { size 8{i} } = {  {"log"N rSub { size 8{r} }  - "log"N rSub { size 8{o} } }  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5786382">Thay giá trị của ti vào phương trình (11), ta có :</para>
+        <para id="id5786393">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>TL</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>log</m:mtext>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>N</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>r</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mtext>log</m:mtext>
+                            </m:mrow>
+                            <m:msub>
+                              <m:mi>N</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>o</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mi>C</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "TL"=t rSub { size 8{r} }  -  {  {"log"N rSub { size 8{r} }  - "log"N rSub { size 8{o} } }  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5786498">Như vậy trong vùng sinh tưởng logarit ,chỉ cần chọn một giá trị tr thích hợp và nếu biết được giá trị Nr tương ứng cùng với hằng số tốc độ phân chia C, ta có thể tính được độ dài của pha lag TL .</para>
+        <para id="id5786541">Tuy nhiên thời gian vật lý (h) không phải là giá trị đo thích hợp của pha lag. Vì vậy người ta thường đo pha lag bằng đơn vị thời gian sinh học như thời gian tăng gấp đôi, thời gian thế hệ, hằng số tốc độ sinh trưởng. Biết thời gian thế hệ (g) ta có thể xác định độ dài thời gian của pha lag (TL) gấp mấy lần thời gian thế hệ. Đại lượng này gọi là lag sinh trưởng.</para>
+        <para id="id5786571">Có rất nhiều yếu tố ảnh hưởng đến pha lag, nhưng ba yếu tố đáng chú ý nhất gồm: tuổi cấy giống, lượng cấy giống (trong công nghiệp lên men, tỷ lệ cấy giống thường ở mức 1/10) và thành phần môi trường.</para>
+      </section>
+      <section id="id-35580300694">
+        <title>Pha log</title>
+        <para id="id5786594">Trong pha này vi khuẩn sinh trưởng và phát triển theo luỹ thừa, nghĩa là sinh khối và số lượng tế bào tăng theo phương trình: N = No.2ct hay X = Xo.Ct. Trong pha này kích thước của tế bào, thành phần hoá học, hoạt tính sinh lý... không thay đổi theo thời gian.</para>
+        <para id="id5786662">Nếu lấy trục tung là logarit của số tế bào thì đường biểu diễn sinh trưởng theo luỹ thừa của vi khuẩn sẽ là đường thẳng. Vì pha sinh trưởng theo luỹ thừa của vi khuẩn được biểu diễn bằng sự phụ thuộc theo đường thẳng giữa thời gian và logarit của số tế bào nên pha này được gọi là pha logarit. Thường dùng logarit cơ số 2 là thích hợp hơn cả vì sự thay đổi một đơn vị của log2 trên trục tung chính là sự tăng đôi số lượng vi khuẩn và thời gian cần để tăng một đơn vị của log2 lại là thời gian thế hệ.</para>
+        <para id="id5786692">Thời gian thế hệ (hoặc thời gian tăng đôi) g, hằng số tốc độ phân chia C và hằng số tốc độ sinh trưởng  là ba thông số quan trọng của pha log. Các hằng số C và  có thể tính được từ phương trình:</para>
+        <para id="id5786751">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>μ</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>log</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>X</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msub>
+                              <m:mtext>log</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:msub>
+                            <m:mi>X</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>log</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mi>e</m:mi>
+                          <m:mfenced open="" close="">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>t</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>t</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{μ= {  {"log" rSub { size 8{2} } X rSub { size 8{2} }  - "log" rSub { size 8{2} } X rSub { size 8{1} } }  over  {"log" rSub { size 8{2} } e left (t rSub { size 8{2} }  - t rSub { size 8{1} }  right )} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5786907">Trong điều kiện thí nghiệm có thể điều chỉnh sao cho tốc độ sinh trưởng của vi khuẩn chỉ mẫn cảm, nghĩa là chỉ phụ thuộc vào một yếu tố. Trong trường hợp như vậy yếu tố đã cho là yếu tố hạn chế tốc độ sinh trưởng. Chất dinh dưỡng hạn chế có thể là đường, axit amin, chất vô cơ.</para>
+        <para id="id5786922">Mối quan hệ giữa các hằng số C và  với nồng độ chất dinh dưỡng hạn chế được biểu diễn qua các phương trình:</para>
+        <para id="id5786942">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>max</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:mfenced open="[" close="]">
+                          <m:mi>S</m:mi>
+                        </m:mfenced>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>K</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfenced open="[" close="]">
+                            <m:mi>S</m:mi>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C=C rSub { size 8{"max"} }  {  { left [S right ]}  over  {K rSub { size 8{S} } + left [S right ]} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5787048">Và  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi>μ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mfrac><m:mfenced open="[" close="]"><m:mi>S</m:mi></m:mfenced><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfenced open="[" close="]"><m:mi>S</m:mi></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ=μ rSub { size 8{"max"} }  {  { left [S right ]}  over  {K rSub { size 8{S} } + left [S right ]} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5787155">trong đó: Cmax và max - hằng số tốc độ phân chia và hằng số tốc độ sinh trưởng cực đại; </para>
+        <para id="id5787182"> KS - hằng số bão hoà và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mi>S</m:mi></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [S right ]} {}</m:annotation></m:semantics></m:math> là nồng độ chất dinh dưỡng hạn chế.</para>
+      </section>
+      <section id="id-0578917417135">
+        <title>Pha ổn định</title>
+        <para id="id5787260">Trong pha này quần thể vi khuẩn ở trạng thái cân bằng động học. Số tế bào mới sinh ra bằng số tế bào cũ chết đi. Kết quả là số tế bào và cả sinh khối không tăng cũng không giảm.</para>
+        <para id="id5787272">Nguyên nhân tồn tại của pha ổn định là do sự tích luỹ các sản phẩm độc của trao đổi chất và việc cạn kiệt chất dinh dưỡng.</para>
+        <para id="id5787282">Sự tăng sinh khối tổng cộng tỷ lệ thuận với nồng độ ban đầu của chất dinh dưỡng hạn chế.</para>
+        <para id="id5787291"> G = K.C</para>
+        <para id="id5787319">trong đó: G - độ tăng sinh khối tổng cộng;</para>
+        <para id="id5787336"> C - nồng độ ban đầu của chất dinh dưỡng hạn chế;</para>
+        <para id="id5787359"> K - hằng số hiệu suất:</para>
+        <para id="id5787381">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>K</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>G</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{K= {  {G}  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5787447">Hằng số hiệu suất K thường được biểu thị bằng số miligam chất khô đối với 1 mg chất dinh dưỡng. Đối với các loại đường, K thường dao động trong khoảng từ 0,20 đến 0,30 nghĩa là từ 100 g đường được tạo thành 20  30 mg khối lượng khô của tế bào. Lượng sinh khối đạt được trong pha ổn định gọi là hiệu suất hoặc sản lượng. Sản lượng phụ thuộc vào tính chất và số lượng các chất dinh dưỡng sử dụng và vào điều kiện nuôi cấy. Đó là sự sai khác giữa số lượng vi khuẩn cực đại và khối lượng vi khuẩn ban đầu (hình 1.9 ):</para>
+        <para id="id5787500">X = Xmax  Xo</para>
+        <para id="id5787554">Tỷ lệ sản lượng của tế bào đối với lượng cơ chất tiêu dùng có ý nghĩa rất quan trọng. Nếu biểu thị cả hai đại luợng thành đơn vị khối lượng và sẽ gọi tỷ lệ này (X/S) là hệ số kinh tế (Y). Nếu tính sản lượng ra gam và cơ chất tiêu dùng ra mol thì được gọi là hệ số kinh tế mol (Ym). Nếu biết con đường phân huỷ cơ chất đã cho và hiệu suất ATP do kết quả của sự phân huỷ này, có thể tính được sinh khối vi khuẩn (gam) đối với 1 mol ATP. Ta gọi đó là hệ số năng lượng (YATP).</para>
+        <figure id="id5787639">
+          <media id="id7552684" alt=""><image src="../../media/graphics1-cbd0.png" mime-type="image/png" height="197" width="258"/></media>
+        </figure>
+      </section>
+      <section id="id-639939908434">
+        <title>Pha tử vong</title>
+        <para id="id5787672">Trong pha này số lượng tế bào có khả năng sống giảm theo luỹ thừa. Chưa có một quy luật chung cho pha tử vong. Sự chết của tế bào có thể nhanh hay chậm, có liên quan đến sự tự phân hay không tự phân. Trong trường hợp môi trường tích lũy các axit là nguyên nhân làm chết tế bào tương đối rõ thì nồng độ chất dinh dưỡng thấp dưới mức cần thiết và hậu quả là giảm hoạt tính trao đổi chất, phân huỷ dần dần các chất dự trữ và cuối cùng dẫn đến sự chết hàng loạt của tế bào. Ngoài đặc tính của bản thân chủng vi sinh vật, tính chất của các sản phẩm trao đổi chất tích luỹ lại cũng ảnh hưởng đến tiến trình của pha tử vong.</para>
+      </section>
+    </section>
+    <section id="id-253240095846">
+      <title>Sinh trưởng và phát triển của vi khuẩn trong quá trình nuôi cấy liên tục</title>
+      <para id="id5787716">Trong thực tiển sản xuất cần cung cấp cho vi sinh vật những điều kiện ổn định để trong một thời gian dài chúng vẫn có thể sinh trưởng trong pha log. Dĩ nhiên ở một mức độ nào đó có thể cấy chuyền tế bào nhiều lần vào môi trường dinh dưỡng mới. Đơn giản hơn nên đưa liên tục môi trường dinh dưỡng mới vào bình nuôi cấy vi khuẩn đồng thời loại khỏi bình một lượng tương ứng dịch vi khuẩn. Đây chính là cơ sở của phương pháp nuôi cấy liên tục trong các thiết bị nuôi cấy liên tục. </para>
+      <para id="id5787742">Giả sử có một bình nuôi cấy trong đó vi khuẩn đang sinh trưởng, phát triển. Liên tục bổ sung vào bình môi trường mới có thành phần không đổi. Thể tích bình nuôi cấy không đổi, nghĩa là lượng môi trường được bổ sung cân bằng với lượng môi trường đi ra cùng tốc độ.</para>
+      <para id="id5787756">Gọi thể tích bình là V (lít), tốc độ dòng môi trường đi vào là f (lít/h) thì tốc độ pha loãng (hệ số pha loãng) D sẽ là f/V. Đại lượng D biểu thị sự thay đổi thể tích sau 1 giờ.</para>
+      <para id="id5787802">Nếu vi khuẩn không sinh trưởng và phát triển, chúng sẽ bị rút khỏi bình nuôi cấy với tốc độ: </para>
+      <para id="id5787813">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>V</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mfrac>
+                          <m:mi fontstyle="italic">dx</m:mi>
+                          <m:mi fontstyle="italic">dt</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>DX</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{V rSup { size 8{ - {}} } = -  {  {dx}  over  {dt} } = ital "DX"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5787916">trong đó : X - là sinh khối tế bào, g/l.</para>
+      <para id="id5741386">Tốc độ sinh trưởng của quần thể vi khuẩn trong bình được biểu diễn bởi phương trình:</para>
+      <para id="id5741395">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>V</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi fontstyle="italic">dx</m:mi>
+                        <m:mi fontstyle="italic">dt</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi fontstyle="italic">μX</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{V rSup { size 8{+{}} } = {  {dx}  over  {dt} } =μX} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5741494">Tốc độ thay đổi cuối cùng (tăng hoặc giảm) mật độ vi khuẩn trong nuôi cấy liên tục là sự sai khác giữa tốc độ tăng 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>và tốc độ giảm 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>:</para>
+      <para id="id5741615">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>V</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>V</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msup>
+                              <m:mi>V</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi fontstyle="italic">dx</m:mi>
+                          <m:mi fontstyle="italic">dt</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mi>μ</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                    <m:mi>X</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{V=V rSup { size 8{+{}} }  - V rSup { size 8{ - {}} } = {  {dx}  over  {dt} } = left (μ - D right )X} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5741748">Nếu   D thì giá trị V = dx/dt có giá trị dương, nghĩa là mật độ vi khuẩn trong bình tăng, ngược lại nếu  &lt; D, V sẽ có giá trị âm và mật độ vi khuẩn trong bình giảm. Trong trường hợp đặc biệt  = D, ta có V = 0, nghĩa là mật độ tế bào không tăng không giảm theo thời gian, quần thể vi khuẩn ở trạng thái cân bằng động học.</para>
+      <para id="id5741830">Nếu bình thí nghiệm có thiết bị duy trì sao cho  luôn luôn bằng D, ta sẽ thu được quần thể vi khuẩn sinh trưởng và phát triển theo luỹ thừa thường xuyên ở mật độ tế bào không đổi và không phụ thuộc vào thời gian. Trong trường hợp như vậy không những kích thước trung bình của tế bào mà cả môi trường nuôi cấy đều không đổi và không phụ thuộc vào thời gian. Điều này, một mặt tạo điều kiện cho việc nghiên cứu sinh trưởng và sinh lý của tế bào vi khuẩn, mặc khác cải thiện quá trình sản xuất sinh khối vi sinh vật ở quy mô công nghiệp.</para>
+      <para id="id5741864">Nuôi cấy tĩnh được coi như hệ thống đóng, quần thể tế bào sinh trưởng trong đó phải trải qua các pha mở đầu, logarit, ổn định và tử vong. Mỗi pha sinh trưởng được đặc trưng bởi những điều kiện nhất đinh. Việc tự động hoá các pha là khó thực hiện. Nuôi cấy liên tục, trái lại, là hệ thống mở có khuynh hướng dẫn đến việc thiết lập một cân bằng động học. Yếu tố thời gian ở đây, trong phạm vi nhất định, bị loại trừ. Tế bào được cung cấp những điều kiện không đổi, nhờ việc điều chỉnh tự động.</para>
+      <para id="id5741890">Có thể biểu thị bằng toán học quá trình nuôi cấy liên tục một cách đơn giản như sau: </para>
+      <para id="id5741898">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>V</m:mi>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mi fontstyle="italic">dx</m:mi>
+                            <m:mi fontstyle="italic">dt</m:mi>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>QX</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>o</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>QX</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>V</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:msub>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mi fontstyle="italic">dx</m:mi>
+                            <m:mi fontstyle="italic">dt</m:mi>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mi>G</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{V cdot  left ( {  {dx}  over  {dt} }  right )= ital "QX" rSub { size 8{o} }  -  ital "QX"+V left ( -  {  {dx}  over  {dt} }  right ) rSub { size 8{G} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5742040">V - thể tích dịch nuôi, l.</para>
+      <para id="id5742061">Q - hệ số dòng chảy, l/ h.</para>
+      <para id="id5742076">G - biểu thị tăng trưởng.</para>
+      <para id="id5742085">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>V</m:mi>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mi fontstyle="italic">dx</m:mi>
+                            <m:mi fontstyle="italic">dt</m:mi>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>QS</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>o</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>QS</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>V</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:msub>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mi fontstyle="italic">ds</m:mi>
+                            <m:mi fontstyle="italic">dt</m:mi>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{V cdot  left ( {  {dx}  over  {dt} }  right )= ital "QS" rSub { size 8{o} }  -  ital "QS"+V left ( -  {  {ds}  over  {dt} }  right ) rSub { size 8{C} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5742227">C - biểu thị tiêu hao.</para>
+      <para id="id5742239">Bởi vì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mfenced open="" close=""><m:mfrac><m:mi fontstyle="italic">ds</m:mi><m:mi fontstyle="italic">dt</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mfenced open="" close=""><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mi fontstyle="italic">dx</m:mi><m:mi fontstyle="italic">dt</m:mi></m:mfrac></m:mfrac></m:mfenced><m:mo stretchy="false">⋅</m:mo><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>X</m:mi></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mi fontstyle="italic">dx</m:mi><m:mi fontstyle="italic">dt</m:mi></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msub><m:mi>Y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">/</m:mo><m:mi>S</m:mi></m:mrow></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mi fontstyle="italic">μX</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  left ( {  {ds}  over  {dt} }  right ) rSub { size 8{C} } = left ( {  { - 1}  over  { {  {dx}  over  {dt} } } }  right ) cdot  left ( {  {1}  over  {X} }  cdot  {  {dx}  over  {dt} }  right )X= {  { - 1}  over  {Y rSub { size 8{ {X} slash {S} } } } } μX} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5742426">Yx/S = g sinh khối/ g cơ chất.</para>
+      <para id="id5742439">Thay thế vào và coi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi fontstyle="italic">ds</m:mi><m:mi fontstyle="italic">dt</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ds}  over  {dt} } =0} {}</m:annotation></m:semantics></m:math>, ta có : </para>
+      <para id="id5742502">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Y</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>X</m:mi>
+                              <m:mo stretchy="false">/</m:mo>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi fontstyle="italic">dx</m:mi>
+                        <m:mi fontstyle="italic">ds</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mi>X</m:mi>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>S</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>S</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{Y rSub { size 8{ {X} slash {S} } } = {  {dx}  over  {ds} } = {  {X}  over  {S rSub { size 8{0} }  - S} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5742616">Ở trạng thái ổn định, hiệu suất sinh trưởng có thể biểu đạt bằng lượng sinh khối X và nồng độ cơ chất S. Theo mô hình của Monod thì:</para>
+      <para id="id5742644">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>μ</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mi>D</m:mi>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mi fontstyle="italic">μm</m:mi>
+                            </m:mrow>
+                            <m:mfrac>
+                              <m:mi>S</m:mi>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>K</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>S</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>S</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>K</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mrow>
+                            <m:mi fontstyle="italic">μm</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mi>D</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{μ=D=μm {  {S}  over  {K rSub { size 8{S} } +S} } }  {} # 
+S=K rSub { size 8{S} }  left ( {  {D}  over  {μm - D} }  right ) {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5742793">Thay thế vào công thức tính YX/S, ta có:</para>
+      <para id="id5742809">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>X</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msub>
+                        <m:mi>Y</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>X</m:mi>
+                              <m:mo stretchy="false">/</m:mo>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>S</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>S</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msub>
+                        <m:mi>Y</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>X</m:mi>
+                              <m:mo stretchy="false">/</m:mo>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>S</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>K</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mi>D</m:mi>
+                            <m:mrow>
+                              <m:mi fontstyle="italic">μm</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>D</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{X=Y rSub { size 8{ {X} slash {S} } }  left (S rSub { size 8{o} }  - S right )=Y rSub { size 8{ {X} slash {S} } }  left [S rSub { size 8{o} }  - K rSub { size 8{S} }  left ( {  {D}  over  {μm - D} }  right ) right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id5742985">Suy ra đơn vị thời gian để thu được sinh khối là:</para>
+      <para id="id5742992">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>D</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>DY</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mi>X</m:mi>
+                                  <m:mo stretchy="false">/</m:mo>
+                                  <m:mi>S</m:mi>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>S</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>K</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>S</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mi>D</m:mi>
+                            <m:mrow>
+                              <m:mi fontstyle="italic">μm</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>D</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{D rSub { size 8{x} } = ital "DY" rSub { size 8{ {X} slash {S} } }  left [S rSub { size 8{o} }  - K rSub { size 8{S} }  left ( {  {D}  over  {μm - D} }  right ) right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id3290762">Đồng thời có thể biết được lúc:</para>
+      <para id="id3290767"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>D</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">μm</m:mi></m:mrow><m:mfenced open="" close=""><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msqrt><m:mfrac><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>S</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:msqrt></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D rSub { size 8{m} } =μm left (1 -  sqrt { {  {k rSub { size 8{S} } }  over  {k rSub { size 8{S} } +S rSub { size 8{o} } } } }  right )} {}</m:annotation></m:semantics></m:math> thì DX là sinh khối cực đại.</para>
+    </section>
+  </content>
+</document>

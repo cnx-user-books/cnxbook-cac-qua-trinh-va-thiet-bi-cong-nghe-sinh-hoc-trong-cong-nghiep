@@ -1,0 +1,979 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị phân chia các dung dịch của các chất hoạt hóa sinh học bằng màng mỏng</title>
+  <metadata>
+  <md:content-id>m30720</md:content-id><md:title>Thiết bị phân chia các dung dịch của các chất hoạt hóa sinh học bằng màng mỏng</md:title>
+  <md:abstract>Thẩm thấu ngược, siêu lọc, vi lọc, thấm tách, điện thấm tách, bốc hơi qua màng đều thuộc các quá trình phân chia các dung dịch bằng màng mỏng. Các quá trình lọc bằng màng xảy ra ở chế độ công nghệ mềm, điều đó rất quan trọng khi gia công các chất không ổn định. Các phương pháp lọc màng cho phép đồng thời thực hiện các quá trình vừa tinh luyện vừa cô đặc các dung dịch. Ngoài ra chúng còn được tiến hành mà không có sự chuyển pha của sản phẩm gia công và không cần cung cấp nhiệt, chỉ ở nhiệt độ môi trường, có khả năng giảm mất mát đáng kể các chất hoạt hoá sinh học. Các quá trình này cho phép đạt được mức độ cô rất cao (đến 250) và nhận được các chất cô có hàm lượng khô đến 50%. Thiết bị màng lọc tương đối đơn giản, kích thước cơ bản không lớn, tiết kiệm và có thể tự động hoá.</md:abstract>
+  <md:uuid>ea16301f-6721-4db7-86bd-51fd3c2f3c8c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4831498">Nội dung:</para>
+    <para id="id4831502">Lọc muối1Lọc đường10102103104105Thẩm thấu ngượcSiêu lọcVi lọcPhân ly cao tốcLọc truyền thốngLọc đại phân tửLọc vi nhũ tươngLọc vi khuẩnHình 12.1. Kích thước các hạtmmCác màng được ứng dụng để siêu lọc có thể giữ được các phân tử có kích thước từ 5 đến 50 nm, có nghĩa là các phân tử hữu cơ loại lớn. Các màng để thấm thấu ngược giữ được các phân tử có kích thước 2,5 nm khi hoạt động dưới áp suất chân không (từ 4 đến 10 MPa).</para>
+    <para id="id4943114">Khả năng phân chia của các màng được xác định bởi khả năng giữ lại các hạt có khối lượng và kích thước phân tử xác định. Trên hình 12.1 nêu sơ đồ lựa chọn phương pháp phân chia các dung dịch phụ thuộc vào đại lượng các hạt có trong chúng.</para>
+    <para id="id4941568">Nhược điểm của các quá trình phân chia bằng màng lọc đó là sự cần thiết phải chuẩn bị và tinh chế các dung dịch một cách cẩn thận, xuất hiện sự phân cực nồng độ - xuất hiện nồng độ cao của chất hoà tan ở bề mặt màng lọc và tạo nên một lượng lớn các chất thấm, đòi hỏi phải tận dụng hay tinh chế trước khi xả vào hệ thống kênh thoát.</para>
+    <section id="id-703963285104">
+      <title>KỸ THUẬT PHÂN CHIA BẰNG MÀNG LỌC</title>
+      <para id="id5460282">Sau hàng triệu năm biến hoá, trong tế bào sinh vật sống đã hình thành phương pháp vạn năng và hoàn thiện để phân chia các dung dịch nhờ màng bán thấm. Ví dụ như vỏ tế bào động và thực vật, nhờ chúng mà sự trao đổi chất giữa tế bào và môi trường bên ngoài được thực hiện.</para>
+      <section id="id-96167682101">
+        <title>Các màng siêu lọc</title>
+        <para id="id4783621">Các màng bán thấm siêu lọc là những màng xốp, trong đó tồn tại hệ rãnh xuyên suốt bảo đảm thẩm thấu pha của các cấu tử trong hỗn hợp bị phân chia. Các lỗ nhỏ trong màng tạo ra hệ thống đường rãnh ngoằn ngoèo liên kết với nhau hay có thể độc lập. Các màng bán thẩm là bộ phận hoạt động cơ bản của thiết bị siêu lọc, cho phép tách các chất hoà tan có khối lượng phân tử trong khoảng 1200  3000000. Các màng dùng trong công nhiệp được sản xuất từ các màng xenluloza axetat xốp, dị hướng có kết cấu hai lớp, gồm lớp bề mặt mỏng với bề dày 0,25 m đến đệm xốp mịn có bề dày 100 m. Lớp mịn hoạt hoá của màng sẽ xác định khả năng giữ lại một loại cấu tử trong hỗn hợp được phân chia, trong lớp này xảy ra quá trình phân chia. Vi kết cấu của lớp hoạt hoá với kích thước lỗ được quy định sẽ xác định mức độ cô các chất.</para>
+        <para id="id4835617">Hiện nay các vật liệu được dùng làm nền cho màng: giấy kim loại, thuỷ tinh xốp, grafít... Yêu cầu cơ bản của các màng nhân tạo như sau: tính lựa chọn cao, tính thấm cao, bền hoá và tính trơ sinh học đối với các dung dịch đem phân ly, tính ổn định trong quá trình hoạt động, độ bền cơ học và tuổi thọ caọ, có khả năng tái sinh và giá thành thấp.</para>
+        <para id="id4834061">Hiện tại ở Nga đã sản xuất bảy nhãn hiệu màng siêu lọc được sử dụng trong công nghiệp từ xenluloza axetat dạng: YAM - 30, 50 M, 100 M, 150 M, 200 M, 300 M và 500 M, chúng khác nhau bởi đường kính lỗ (từ 2 đến 60  70 nm), bởi tính thấm và tính lựa chọn tương ứng. Màng YAM - 30 với đường kính lỗ nhỏ nhất có thể được sử dụng để cô các chất hoạt hoá sinh học có khối lượng phân tử đến 10000, còn màng YAM - 500 với đường kính lớn nhất  để cô các chất có khối lượng phân tử đến 50000. Tuy nhiên khi lựa chọn các màng, ngoài khối lượng phân tử cần phải tính đến yếu tố (không gian, đặc trưng cấu trúc không gian các phân tử của chất đem cô) có ảnh hưởng đến tính lựa chọn của các màng, cũng như khả năng kết tụ của nhiều chất hoạt hoá sinh học. Cho nên đối với mỗi một hệ cụ thể, việc lựa chọn màng được thực hiện bằng phương pháp thực nghiệm.</para>
+        <para id="id5659074">Các màng lựa chọn dạng YAM từ xenluloza axetat để cô và tinh chế một số enzim bằng phương pháp siêu lọc được nêu ở bảng 12.1.</para>
+        <para id="id4657671">Bảng 12.1. Đặc tính của một số màng lựa chọn dạng YAM</para>
+        <table id="id4833560" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Enzim</entry>
+                <entry>Khối lượng phân tử</entry>
+                <entry>Màng</entry>
+              </row>
+              <row>
+                <entry>Proteinaza kiềm tính từ Bac. subtilisProteinaza trung hoà từ Bac. subtilis 103Rennin từ Bac. mesentericus (мВ)Lipaza từ Asp. awamoriXenluaza từ Sedridium và CandidumPectinaza từ Asp. awamori 16Glucoamilaza từ Asp. niger</entry>
+                <entry>20.000  23.0004500040000  5000043000  50000600008000097000</entry>
+                <entry>YAM - 150YAM - 200YAM - 200YAM - 200YAM - 200YAM - 300YAM - 300YAM - 300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5660443">Khi xét đến tính không bền nhiệt của các dung dịch, thường tiến hành quá trình siêu lọc ở nhiệt độ bình thường hay thấp hơn, vì vậy phải làm sạch dung dịch ban đầu trong quá trình tuần hoàn kín.</para>
+      </section>
+      <section id="id-184777193196">
+        <title>Các xơ polyme</title>
+        <para id="id4849949">Xơ polyme là vật liệu lựa chọn có triển vọng dùng cho siêu lọc. Chúng là những ống mao dẫn có đường kính 20  100 m và chiều dày thành ống xốp 10  50 m. Sự hình thành các xơ rỗng bằng phương pháp ép lõm polyme nóng chảy qua các khuôn kéo đặc biệt. Polyamit, penylon, polyacrylonitryl được sử dụng như là những vật liệu để sản xuất ra các xơ rỗng.</para>
+        <para id="id4664413">Các bó xơ được gắn chặt vào bộ phận bên trong của thiết bị siêu lọc để tạo ra bề mặt có diện tích đến 30.000 m2. Có thể xếp đến 28 triệu sợi xơ vào ống có đường kính 35 cm. Khi đó năng suất đạt 175 m 3 nước trên 1 m3 thể tích không gian trong ống.</para>
+        <para id="id4851774">Những ưu điểm của các xơ rỗng như sau: khả năng tạo ra những yếu tố phân chia có mật độ gói cao, vận chuyển và bảo quản ở dạng khô, có khả năng giữ ở áp suất cao. Tuy nhiên nhược điểm lớn nhất của các xơ polyme là rất khó thay đổi các sợi xơ khi bị hư hỏng.</para>
+        <para id="id5679529">Một trong những đặc điểm của các màng bán thấm là tính thấm nước của chúng. Các màng được dùng trong công nghiệp để lọc siêu tốc được đặc trưng bởi khả năng thấm nước đến 300 l/(m2.h) và lớn hơn, tuy nhiên khi cô và tinh chế các dung dịch chứa enzim và các dung dịch hoạt hoá sinh học khác, năng suất của chúng thấp đáng kể - không lớn hơn 30  40 l/(m2.h).</para>
+        <para id="id4643252">Trong quá trình hoạt động năng suất của màng giảm xuống.</para>
+      </section>
+      <section id="id-437683536778">
+        <title>Các sợi xơ rỗng</title>
+        <para id="id4764354">Các sợi xơ rỗng từ vật liệu xenluloza axetat là những ống nhỏ có đường kính trong 0,2 mm. Những sợi trơ hoá này có cấu trúc dị hướng. Khi dòng chảy qua sợi rỗng ở bề mặt bên trong tạo ra ứng lực trượt cao sẽ làm giảm sự phân cực nồng độ. Áp suất tăng lên trong khe sợi sẽ đẩy dung môi các chất thấp phân tử và muối ra ngoài qua vách sợi, còn các chất được giữ lại sẽ tập trung trong dòng tuần hoàn kín. Các sợi được ghép lại thành những bó một, khoảng 1000 sợi và được xếp kín trong ống nhựa trong, nhờ đó mà có thể nhận được diện tích bề mặt lọc lớn với thể tích vừa phải. Khả năng của các màng giữ lại các chất hoà tan có tính chọn lọc được thể hiện bởi hệ số giữ:</para>
+        <para id="id5459859">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>K</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>l</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>n</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>f</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>n</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>l</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>v</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>v</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>f</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{g} } = {  {l rSub { size 8{n} }  {  {n rSub { size 8{f} } }  over  {n rSub { size 8{0} } } } }  over  {l rSub { size 8{n} }  {  {v rSub { size 8{0} } }  over  {v rSub { size 8{f} } } } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5494173">trong đó: nf - Nồng độ cuối của các cấu tử đại phân tử trong vật liệu giữ, của các hạt trên 1 cm3 ;</para>
+        <para id="id4852054">n0 - nồng độ ban đầu của các cấu tử đại phân tử, của các hạt trên 1 cm3;</para>
+        <para id="id4943515">V0 - thể tích ban đầu, m3 ;</para>
+        <para id="id5460413">Vf - thể tích cuối cùng, m3.</para>
+        <para id="id4655817">Tốc độ chảy của dòng qua màng phụ thuộc vào dạng các chất hoà tan được giữ lại, vào độ hoà tan, nồng độ và các tính chất khuếch tán, đồng thời cũng phụ thuộc vào màng, vào diện tích hoạt động của màng, vào áp suất, nhiệt độ và độ nhớt.</para>
+        <para id="id5810633">Tốc độ của dòng chảy xuyên qua màng tỷ lệ nghịch với logarit nồng độ của chất hoà tan có tính đến ảnh hưởng của các điều kiện phân cực nồng độ. Tính thẩm thấu của màng giảm xuống khi tăng nồng độ và khi tiến hành quá trình ở nhiệt độ thấp hơn nhiệt độ bình thường.</para>
+      </section>
+      <section id="id-549584893905">
+        <title>Các dạng thiết bị dùng màng lọc</title>
+        <para id="id4842367">Hiện tại người ta sử dụng rộng rãi bốn loại kết cấu cơ bản của các thiết bị dùng màng lọc: có các bề mặt lọc, ống lọc, cuộn lọc và các màng lựa chọn ở dạng các sợi rỗng. Ba loại thiết bị đầu được trang bị hoàn chỉnh các màng bán thấm phẳng đồng nhất và chúng khác biệt bởi các phương pháp gói và gia cố màng.</para>
+        <para id="id4780427">Đặc tính quan trọng của các thiết bị dùng màng lọc là mật độ gói của màng - diện tích bề mặt của các màng lựa chọn trên một đơn vị thể tích thiết bị. Mật độ gói của các màng trong thiết bị có nhiều dạng khác nhau được nêu dưới đây (m2/m3).</para>
+        <para id="id5683894">Dạng ống 60  200</para>
+        <para id="id4839775">Dạng cuộn 300  800</para>
+        <para id="id4951136">Dạng khung phẳng 60  300</para>
+        <para id="id5494851">Dạng có các sợi rỗng đến 30000</para>
+        <para id="id5811380">Trong các thiết bị dạng cuộn, một hay một số màng 3 được gia cố giữa bộ tiêu nước 4 và bộ sàng lưới (hình 12.2). Một phía của vật liệu lọc như thế được bịt kín trên ống để thải chất lọc 1, và tất cả vật liệu được cuộn tròn trên ống này ở dạng rulô 2. Nhanh chóng trong vấn đề thay đổi các bộ phận lọc làm cho thiết bị dạng cuộn trở nên rất thuận tiện cho thao tác. </para>
+        <para id="id5679477">Nhược điểm của các thiết bị loại này là sức cản thuỷ lực cao và sự tích trữ cặn trong các bộ sàng bằng lưới.</para>
+        <para id="id4940244"><figure id="id4770585"><media id="id1170481434191" alt=""><image src=".png" mime-type="image/png" height="135" width="131"/></media></figure>Chất lọcChất côDung dịch ban đầuHình 12.3. Sơ đồ thiết bị dùng màng lọc dạng khung phẳng: 1- Bệ lắp; 2- Thanh giằng; 3- Khu phòng; 4- Đệm xốp; 5- Màng lựa chọn12345<figure id="id5621041"><media id="id7568662" alt=""><image src=".png" mime-type="image/png" height="93" width="201"/></media></figure>Dung dịch ban đầuChất lọcHình 12.2. Sơ đồ sắp xếp các màng lựa chọn trong thiết bị dạng cuộn12 </para>
+        <para id="id5625261">Các thiết bị khung phẳng. Trong các thiết bị dạng khung phẳng, các bản đỡ có các cơ cấu tiêu nước để tháo chất lọc được bao phủ bởi các màng lựa chọn từ hai phía và được tập trung vào túi. Cho nên giữa các bản đó được tạo nên những rãnh hở để hình thành kênh dẫn dung dịch ban đầu (hình 12.3). Các thiết bị dạng khung phẳng được lắp ráp đơn giản và hoạt động bền. Nhược điểm là sự phân bổ dung dịch đem phân chia giữa các rãnh không đều, mật độ gói thấp và lượng vật liệu cao.</para>
+        <para id="id5551051">Thiết bị có các sợi rỗng. Các thiết bị trên cơ sở của các sợi rỗng gồm vỏ xilanh, trong đó đặt ống trục hay các sợi rỗng mà không cần ống trụ. Các sợi được phủ kín từ một hay hai đầu sợi bằng các bản làm bằng nhựa epoxit. Các thiết bị trên cơ sở của các sợi rỗng có mật độ gói rất cao. Tuy nhiên các dung dịch được phân chia trong thiết bị cần phải tinh chế sơ bộ, vì hiệu suất của quá trình phân chia phụ thuộc đáng kể vào sự tinh chế sơ bộ của chúng.</para>
+        <para id="id5549450">Người ta đã chế tạo khối vi lọc như trong hình 12.4, sử dụng các sợi rỗng từ xenluloza axetat và nylon - 12. Thiết bị gồm các bó (mỗi bó có 10000 sợi), sợi rỗng được xếp trong ống xilanh. Độ đặc 10.000 m2/m3. Vách các sợi rỗng thực chất là màng bán thấm. Dưới áp suất, chất lỏng được đẩy vào bó sợi từ một đầu vỏ, còn chất vi lọc thoát ra từ hai đầu cuối của bó sợi.</para>
+        <para id="id5085919">Thiết bị có năng suất từ 5 đến 1000 m3/ngày.</para>
+        <para id="id4573356"><figure id="id4648981"><media id="id5399936" alt=""><image src=".png" mime-type="image/png" height="144" width="446"/></media></figure>Dung dịch ban đầuChất lọcChất lọc</para>
+        <para id="id5759618">Hình 12.4. Thiết bị dùng màng lọc trên cơ sở của các sợi rỗng:</para>
+        <para id="id5063858">1- Vòng hãm; 2- Bản ; 3- Lưới che chắn; 4- Các sợi rỗng; 5- Bản bằng nhựa epoxit; 6- Đĩa đỡ; 7,10- Đáy; 8- Ống phân phối được đột lỗ; 9- Vỏ bằng sợi thuỷ tinh.</para>
+      </section>
+    </section>
+    <section id="id-812452479043">
+      <title>CÁC THIẾT BỊ SIÊU LỌC ĐƯỢC SỬ DỤNG TRONG CÔNG NGHIỆP</title>
+      <section id="id-614331276997">
+        <title>Cấu tạo</title>
+        <para id="id5553011">Quá trình siêu lọc được thực hiện trong khối màng dạng khung phẳng. Diện tích bề mặt làm việc của mỗi khối 10  12 m2.</para>
+        <para id="id5714745">Hình 12.5. Khối siêu lọc <figure id="id5553636"><media id="id1170481282892" alt=""><image src=".png" mime-type="image/png" height="226" width="254"/></media></figure>Chất thấm Khối siêu lọc (hình 12.5) gồm vỏ hộp 3, trong đó xếp các túi chứa bộ lọc phẳng 5, được phân cách lẫn nhau giữa các đệm có hình dạng đặc biệt 4. Khe rãnh có chiều sâu 1,0  1,5 mm được tạo ra giữa các cặp nối của bộ lọc. Dung dịch được cô chảy qua các rãnh. Để ngăn ngừa sự xê dịch của túi khi hoạt động thường dùng các chi tiết định vị 2, các gờ của các bộ lọc và các đệm phân chia được tì vào đó. Túi được bít kín trong hộp nhờ nắp trên 1. Nắp trước 8 có lắp các đoạn ống để nạp dung dịch ban đầu và tháo chất cô đặc được cố định bởi các chốt 6 qua lớp đệm kín 7 từ phía mặt mút của máy. Đoạn ống để tháo chất thấm được bố trí ở phía sườn của máy. </para>
+        <para id="id5620419">Bộ lọc gồm bản trụ bằng polypropilen có dạng hình vuông, ở hai phía tấm có các rãnh khía dọc, ngang với chiều sâu 0,3 mm. Dùng vải capron có số sàng No 32 - 49 để bọc kín bản. Đặt màng lựa chọn ở trên, sao cho phủ kín một mặt mút của bộ lọc, chất thấm được tháo ra qua ba bộ lọc hở còn lại. </para>
+        <para id="id5621549">Máy vi lọc gồm 20  25 bộ lọc và 20  24 màng xenluloza axetat. Có thể sử dụng polystrirol, thuỷ tinh hữu cơ... làm bản trụ.</para>
+        <para id="id5548248">Paronit (caosu amiăng), caosu và relin có bề dày khác nhau được sử dụng làm lớp đệm.</para>
+        <para id="id4228688">Máy siêu lọc có các ưu điểm sau: độ kín, sự gia cố an toàn các bộ lọc và các đệm phân cách và một lượng chi tiết không đáng kể tháo được.</para>
+        <para id="id4651195">Nhược điểm là khối lượng lao động lắp ráp và tháo dỡ máy lớn.</para>
+        <para id="id5143888">Máy siêu lọc (hình 12.6) hoạt động như sau: dung dịch tiệt trùng ban đầu từ thùng chứa 1 qua bộ lọc vi khuẩn 2 và bộ lọc sơ bộ 5 rồi dùng bơm 3 đẩy vào vòng tuần hoàn kín. Vòng tuần hoàn gồm bơm tuần hoàn 6, bộ trao đổi nhiệt 7 và bốn bộ siêu lọc 8. Sau khi bơm, dung dịch được phân bổ thành hai dòng song song. Mỗi dòng chảy qua hai bộ lọc nối liên tiếp nhau, và sau đó chúng kết hợp lại thành dòng chung để vào bộ trao đổi nhiệt. Áp suất làm việc trong hệ được điều chỉnh bằng van. Nhiệt độ của dung dịch được giữ ổn định trong giới hạn 100C nhờ bộ trao đổi nhiệt. Chất thấm chứa các dung dịch các chất thấp phân tử vào thùng chứa 9, còn chất cô sau khi tuần hoàn nhiều lần đến một mức nhất định thì đưa vào thùng thu nhận chất cô 10. Việc nối liên tiếp các đường song song của các bộ vi lọc cho phép thay đổi các thiết bị trong qúa trình hoạt động và làm thuận tiện cho thao tác. Để ngăn ngừa sự xâm nhập các vi sinh vật lạ vào hệ siêu lọc, thường trang bị thêm bơm tuần hoàn có đệm hai mặt mút. Bơm tuần hoàn 11 đẩy nước tiệt trùng từ thùng chứa vào đệm. Sau các bơm thường lắp các bộ chống rung để san bằng xung động của dung dịch. Trên các đường xả chất cô và chất thấm lắp đặt các lưu lượng kế kiểu con quay, còn đoạn thông ra ngoài không khí có các bộ lọc vi khuẩn.</para>
+        <para id="id4039426">Khi kết thúc quá trình các bộ vi lọc, các thùng chứa đều được rửa bằng nước và xác định hàm lượng enzim trong nước rửa. Enzim được trích ra từ nước rửa trong chu kỳ cô tiếp theo.</para>
+        <para id="id5865208">Dùng dung dịch 1% monocloamin hay chất sát trùng khác để tiệt trùng thiết bị trong thời gian 15  20 phút, sau đó rửa bằng nước tiệt trùng trong vòng 30  40 phút, tiếp theo chu kỳ công nghệ được lặp lại.</para>
+        <para id="id4559212">Thiết bị vi lọc tự động liên tục có năng suất cao (hình 12.7) được sử dụng trong sản xuất lớn các loại chế phẩm enzim và các chế phẩm hoạt hoá sinh học khác. </para>
+        <para id="id5620227">Thiết bị gồm 18 bộ vi lọc 4 với diện tích bề mặt hoạt động 180 m2. Các bộ được nhóm hoá thành ba mức cô nối nhau liên tục. Mỗi mức là một vòng tuần hoàn kín, ngoài các bộ vi lọc tham gia vào vòng tuần hoàn còn có bơm 2 và bộ trao đổi nhiệt 3. </para>
+        <para id="id5151949">Vòng đầu tiên có 9, vòng hai  6, vòng thứ ba  3 bộ.</para>
+        <para id="id2968524"><figure id="id5161327"><media id="id1170482230641" alt=""><image src=".png" mime-type="image/png" height="262" width="579"/></media></figure>Vào khí quyểnNước tiệt trùng345411Chất lọcDung dịch ban đầuChất côVào khí quyển12</para>
+        <para id="id4611096">Hình 12.6. Máy siêu lọc:</para>
+        <para id="id3683913">1- Thùng chứa dung dịch ban đầu; 2- Bộ lọc vi khuẩn; 3- Bơm nạp dung dịch; 4- Bộ chống rung; 5- Bộ lọc sơ bộ; 6- Bơm tuần hoàn; 7- Bộ trao đổi nhiệt; 8- Khối vi lọc; 9- Thùng chứa chất lọc; 10- Thùng chứa chất cô;11- Bơm; 12 - Thùng chứa nước tiệt trùng</para>
+        <para id="id4034790">Trong mỗi mức, chất lỏng được cô qua ba bộ liên tục.</para>
+        <para id="id5161113">Ở mức đầu có ba dòng song song nhau, mức hai  hai và ở mức ba  một. Dung dịch từ mức đầu váo mức hai và sau đó vào mức ba, các chất thấp phân tử được lọc liên tục. Hệ phân bổ dòng như thế cho phép đạt tốc độ chuyển động của chất lỏng trong các rãnh đến 2 m/s, giảm bớt sức cản thuỷ lực và tiêu thụ năng lượng tối thiểu.</para>
+        <para id="id4917184"><figure id="id5433321"><media id="id6491364" alt=""><image src=".png" mime-type="image/png" height="264" width="512"/></media></figure><figure id="id4395582"><media id="id1170476513441" alt=""><image src=".png" mime-type="image/png" height="264" width="512"/></media></figure>Chất sát trùng6Vào khí quyểnHơiNướcHơiVào khí quyểnDung dịch enzimChất lọcChất côNước</para>
+        <para id="id5623849">Hình 12.7. Máy vi lọc</para>
+        <para id="id5865119">Trong tiến trình vận hành lượng chất thấm theo các mức độ của hệ được giảm xuống, còn mức độ cô tăng lên. Lượng chất thấm cơ bản nhận được ở mức đầu tiên, nhỏ hơn - ở mức hai và còn nhỏ hơn nữa ở mức thứ ba, cho nên diện tích bề mặt lọc ở mức đầu là 90, ở mức hai - 60 và ở mức ba - 30 m2. Dung dịch đầu được đẩy vào hệ thuỷ lực của máy từ thùng chứa 5 nhờ bơm định lượng 1 có áp suất 0,6 MPa.</para>
+        <para id="id4519732">Máy vi lọc được trang bị hệ tự động điều chỉnh quan hệ giữa tiêu hao chất thấm và chất cô, cho phép liên tục điều chỉnh mẫu chất cô (phụ thuộc vào số lần tuần hoàn và lượng enzim đã thu nhận được).</para>
+        <para id="id5433790">Thiết bị cũng được trang bị các dung lượng để chứa dung dịch sát trùng 7 và nước tiệt trùng 8, trang bị hệ nạp nước vào các bộ vi lọc trong thời gian ngừng nạp dung dịch (để bảo giữ màng xenluloza axetat) . Không khí thải ra khỏi hệ được làm sạch trong các bộ lọc vi khuẩn 6.</para>
+        <para id="id5433794">Năng suất của thiết bị là 1800 l/h.</para>
+        <para id="id3623026">Khó khăn cho việc thay thế các màng lựa chọn sau khi lọc là nhược điểm chính của các thiết bị siêu lọc.</para>
+        <para id="id4844107">Bảng 12.2. Đặc điểm kỹ thuật của các thiết bị siêu lọc</para>
+        <table id="id5430675" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>YK - 40</entry>
+                <entry>YK - 180</entry>
+              </row>
+              <row>
+                <entry>Năng suất (1) tính theo dung dịch ban đầu, m3/hSố́ lần cô tính theo thể tíchDiện tích bề mặt của các màng, m2Nhiệt độ lớn nhất, 0CÁp suất làm việc, MPaPhạm vi pH (2)Công suất, kWCông suất đơn vị, kW/m2Kích thước cơ bảnKhối lượng, kg</entry>
+                <entry>0,4510 và hơn40500,65  8150,37215090028001800</entry>
+                <entry>2,010 và hơn180500,65  81220,6810200530028009700</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3747351">Ghi chú: (1) Năng suất phụ thuộc vào các thông số các màng được sử dụng và các tính chất các chất lỏng đem cô.</para>
+        <para id="id5152082">(2) Khi sử dụng các màng có nhãn hiệu YAM bằng xenluloza axetat.</para>
+      </section>
+      <section id="id-0255213235225">
+        <title>Các thiết bị siêu lọc dạng môđun</title>
+        <para id="id5088470">Hiện nay trong thực tế ở các nước có xu hướng thảo ra những thiết bị dạng môđun về công nghệ màng lọc. Việc ứng dụng các thiết bị siêu lọc dạng môđun sẽ cho phép làm dễ dàng việc thao tác và giảm nhân công.</para>
+        <para id="id4917161">Các tổ hợp siêu lọc Y - 15/20 , Y - 15/40 , Y - 15/2000. Các thiết bị siêu lọc Y - 15/20 tác động gián đoạn được dùng để cô và tinh chế các dung dịch chứa enzim và các chất hoạt hoá khác. Vỏ xilanh của thiết bị dùng màng lọc trong tổ hợp Y - 15/20 (hình 12.8) được phủ kín từ hai hướng bằng các nắp bích có đáy elip. Cố định hai môđun màng dạng khung phẳng trong vỏ có diện tích bề mặt của mỗi môđun 12,5 m2. Môđun gồm cụm các bộ lọc phẳng có dạng các tấm bản xốp bằng polyme được bọc bởi màng lựa chọn. Cụm được ép lại giữa các mặt bích bằng các thanh giằng ở bên trong các rãnh rỗng để tháo chất thấm. Chất thấm tháo ra ngoài qua các khớp vặn, được phân bổ trong vỏ thiết bị.</para>
+        <para id="id5554984">Tổ hợp lọc Y - 15/40 khác với tổ hợp lọc Y - 15/20 ở chỗ tổ hợp Y - 15/40 có hai thiết bị lọc màng nối tiếp nhau. Tổng diện tích của bề mặt màng 50 m2.</para>
+        <para id="id5550977">614235Chất lọcTác nhân lạnhDung dịch ban đầu</para>
+        <para id="id4754137">Hình 12.8. Sơ đồ tổ hợp siêu lọc Y -15/40</para>
+        <para id="id5118055">1- Thùng chứa dịch; 2- Bơm tuần hoàn; 3-Bộ lọc sơ bộ; 4- Thiết bị lọc bằng màng mỏng; 5- Van tiết lưu; 6- Bộ trao đổi nhiệt</para>
+        <para id="id4648177">Đặc tính kỹ thuật của tổ hợp Y - 15/140</para>
+        <para id="id4652620">Năng suất tính theo dung dịch ban đầu, m3/h: dưới 4</para>
+        <para id="id5623368">Số́ lần cô tính theo dung dịch: dưới 10</para>
+        <para id="id4845282">Diện tích bề mặt của các màng, m2: 50</para>
+        <para id="id5430540">Áp suất làm việc, MPa: 1,5</para>
+        <para id="id5759990">Lượng dẫn động điện: 2</para>
+        <para id="id5760199">Công suất đơn vị của động cơ điện, kW/m2: 13</para>
+        <para id="id4506360">Kích thước cơ bản: 360014002200</para>
+        <section id="id-682496310425">
+          <title>Khối lượng, kg: 1670</title>
+          <para id="id5371256">Tổ hợp lọc Y - 15/2000 có bề mặt lọc tổng cộng 2000 m2. Tổ hợp lọc có các thiết bị dùng màng lọc dạng môđun, về kết cấu tương tự như các thiết bị được sử dụng trong tổ hợp Y - 15/20.Tổ hợp Y - 15/2000 gồm bốn tổ hợp nhỏ Y - 15/50 tác động gián đoạn, làm việc ở chế độ tự động. Mỗi tổ hợp nhỏ có bộ phận độc lập và hoàn toàn có thể bảo đảm chế độ công nghệ đã cho. Có bốn vòng tuần hoàn trong tổ máy siêu lọc, mỗi vòng gồm có bơm tuần hoàn, bộ trao đổi nhiệt và năm thiết bị dùng màng lọc được nối liên tục.</para>
+          <para id="id4651269">Tổ máy siêu lọc Y - 15/500 làm việc như sau: dung dịch tự chảy đầy vòng tuần hoàn, sau đó mở bơm nạp liệu để đẩy dung dịch từ dung lượng ban đầu vào vòng thứ nhất, và mở các bơm tuần hoàn. Cho nên một phần chất lỏng được tuần hoàn theo vòng, còn một phần chảy từ vòng này sang phần khác, mức độ cô tăng dần. Khi trong vòng thứ bốn đạt được nồng độ cô đã cho thì mở van tháo chất thấm vào vòng tiếp theo. Dung dịch đầu được nạp thường xuyên vào vòng thứ nhất với một lượng bằng tổng lượng chất thấm tháo ra từ mỗi vòng và lượng chất cô từ vòng thứ bốn.</para>
+          <para id="id4915314">Hệ thống lắp ráp các đường ống dẫn cho phép mở bất kỳ vòng tuần hoàn nào mà không cần phải dừng tổ máy. Đặc tính kỹ thuật của các tổ hợp Y - 15/500 và Y - 15/2000 được nêu ở bảng 12.3.</para>
+          <para id="id5548896">Bảng 12.3. Đặc tính kỹ thuật của các tổ hợp siêu lọc Y - 15/500 và Y-15/2000</para>
+          <table id="id4032938" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Các chỉ số</entry>
+                  <entry>Y - 15/500</entry>
+                  <entry>Y - 15/2000</entry>
+                </row>
+                <row>
+                  <entry>Chế độ làm việcNăng suất (1) tính theo dung dịch ban đầu, m3/hSố́ lần cô Diện tích bề mặt của các màng, m2Lượng tổ máy lọc bằng màngNhiệt độ cho phép cao nhất (2), 0CÁp suất làm việc, MPaPhạm vi pH (2)Lượng dẫn động điệnCông suất động cơ điện, kW Công suất đơn vị, kW/m2Kích thước cơ bảnKhối lượng, kg</entry>
+                  <entry>Gián đoạn3,75dưới 105002050dưới 1,05  8111810,361200015000500032000</entry>
+                  <entry>Gián đoạn15,0dưới 1020008050dưới 1,05  8447250,3648000150005000130000</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5236318">Ghi chú: (1) Năng suất phụ thuộc vào các thông số của các màng được ứng dụng và các tính chất của chất lỏng đem cô.</para>
+          <para id="id5625174">(2) Khi sử dụng các màng có nhãn hiệu YAM từ xenluloza axetat.</para>
+          <para id="id4853722">Các tổ hợp siêu lọc dạng ống và dạng cuộn. Các tổ hợp tác động gián đoạn để phân chia các dung dịch bằng phương pháp siêu lọc dạng cuộn và dạng ống. Tổ máy dạng cuộn dùng để phân chia các dung dịch tương đối nguyên chất, còn dạng ống - đối với các dung dịch chứa thể huyền phù.</para>
+          <para id="id5066312">Tổ hợp MP - 70 - 2000T. Tổ hợp gồm các tổ máy lọc dùng màng, bơm tuần hoàn, khung, trạm điều khiển và được trang bị các dụng cụ đo - kiểm tra. Thiết bị trao đổi nhiệt và dung lượng không thuộc thành phần của tổ hợp.</para>
+          <para id="id5552998">Trong vỏ xilanh của tổ máy có ba khớp nối: để nạp dung dịch phân chia, để tháo chất cô và để tháo chất lọc. Môđun dạng ống hay dạng cuộn được lắp trong vỏ. Môđun dạng ống gồm các ống xốp bằng chất dẻo thuỷ tinh sắp xếp song song nhau có đường kính 12 mm, các màng lựa chọn được lắp vào bề mặt bên trong của các ống xốp trên.</para>
+          <para id="id5759404">Môđun dạng cuộn là lớp bằng màng bán thấm, lưới capron và vải capron phủ lên ống đột lỗ. Bơm đẩy dung dịch vào khoang bên trong của các bộ phận phân chia rồi đến bề mặt của màng. Chất thấm được tháo riêng biệt từ mỗi môđun vào ống góp. Dung dịch được cô cục bộ từ các tổ máy quay về dung lượng để tuần hoàn.</para>
+          <para id="id5549575">Khi làm việc với các chất hoạt hoá sinh học tổ hợp được bổ sung thêm các bộ trao đổi nhiệt để tránh dung dịch bị quá nhiệt khi tuần hoàn.</para>
+          <para id="id5549579">Đặc tính kỹ thuật của tổ hợp MP - 70 - 2000T:</para>
+          <para id="id5552705">Năng suất tính theo chất thấm, m3/ngày: 24</para>
+          <para id="id5071955">Diện tích bề mặt màng, m2: 35</para>
+          <para id="id4915601">Áp suất làm việc, MPa: 0,35</para>
+          <para id="id5494362">Công suất thiết kế, kW: 110</para>
+          <para id="id4843773">Công suất đơn vị , kW/m2: 3,14</para>
+        </section>
+        <section id="id-93721081763">
+          <title>Kích thước cơ bản:  490042002500</title>
+          <para id="id4647923">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-361844588567">
+          <title>Khối lượng, kg: 5200</title>
+          <para id="id5548037">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+      <section id="id-634633302649">
+        <title>Các tổ hợp môđun siêu lọc tác dụng liên tục</title>
+        <para id="id4609901">Tổ hợp môđun siêu lọc dạng lọc - ép để cô các sản phẩm lỏng trong công nghiệp vi sinh, y và hoá.</para>
+        <para id="id5621675">Tổ hợp siêu lọc A1 - OYC. Tổ hợp (hình 12.9) gồm 6 lô: 1  6, mỗi một lô có bơm tuần hoàn 9, bộ trao đổi nhiệt 10, chúng được nối với ống góp chung để tháo chất cô và chất lọc.</para>
+        <para id="id5549890">Từ hai dung lượng 11, sản phẩm ban đầu chảy vào bộ trao đổi nhiệt 12, tại đây sản phẩm được đun nóng và sau đó bơm 13 đẩy vào tổ máy siêu lọc.Trong lô 1 sản phẩm được ép thẳng qua các môđun với tốc độ trên màng 1,6  2,0 cm/s nhờ bơm tuần hoàn 8. Sản phẩm được tuần hoàn nhiều lần trong vòng của lô, chất lọc được tháo liên tục khỏi môđun, còn chất cô một phần được đẩy vào lô 2, và quá trình như thế được lặp lại. Việc cô tiếp tục được thực hiện tương tự trong tất cả các lô tiếp theo. Thành phẩm có nồng độ đã đạt theo quy định được tháo ra khỏi lô 6.</para>
+        <para id="id5371659">Các lô được nối liên tục với nhau, đồng thời trong bốn lô đầu lắp đặt các môđun 7 có bề mặt làm việc 7,7 m2, gồm 53 bộ phận lọc. Trong hai lô cuối lắp đặt các môđun 8 có bề mặt lọc 3,6 m2 gồm 25 bộ phận lọc.</para>
+        <para id="id4649205">Để điều chỉnh, trong vòng tự động của lô 6 lắp khúc xạ kế 14 có liên kết chức năng với van 15 được đặt ở cửa ra của thiết bị.</para>
+        <para id="id5433096">Hình 12.9. Tổ hợp siêu lọc A1 -OYC123456111213777777101010101010151499Chất côChất lọc</para>
+        <para id="id5497120">Đặc tính kỹ thuật của tổ hợp siêu lọc A1 - OYC:</para>
+        <para id="id5497125">Năng suất (tính theo huyết thanh) l/h: 5000  6700</para>
+        <para id="id4848930">Hàm lượng chất khô trong chất cô, %: 25</para>
+        <para id="id5494120">Bề mặt làm việc của màng xenluloza axetat, m2: 52</para>
+        <para id="id5494269">Công suất các động cơ điện, kW: 77,8</para>
+        <para id="id4943263">Kích thước cơ bản , mm: 1650033002500</para>
+        <para id="id4851822">Khối lượng, kg: 16000</para>
+        <para id="id4839228">Tổ hợp môđun siêu lọc A1 - OYB</para>
+        <para id="id4839233">Tổ hợp cô sản phẩm protein A1 - OYB được ứng dụng các màng polyme có độ bền cao trong đệm. Việc nối song song - nối tiếp các phần tử lọc cho phép tạo ra các môđun có bề mặt làm việc khác nhau.</para>
+        <para id="id5682456">Tổ hợp A1 - OYB (hình 12-10) gồm dung lượng chứa dung dịch ban đầu 4, bơm nạp liệu 5, bộ trao đổi nhiệt 6 với đường viền 7 và van điều tiết 5, hai bộ lọc tinh 8 và tổ máy siêu lọc gồm ba lô 9,10,11. Mỗi lô có môđun 12 (hay 13), bơm tuần hoàn 14 và bộ lọc trao đổi nhiệt 15 . Trong các lô 9 và 10 sử dụng môđun 12 với bề mặt các màng 25 m2, gồm 100 phần tử lọc. Các phần tử lọc được kết hợp lại thành 5 khối nối nhau liên tục. Trong lô 11 sử dụng môđun 13 với bề mặt làm việc 15 m2, gồm 60 phần tử lọc và được kết hợp lại thành ba khối. Trong vùng của lô ba được lắp khúc xạ kế 16, còn ở vị trí tháo ra khỏi tổ máy có van 17 liên kết chức năng với khúc xạ kế.</para>
+        <para id="id5497563"><figure id="id4661939"><media id="id1170482563520" alt=""><image src=".png" mime-type="image/png" height="295" width="543"/></media></figure>Chất cô chứa proteinHình 12.10. Tổ hợp siêu lọc tác động liên tục A1 - OYBChất lọc đem gia công</para>
+        <para id="id4656257">Bơm nạp liệu 5 đẩy sản phẩm ban đầu từ dung lượng 4 qua bộ trao đổi nhiệt 6 và các bộ lọc tinh 8 vào lô 9 của tổ máy siêu lọc, qua bộ làm lạnh 15, còn chất lọc được tháo liên tục ra khỏi môđun và vào thùng chứa 20. Một phần sản phẩm được cô từ lô 9 vào lô 10 và quá trình cô được lặp lại. Sau đó từ lô 10 sản phẩm vào lô 11. Thành phẩm tháo ra khỏi lô 11, thành phần của sản phẩm được điều chỉnh nhờ van 17 có liên quan chức năng với khúc xạ 16, sau đó các sản phẩm được hướng vào các giai đoạn tiếp theo qua bộ trao đổi nhiệt 18, còn chất cô dùng bơm 19 đẩy ra khỏi phòng 20 để gia công tiếp theo.</para>
+        <para id="id4641139">Các dung dịch đã cô được chuẩn bị trong dung lượng 2 và dùng bơm định lượng đẩy vào thùng chứa 1, tại đây nó được làm loãng đến nồng độ theo yêu cầu. Dùng bơm 3 đẩy dung dịch loãng vào tổ hợp qua thùng chứa dung dịch ban đầu 4.</para>
+        <para id="id4851333">Đặc tính kỹ thuật của tổ hợp siêu lọc A1 - OYB:</para>
+        <para id="id4641145">Số lượng lô: 3</para>
+        <para id="id4764321">Số lượng môđun: 3</para>
+        <para id="id4654194">Bề mặt làm việc của các môđun, m2:  25, 25,15</para>
+        <para id="id4845971">Năng suất (tính theo sữa khi sử dụng các màng polysunfua) l/h: 3800  2500</para>
+        <para id="id4855892">Năng suất đơn vị, l/m2: 46</para>
+        <para id="id5497075">Công suất động cơ, kW: 57</para>
+        <para id="id5496940">Kích thước cơ bản, mm: 1175036003600</para>
+        <para id="id4855774">Khối lượng, kg:  14700</para>
+      </section>
+      <section id="id-346268549511">
+        <title>Các tổ hợp vi lọc ở một số nước</title>
+        <para id="id4855909">Tổ hợp siêu lọc của Hãng DDS. Hãng DDS (Đan Mạch) sản xuất các tổ hợp công nghiệp khung phẳng siêu lọc dạng nằm ngang có mức độ tự động cao, chúng có thể hoạt động ở chế độ gián đoạn hay liên tục.</para>
+        <para id="id4783334">Các phần tử cơ bản của tổ hợp thuộc Hãng DDS là những màng môđun, có hệ rãnh nhỏ song song, tương tự như bộ ép - lọc.</para>
+        <para id="id5761774">So sánh các tính chất của màng xenluloza axetat và polysunfua được ứng dụng trong các tổ hợp thuộc hãng DDS được giới thiệu trong bảng 12.4.</para>
+        <para id="id4855849">Hãng DDS sản xuất các tổ hợp siêu lọc có diện tích bề mặt màng 9  1900 m2, được dùng để sản xuất ở mức độ lớn và nhỏ (bảng 12.5).</para>
+        <para id="id4942959">Bảng 12.4. Đặc tính của các màng xenluloza axetat và polysunfuađược sử dụng trong các tổ hợp siêu lọc của Hãng DDS</para>
+        <table id="id6013428" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>Màng xenluloza axetat</entry>
+                <entry>Màng polysunfua</entry>
+              </row>
+              <row>
+                <entry>Phạm vi pHPhạm vi nhiệt độ hoạt động, 0CĐộ bền cơ học, kg/cm2</entry>
+                <entry>2  90  500,7</entry>
+                <entry>0  140  8010,0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4842222">Bảng 12.5. Đặc điểm kỹ thuật của tổ hợp siêu lọc để sản xuất lớn thuộc Hãng DDS</para>
+        <table id="id4656779" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>F35 - 360</entry>
+                <entry>F35 - 1700</entry>
+              </row>
+              <row>
+                <entry>Năng suất tính theo dung dịch ban đầu, m3/hDiện tích bề mặt các màng, m2Số lượng môđun màng trong tổ hợpÁp suất làm việc, MPaTốc độ dòng dung dịch qua môđun, m/sCông suất động cơ điện, kWCông suất đơn vi, kW/m2Kích thước cơ bản, mmcủa tổ hợpcủa tổ máy</entry>
+                <entry>8360111,52980,834900190020001190036002000</entry>
+                <entry>381700111,51341o,724900190020001190036002000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5497730">Tổ hợp siêu lọc của Hãng Romicon (Hà Lan). Tổ hợp HL-1/3SL của Hãng Romicon (hình 12.11) gồm bộ các sợi có đường kính 60  160 mm và chiều dài lớn hơn 1000 mm, bề mặt bên trong của chúng được phủ các màng. Các sợi được phân bố trong vỏ xilanh kín. Trong vỏ phân bổ các khớp nối để nạp dung dịch ban đầu và tháo chất cô, chất thấm, cũng như để lắp các dụng cụ đo. Các dạng màng trong sợi có thể chọn lựa, phụ thuộc váo chất lỏng đem cô.</para>
+        <para id="id4848474"><figure id="id5718541"><media id="id1170472385526" alt=""><image src=".png" mime-type="image/png" height="376" width="315"/></media></figure>Hình 12.11. Tổ hợp siêu lọc của Hãng RomiconTổ hợp gồm bơm tuần hoàn 4, ba khối màng 1 bằng những sợi rỗng, bộ lọc trong dung dịch 3, bộ trao đổi nhiệt kiểu tấm làm lạnh dung dịch trong quá trình tuần hoàn và trạm điều khiển 2. Dùng bơm ly tâm nhiều nấc, đẩy chất lỏng ban đầu vào bộ lọc ép để tinh luyện dung dịch 3, sau đó vào bó sợi siêu lọc 1 dưới áp suất 0,6  0,8 MPa. Bên trong bó, chất lỏng chảy theo các rãnh áp sát bề mặt sàng và được lọc dần. Sự tồn tại một lượng lớn các rãnh, cho phép tăng nhanh tốc độ của dòng, nhằm tạo khả năng giảm nồng độ phân cực. Chất cô vào thùng chứa và tuần hoàn đến nồng độ cuối cùng đã cho, còn chất thấm khi tập trung lại ở ngoài các ống, theo ống trong suốt vào thùng chứa. Nhiệt độ cô có thể thiết lập trong giới hạn từ 4 đến 900C, trị số pH - từ 1 đến 12. Các bộ phận tiếp xúc với dung dịch cô đều được làm bằng thép không gỉ. </para>
+        <para id="id5810980"><figure id="id4662529"><media id="id9006372" alt=""><image src=".png" mime-type="image/png" height="290" width="534"/></media></figure>Hình 12.12. Tổ hợp siêu lọc HF 10-20 SS của Hãng RomiconDung dịch ban đầuChất côTháoTháoChất thấmTổ hợp được bố trí rất gọn, các kích thước cơ bản 8658651625 mm và khối lượng 150 kg, năng suất của tổ hợp 1800 l/h.</para>
+        <para id="id4846427">Tổ hợp của hãng HF 10-20SS (hình 12.12) gồm thùng chứa 1, dung dịch ban đầu từ thùng chứa bơm qua các thiết bị dùng màng 3 nhờ bơm tuần hoàn 2 và quay về thùng chứa. Trong quá trình lọc có thể thay đổi hướng chảy ngược lại của dung dịch, nhằm thực hiện gián đoạn khi rửa các ống mao dẫn. Một phần chất thấm thải ra khỏi thiết bị được tập trung vào thùng chứa 5, từ dó bơm 4 đẩy vào các thiết bị màng lọc để rửa các ống mao dẫn bằng dòng chất lỏng ngược lại. Năng suất của thiết bị 12000 l/h, kích thước cơ bản 900025002000 mm, khối lượng 250 kg.</para>
+      </section>
+    </section>
+    <section id="id-679715247765">
+      <title>CÁC TỔ HỢP MÀNG ĐỂ LÀM SẠCH CÁC DÒNG NUỚC THẢI CÔNG NGHIỆP</title>
+      <para id="id5496802">Tổ hợp YMP. Các tổ hợp này được ứng dụng để phân chia và làm sạch các dòng nước thải công nghiệp, cũng như để tách các sản phẩm có giá trị ra khỏi dòng nước thải bằng phương pháp thấm lọc ngược.</para>
+      <para id="id5760192">Tổ hợp lọc YPM gồm bộ lọc làm sạch sơ bộ, các bộ chia, bơm, dụng cụ đo - kiểm tra, trạm điều khiển và các đường ống nối.</para>
+      <para id="id5760196">Các bộ chia dạng màng băng được ứng dụng để phân chia bằng phương pháp thẩm thấu ngược, còn các màng chia dạng ống - để cô các dung dịch bằng phương pháp siêu lọc. Tổ hợp dạng băng gồm vỏ xilanh có các khớp nối để nạp dung dịch ban đầu và để tháo chất cô và chất lọc. Bên trong vỏ được phân bố bộ phân chia. Bộ phân chia là ống đột lỗ được bao phủ lớp lưới capron và ba lớp vải capron, với màng bán thấm vặn xoắn. Bộ phân chia dạng ống gồm 7  10 ống song song bằng chất dẻo thuỷ tinh, bên trong ống được phân bổ các màng bán thấm. Dùng bơm đẩy các dung dịch ban đầu qua các đoạn ống nạp và khoang bên trong của các bộ phân chia rồi tới các bề mặt bán thấm. Dưới tác dụng của áp suất được tạo ra trong các bộ phân chia, một phần chất lỏng đã được làm trong chảy qua đoạn ống để thoát ra ngoài, còn các chất hoà tan (không qua màng) cùng với dung môi còn lại được tháo ra ngoài qua các đoạn ống khác.</para>
+      <para id="id4848826"><figure id="id4662220"><media id="id1170471310219" alt=""><image src=".png" mime-type="image/png" height="193" width="288"/></media></figure>Chất côChất lọcHình 12.13. Sơ đồ tổ hợp MP - 2 - 50P phân chia môi trường lỏng bằng màngTổ hợp MP. Tổ hợp (hình 12.13) gồm các bộ phân chia bằng màng 4 có các phần cuộn và phần ống, bơm 2, các dụng cụ đo - kiểm tra, trạm điều khiển và các đường ống nối nhau.</para>
+      <para id="id4950694">Bộ phân chia dạng cuộn là một vỏ xilanh, bên trong nó được phân bổ ống đột lỗ làm bằng thép 12X18H10T. Đính trên ống một số túi. Túi gồm các màng bán thấm, bộ xoáy, đệm và bộ tiêu nước.</para>
+      <para id="id4950708">Trong bộ phân chia dạng ống được lắp khối ống gồm nhóm ống rỗng bằng thuỷ tinh dẻo đặt song song nhau. Các màng bán thấm được lắp trên vách trong của các ống.</para>
+      <para id="id5680930">Bơm 2 dưới áp suất nhất định sẽ đẩy chất lỏng đem phân chia từ dung lượng 1 qua bộ tích thuỷ lực 3 vào các khoang bên trong của các bộ phân chia 4 đến bề mặt của màng bán thấm.</para>
+      <para id="id4944801">Dưới tác động của áp suất tăng được tạo ra trong bộ phân chia, dung môi chảy qua các màng bán thấm và được tháo ra qua đoạn ống tháo chất lọc rồi chảy đến ống góp của tổ hợp. Một phần dung dịch không qua màng được tháo ra khỏi bộ phân chia qua đoạn ống tháo.</para>
+      <para id="id5494634">Bảng 12.6. Đặc tính kỹ thuật của các tổ hợp phân chia các môi trường chất lỏng bằng màng, ở nhiệt độ môi trường phân chia 5  350C và áp suất dư 4  8 MPa</para>
+      <table id="id5809658" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Các chỉ số</entry>
+              <entry>MP-2-50P</entry>
+              <entry>MP-40-40P</entry>
+              <entry>MP-20-200P</entry>
+              <entry>MP-70-2000T</entry>
+            </row>
+            <row>
+              <entry>Năng suất theo chất lọc, m3/ ngàyDiện tích bề mặt của màng, m2Áp suất làm việc, MPaCông suất thiết kế, kWKích thước cơ bản,mmKhối lượng , kg</entry>
+              <entry>0,42,551,110349101325413</entry>
+              <entry>8,55045,52030113013851385</entry>
+              <entry>422505473120306020004233</entry>
+              <entry>2450,351104900421025005230</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-989639463357">
+      <title>TÍNH TOÁN CÁC TỔ HỢP SIÊU LỌC VÀ CÁC TỔ MÁY</title>
+      <para id="id4662306">Khi khai thác các tổ hợp siêu lọc để cô các dung dịch chứa chất hoạt hoá sinh học cần phải tuân theo bốn dạng tính toán: tính công nghệ, thuỷ lực, cơ học và nhiệt.</para>
+      <para id="id4838564">Nhiệm vụ của tính toán công nghệ bao gồm xác định diện tích cần thiết bề mặt làm việc của màng, xác định các dòng nguyên liệu và lựa chọn cấp liệu của các loại bơm tuần hoàn và bơm nạp liệu. Trong trường hợp ứng dụng các hệ siêu lọc nhiều cấp phải tiến hành phân bổ diện tích bề mặt màng theo các vòng tuần hoàn.</para>
+      <section id="id-125724347889">
+        <title>Tính toán công nghệ các tổ hợp siêu lọc và các bề mặt làm việc của các màng</title>
+        <para id="id4848627">Để tiến hành tính toán công nghệ các tổ hợp siêu lọc cần phải chọn sơ bộ nhãn hiệu màng bán thấm nhằm đảm bảo tính chọn lọc đã cho, và xác định những đặc tính công nghệ cơ bản của quá trình cô. Những số liệu thu được bằng thực nghiệm trong các tổ hợp thí nghiệm cho mỗi một loại dung dịch.</para>
+        <para id="id4857033">Chọn sơ đồ tổ hợp siêu lọc gồm ba vòng tuần hoàn n1, n2, n3 được thiết lập trong quá trình cô một cách bất kỳ. Khi đó cần phải khảo sát điều kiện: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n=n rSub { size 8{1} } n rSub { size 8{2} } n rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id5659808">Giả thử mức độ cô trong mỗi vòng đều bằng nhau, có nghĩa là:</para>
+        <para id="id5659815">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mroot>
+                        <m:mi>n</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mroot>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n rSub { size 8{1} } =n rSub { size 8{2} } =n rSub { size 8{3} } = nroot { size 8{3} }  {n} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4850008">Khi đó công suất của tổ hợp siêu lọc được tính theo chất cô:</para>
+        <para id="id4942131">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>c</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{c} } = {  {Q rSub { size 8{d} } }  over  {n} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6013444">trong đó : Qd- năng suất của tổ hợp tính theo dung dịch ban đầu.</para>
+        <para id="id5687385">Năng suất của tổ hợp tính theo chất thấm:</para>
+        <para id="id5687391">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>ct</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>c</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"ct"} } =Q rSub { size 8{d} }  - Q rSub { size 8{c} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4852153">Một phần lượng dung dịch đã được cô chảy từ vòng tuần hoàn thứ nhất vào vòng tuần hoàn thứ hai:</para>
+        <para id="id5656261">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{1} } = {  {Q rSub { size 8{d} } }  over  {n rSub { size 8{1} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4837376">Lượng chất thấm được thải ra từ các tổ màng của vòng tuần hoàn thứ nhất:</para>
+        <para id="id5458964">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>ct1</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"ct1"} } =Q rSub { size 8{d} }  - Q rSub { size 8{1} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4831676">Từ vòng tuần hoàn thứ hai vào vòng tuần hoàn thứ ba: </para>
+        <para id="id4661283">Hình 12.14. Động lực học của sự biến đổi độ thấm của màng chọn lọc YAM - 200 phụ thuộc vào mức độ cô khi siêu lọc proteaza kiềm tính0468101214161812345678910nG, N/(m2/h)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{2} } = {  {Q rSub { size 8{1} } }  over  {n rSub { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4655410">Lượng chất thấm được thải ra từ các tổ máy của vòng tuần hoàn thứ hai:</para>
+        <para id="id4655418">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>ct</m:mtext>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"ct"2} } =Q rSub { size 8{1} }  - Q rSub { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4658364">của vòng tuần hoàn thứ ba:</para>
+        <para id="id4658370">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>ct</m:mtext>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>ct</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>Q</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>ct</m:mtext>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mtext>ct</m:mtext>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"ct"3} } =Q rSub { size 8{"ct"} }  - Q rSub { size 8{"ct"1} }  - Q rSub { size 8{"ct"2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5462544">Độ thấm của màng chọn lọc theo mức độ cô của dung dịch ban đầu sẽ thay đổi do sự biến đổi các tính chất hoá - lý của môi trường - tăng độ nhớt, tăng nồng độ của các chất khô hoà tan, thay đổi sức căng bề mặt, thay đổi tỷ trọng... (hình 12.14).</para>
+        <para id="id4841990">Cho nên để xác định diện tích bề mặt lọc cần thiết của các vòng tuần hoàn, các đại lượng độ thấm trung bình trong mỗi vòng tuần hoàn K1 , K2 và K3 được xác định bằng đồ thị khi biến đổi mức độ cô tương ứng từ n0 đến n­1, từ n1 đến n2 và từ n2 đến n3.</para>
+        <para id="id4947624">Diện tích bề mặt màng (m2) của mỗi vòng tuần hoàn: </para>
+        <para id="id4947384">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>i</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>cti</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>K</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{i} } = {  {Q rSub { size 8{"cti"} } }  over  {K rSub { size 8{i} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5458008">Tính toán thuỷ lực của máy</para>
+        <para id="id5679505">Tính toán thuỷ lực chủ yếu là xác định sức cản thuỷ lực của tổ màng và cột áp cần thiết của bơm tuần hoàn. Để thực hiện điều đó cần phải biết các thông số sau: chiều cao rãnh giữa các màng h, bề rộng của rãnh b, chiều dài rãnh giữa các màng l, số lượng rãnh giữa các màng n, tốc độ dòng dung dịch trong rãnh giữa các màng v, độ nhớt động học của dung dịch chứa enzim , tỷ trọng của dung dịch enzim .</para>
+        <para id="id4945491">Hệ số ma sát của các rãnh có tiết diện chữ nhật với các cạnh b và h:</para>
+        <para id="id4664622">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>ms</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>K</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>hh</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mstyle fontweight="bold">
+                          <m:mrow>
+                            <m:mtext>Re</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{"ms"} } = {  {K rSub { size 8{"hh"} } }  over  { bold "Re"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4857554">trong đó : Khh - hệ số phụ thuộc vào tỷ số các kích thước hình học của rãnh;</para>
+        <para id="id4849171">Re - chuẩn Reynolds, Re = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>vd</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>qd</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi>ρ</m:mi></m:mrow><m:mi>μ</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "vd" rSub { size 8{"qd"} } ρ}  over  {μ} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4666076">ở đây: dqd - đường kính tiết diện quy đổi ( dqd = 2h).</para>
+        <para id="id5762151">Đối với trạng thái chảy tầng của dung dịch thì sức cản thuỷ lực của các tổ máy:</para>
+        <para id="id5657039">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi fontstyle="italic">ΔP</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>ρ</m:mi>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:msup>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mfrac>
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>f</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mtext>ms</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:msub>
+                                    <m:mi>L</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mtext>qd</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                                <m:msub>
+                                  <m:mi>d</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>qd</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mrow>
+                              <m:mo stretchy="false">∑</m:mo>
+                              <m:mi>ξ</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mfenced>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>ρ</m:mi>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>gH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ΔP=ρ {  {v rSup { size 8{2} } }  over  {2} }  left (1+ {  {f rSub { size 8{"ms"} } L rSub { size 8{"qd"} } }  over  {d rSub { size 8{"qd"} } } } + sum ξ right )+ρ ital "gH"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5686578">trong đó : Lqd - chiều dài quy đổi của rãnh, m , (Lqd = l);</para>
+        <para id="id5719347"> - sức cản cục bộ của tổ máy (thường lấy  = 0);</para>
+        <para id="id4842836">H - chiều cao nâng dung dịch đối với tổ máy, m.</para>
+      </section>
+    </section>
+    <section id="id-182981864293">
+      <title>TỔ HỢP ĐỂ LÀM TRONG VÀ LỌC TIỆT TRÙNG</title>
+      <para id="id4664791">Các quá trình làm trong và lọc tiệt trùng có tầm quan trọng trước khi xác định khả năng làm việc của các tổ hợp siêu lọc, tuổi thọ của các màng xenluloza axetat, cũng như chất lượng làm sạch dung dịch khỏi vi khuẩn. Chuẩn bị dung dịch cho siêu lọc được tiến hành trong các bộ lọc đặc biệt.</para>
+      <para id="id4950255">Các bộ lọc trong và lọc tiệt trùng có nhiều khung bản. Để làm trong và tiệt trùng các dung dịch chứa các chất hoạt hoá sinh học trước khi cô chúng bằng phương pháp siêu lọc thường sử dụng các bộ lọc nhiều khung bản (hình 12.15) gồm bộ khung lưới có bản tiệt trùng hay làm trong. Bộ lọc nằm trên khung máy gồm các trụ, được nối với các thanh giằng và có các thanh ngang. </para>
+      <para id="id4839346"><figure id="id4836729"><media id="id1170483382563" alt=""><image src=".png" mime-type="image/png" height="453" width="670"/></media></figure>Nạp hơi khi tiệt trùngNạp chất lỏng để lọc từ thùng kétTháo chất lỏng đã được lọcỐng lấy mẫu thí nghiệm</para>
+      <para id="id4838259">Hình 12.15. Bộ lọc khung bản để làm trong dung dịch:</para>
+      <para id="id4660228">1- Bánh xe; 2- Khung máy; 3- Trục ; 4- Khay; 5- Ống mềm; 6, 9,10,16, 20 - Các van; 7- Thanh ngang; 8- Van; 11- Khung hai lưới; 12; Khung ba lưới; 13- Bản tiệt trùng; 14- Nắp cố định; 15- Áp kế; 17- Ống cao su; 18- Vít ép; 19- Vô lăng lái; 21- Thanh giàng; 22- Ống lấy mẫu thí nghiệm; 23- Thùng két</para>
+      <para id="id4845990">Giữa các nắp cố định và di động lắp các khung với những bản xen kẽ nhau. Các bản được chia làm hai bộ phận - cho chất lỏng được lọc và cho loại chưa được lọc. Dưới áp suất dư, chất lỏng chưa được lọc chảy vào khoang các nắp của các khung ba lưới và vào bộ chứa.</para>
+      <para id="id4846795">Các bản lọc amiăng - xenluloza nhãn hiệu  làm trong dung dịch khỏi thể lơ lửng và giữ lại trên 85% vi sinh vật. Các bản tiệt trùng nhãn hiệu C, C-1, C-2 loại 100% vi sinh vật khi lọc. Tải trọng vi khuẩn đạt đến 1010 khuẩn lạc trên 1 cm2 bề mặt lọc khi bị bẩn vi khuẩn. Theo hình dạng bên ngoài các bản lọc và bản tiệt trùng là những đĩa phẳng trắng, dẻo, gợi sóng một mặt. Các bản làm bằng hổn hợp xenluloza và amian. Các sợi xenluloza có bề dày 30 m tạo ra màng lưới không gian thô, các lỗ lưới được ép đầy sợi amian. Khi bề dày của bản đạt 4  5 mm thì dòng chất lỏng chảy qua một quãng đường dài ngoằn ngoèo của các sợì.</para>
+      <para id="id5812639">Các bộ lọc bản gồm các hạt và chúng hấp thụ trên toàn bộ bề mặt các sợi. Các bộ lọc bản có thể tiệt trùng bằng hơi ở nhiệt độ 1500C. Chúng trơ với tất cả các dung môi, nhưng rất nhạy với các kiềm mạnh và axit đặc. Thời gian hoạt động của các bản khoảng 6 h. Áp suất lớn nhất cho phép khi lọc và tiệt trùng các dung dịch trong bộ lọc 147 kPa. Phụ thuộc vào các dạng bản được ứng dụng mà có thể sử dụng hoặc là để làm trong hoặc là để tiệt trùng chất lỏng.</para>
+      <para id="id4947755">Các bản có dạng hình tròn (đường kính 140, 240, 300 và 500 mm) và dạng hình vuông (200200, 400400, 600600. Khả năng cho qua nước của các bản với đường kính 300 mm ở nhiệt độ 200C  5 và áp suất 121 kPa là C, C-1-310, C-2-360 và  lớn hơn 220 l/h. Năng suất đơn vị đối với các dung dịch chứa enzim 10150 l/(m2h).</para>
+      <para id="id4752455">Các bộ lọc tiệt trùng (trước khi sử dụng) được tiệt trùng bằng hơi ở nhiệt độ 1200C trong vòng 30  40 phút hay tiệt trùng bằng các chất hoá học (focmandehit, rượu etilic, H2O2). Các bộ lọc dùng trong công nghiệp P-39 và P-79 được trang bị các khung có hai và ba lưới. Bộ lọc P-39 có 39 và 40 khung, P-79 có 79 và 80. Các bộ lọc được tính toán cho hoạt động dưới áp suất 29 kPa.</para>
+      <para id="id4751224">Để tinh luyện và tiệt trùng các dung dịch hoạt hoá sinh học, đã sản xuất ra 5 nhãn hiệu bộ lọc màng axetat với các đĩa có đường kính 35, 90, 142, và 293 mm và hình chữ nhật có kích thước 300500 mm (bảng 12.7).</para>
+      <para id="id4948686">Thời gian hoạt động của các màng lọc 70 h, còn năng suất đơn vị 150  170 l/(m2h).</para>
+      <para id="id5717659">Bảng 12.7. Đặc tính kỹ thuật của các bộ lọc màng để lọc tinh và lọc tiệt trùng</para>
+      <table id="id5496214" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Nhãn hiệu</entry>
+              <entry>Năng suất tính theo nước khi P = 45 kPa, ml/cm2</entry>
+              <entry>Đường kính trung bình của lỗ, m</entry>
+              <entry>Lĩnh vực ứng dụng</entry>
+            </row>
+            <row>
+              <entry>MЮA - 0,12MЮA - 0,2MЮA - 0,3MЮA - 0,4MЮA - 0,55</entry>
+              <entry>0,6 1,41,5  3,84,0  7,58,0  12,013,0  26,0</entry>
+              <entry>0,12  0,020,2  0,050,3  0,050,4  0,050,55  005</entry>
+              <entry>Lọc protein cao phân tửVirutLọc tiệt trùng các dung dịchLọc tiệt trùngĐể phân tích vi sinh</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,1395 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị để nghiền, tiêu chuẩn hóa</title>
+  <metadata>
+  <md:content-id>m30739</md:content-id><md:title>Thiết bị để nghiền, tiêu chuẩn hóa</md:title>
+  <md:abstract>Các quá trình nghiền, tiêu chuẩn hoá (đồng nhất), tạo viên và tạo màng bao siêu mỏng là những quá trình kết thúc để thu nhận các sản phẩm cuối cùng trong tổng hợp vi sinh. Trong quá trình của các công đoạn này, sản phẩm sẽ được tạo ra dạng hàng hoá và đạt được nồng độ cần thiết. Vì vậy những quá trình được nêu trên là quan trọng và chất lượng cuối cùng của sản phẩm phụ thuộc vào mức độ hoàn thiện chính xác .</md:abstract>
+  <md:uuid>62fd92c6-84a3-43c5-97d3-0dceb10ecdb1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-151675229764">
+      <title>THIẾT BỊ NGHIỀN</title>
+      <para id="id5748109">Quá trình phân chia một vật thể rắn ra thành những vật thể nhỏ hơn dưới tác động của các lực ở bên ngoài được gọi là nghiền. Mức độ nghiền được đặc trưng bởi tỷ lệ giữa kích thước các tiểu phần của nguyên liệu trước khi nghiền (dt) và kích thước các tiểu phần sau khi nghiền (dS):</para>
+      <para id="id5748144">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>i</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>t</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>s</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{i= {  {d rSub { size 8{t} } }  over  {d rSub { size 8{s} } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id6204898">Kích thước của các tiểu phần được xác định bởi kích thước các lỗ sàng mà nguyên liệu qua trước và sau khi nghiền. Phụ thuộc vào kích thước của các tiểu phần trước và sau khi nghiền mà người ta phân biệt ra các dạng nghiền sau đây:</para>
+      <para id="id6204912">Nghiền thô <footnote id="id5795262">1) Tử số - Đại lượng các hạt trước khi nghiền; mẫu số - sau khi nghiền, mm.</footnote>1)*: 1500  200/ 250  25</para>
+      <para id="id5719931">Nghiền trung bình: 150  25/ 25  5</para>
+      <para id="id5832893">Nghiền nhỏ: 25  10/ 5 1</para>
+      <para id="id5832918">Nghiền mịn: 5  1/ 1  0,075</para>
+      <para id="id5755941">Siêu mịn: 0,2  0,1/ đến 104</para>
+      <para id="id5755966">Nghiền vật liệu có thể tiến hành bằng các phương pháp nén vỡ, va đập, đập vụn và mài mòn. Việc chọn phương pháp nghiền phụ thuộc vào cỡ và độ bền của vật liệu nghiền cũng như vào mức độ nghiền được đòi hỏi.</para>
+      <para id="id5755981">Vì các chất hoạt hoá sinh học không có tính bền nhiệt nên thiết bị được ứng dụng để nghiền cần phải trang bị áo lạnh.</para>
+      <para id="id5755986">Trong công nghiệp vi sinh thường ứng dụng máy nghiền búa, máy nghiền bằng phương pháp va đập - máy đập vụn và máy tán, máy nghiền bi và nghiền bằng thanh, nghiền keo, nghiền hạt và máy nghiền bằng phun khí.</para>
+      <para id="id5843449">Máy nghiền búa. Loại thiết bị này được dùng để nghiền các chủng nấm mốc. Máy nghiền (hình 14.1) là hộp hình xilanh có áo lạnh. Bề mặt trong xilanh của hộp nghiền 1 có bánh răng. Bên trong hộp, trên trục của động cơ điện cảm ứng 2 lắp rôto có đường kính 630 mm với các búa bằng những phiến lá khớp chặt.</para>
+      <para id="id5843468"><figure id="id5843479"><media id="id10568525" alt=""><image src=".png" mime-type="image/png" height="302" width="476"/></media></figure>Sản phẩm Thải chất lỏng làm lạnhSản phẩm nghiền Chấtlàm lạnh 1035Sản phẩm ban đầu có kích thước các tiểu phần đến 50 mm qua đoạn ống ở trên nắp của thiết bị nghiền được cho vào tâm rôto một cách liên tục, dưới tác động của lực ly tâm sản phẩm qua khoảng giữa các búa bị va đập nhiều lần và bị vỡ ra. Nhiệt độ trong hộp nghiền 15  200C, trong áo lạnh từ 10 đến +100C. Trên cửa thoát lắp lưới có kích thước thay đổi của các lỗ lưới 15, 40 và 40 mm. Mức độ nghiền dao động từ 10  15 đến 30  40.</para>
+      <section id="id-788289315699">
+        <title>Hình 14.1. Máy nghiền búa </title>
+        <para id="id5720444">Năng suất của máy nghiền tính theo chủng nấm mốc đến 700 kg/h, bề mặt trao đổi nhiệt 0,3 m2; công suất động cơ 13 kW. Kích thước cơ bản 117810351066 mm, khối lượng 800 kg.</para>
+        <para id="id5720472">Máy nghiền bằng phương pháp va đập. Các loại máy đập vụn, máy tán và những loại máy khác có cấu tạo tương tự đều thuộc loại máy nghiền va đập.</para>
+        <para id="id5832423">Ưu điểm của các máy nghiền va đập là kết cấu đơn giản, năng suất cao, hoạt động bền; nhược điểm - tạo bụi mạnh và tiêu hao năng lượng lớn.</para>
+        <para id="id5832430">Máy đập vụn (hình 14.2) là máy va đập bằng đĩa, gồm hai rôto quay ngược chiều với số vòng quay 950 và 1440 vòng/phút từ các bộ dẫn động riêng rẽ 3. </para>
+        <figure id="id5832448">
+          <media id="id8207339" alt=""><image src="../../media/graphics1-b0a5.png" mime-type="image/png" height="316" width="431"/></media>
+        </figure>
+        <para id="id5753696">Hình 14.2. Máy nghiền bằng phương pháp va đập:.</para>
+        <para id="id5753710">1- Phễu nạp; 2- Cơ cấu nghiền; 3- Động cơ; 4- Giàn trên; 5- Giàn dưới</para>
+        <para id="id5753718">Rôto gồm hai đĩa tròn nối với các chốt của xilanh. Các chốt tròn với đường kính 15 và chiều dài 55 mm được lắp theo chu vi, đồng thời các chốt của một rô to được cài giữa hai hàng chốt của rôto khác. Số chốt va đập trong mỗi một rôto được tăng lên từ tâm đến biên. Khi nghiền sơ bộ thì vật liệu nghiền nạp vào máy va đập dọc theo trục của rôto quay, dưới tác động của lực ly tâm nó bị bắn tới biên. Năng suất của máy nghiền va đập tính theo chủng nấm mốc có độ ẩm 45  50 % là 120  140 kg/h.Vì tốc độ quay của rôto lớn nên cần thiết phải có sự lắp đặt và cân bằng chính xác.</para>
+        <para id="id6148903">Trong các máy nghiền va đập bằng đĩa dạng máy nghiền va đập có thể nhận đến 96 % các hạt có kích thước từ 1 đến 3 mm.</para>
+        <section id="id-655371497455">
+          <title>Bảng 14.1. Đặc tính kỹ thuật của các máy nghiền va đập</title>
+          <table id="id6148922" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Các chỉ số</entry>
+                  <entry>ФIМК-630-401</entry>
+                  <entry>ФIМК- 630- 4B1</entry>
+                </row>
+                <row>
+                  <entry>Năng suất, kg/hKích thước các tiểu phần:của sản phẩm ban đầu, mmcủa thành phẩm, mĐộ ẩm của sản phẩm ban đầu, %Môi trường làm việcCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                  <entry>đến 1500đến 3050  100 5chống nổ222060139013751900</entry>
+                  <entry>đến 1500đến 3050  100 5chống cháy222060143015502090</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5829764">Các máy nghiền va đập ФIМК- 630- 401 và ФIМК- 630- 4B1 dùng để nghiền các sản phẩm dễ cháy, dễ nổ trong môi trường khí trơ.</para>
+          <para id="id5829790">Máy tán dùng để nghiền mịn một cách liên tục cho các chế phẩm sấy khô đến kích thước 100 m. Nó có dạng hộp, bên trong có hai đĩa. Một đĩa được lắp trên trục, còn một đĩa khác ở vị trí cố định. Các chốt tròn được lắp trên các đĩa theo đường chu vi.</para>
+        </section>
+        <section id="id-0438265048936">
+          <title>Bảng 14.2. Đặc tính kỹ thuật của máy tán</title>
+          <table id="id6200800" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Các chỉ số</entry>
+                  <entry>ФМВ-250-401</entry>
+                  <entry>ФМВ-630-401</entry>
+                </row>
+                <row>
+                  <entry>Năng suất, kg/hKích thước các tiểu phần:của sản phẩm ban đầu, mmcủa thành phẩm, mTiêu hao không khí, m3/hCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                  <entry>100  3001  3050  1507,522920596756245</entry>
+                  <entry>500  15001  3050  1506221575129013441498</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5747903">Chế phẩm đem nghiền được chuyển động liên tục từ bộ nạp liệu qua nắp máy nghiền vào trung tâm đĩa và dưới tác động của lực ly tâm bị bắn tới biên. Các tiểu phần của chế phẩm nghiền có trị số nhỏ hơn các lỗ của sàng lắp theo chu vi các đĩa sẽ lọt sàng vào thùng chứa kín. Để thu gốp những tiểu phần do không khí cuốn đi, thường lắp các bộ lọc vải, còn trên máy nghiền - cơ cấu hút.</para>
+          <para id="id5747919">Máy nghiền bi. Nghiền các chất hoạt hoá sinh học trong các máy nghiền bi được thực hiện nhờ các bi kim loại hay bi sứ trong tang quay. Khi tang quay các bi (do lực ma sát với thành) nâng lên một chiều cao nhất định, sau đó rơi xuống. Mức độ nghiền trong máy nghiền bi bằng 50  100. Thường tang quay chứa một lượng bị chiếm nửa thể tích. Đường kính bi 25  150 mm. Thời gian của quá trình phụ thuộc vào độ bền của sản phẩm ban đầu và mức nghiền theo quy định.</para>
+          <para id="id4797917">Tháo sản phẩm nghiền qua tấm chắn - lưới ở dưới tang quay. Để cho quá trình nghiền được bính thường cần phải tuân theo các điều kiện sau:</para>
+          <para id="id4797928">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>P</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>lt</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mi>M</m:mi>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">Ω</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mrow>
+                          <m:mi>R</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mi>M</m:mi>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mfenced open="" close="">
+                            <m:mfrac>
+                              <m:mi fontstyle="italic">πn</m:mi>
+                              <m:mtext>30</m:mtext>
+                            </m:mfrac>
+                          </m:mfenced>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mi>R</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{"lt"} } =M %OMEGA  rSup { size 8{2} } R=M left ( {  {πn}  over  {"30"} }  right ) rSup { size 8{2} } R} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5751698">trong đó: Plt - lực ly tâm, N;</para>
+          <para id="id5751713">R - khối lượng các bi, kg;</para>
+          <para id="id5751723"> - tốc độ góc, độ/s;</para>
+          <para id="id5729081">n - số vòng quay của tang, vòng/s;</para>
+          <para id="id5729091">R - bán kính quay của các bi, m.</para>
+          <para id="id5729101">Số vòng quay tới hạn được xác định theo công thức:</para>
+          <para id="id5729108">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>th</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:msqrt>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>900</m:mtext>
+                                <m:mi>q</m:mi>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mi>π</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mi>R</m:mi>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>42</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                          <m:msqrt>
+                            <m:mi>D</m:mi>
+                          </m:msqrt>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{n rSub { size 8{"th"} } = sqrt { {  {"900"q}  over  {π rSup { size 8{2} } R} } }  approx  {  {"42",3}  over  { sqrt {D} } } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5831566">trong đó: D - đường kính quay của các bi, m.</para>
+          <para id="id5831577">Công suất của các máy nghiền bi Q được xác định cho mỗi loại nguyên liệu và phụ thuộc vào các tính chất cơ học và mức độ nghiền: </para>
+          <para id="id5831593"> Q = KVD 0,6 </para>
+          <para id="id5835344">trong đó: K - hệ số biến đổi (K = 2,4  0,4 khi kích thước trung bình các tiểu phần vật liệu nghiền từ 0,2  0,075 mm);</para>
+          <para id="id5835374">V - thể tích tang quay, m3;</para>
+          <para id="id5835389">D - đường kính tang quay, m.</para>
+          <para id="id5723032">Máy nghiền hạt. Để nghiền siêu mịn một cách liên tục bằng cơ học (tán sắc) để tạo thành nhũ tương thường sử dụng các máy nghiền hạt. Máy gồm hộp tán với bộ dẫn động điện và trạm bơm. Hộp tán là ống xilanh đứng có áo để làm lạnh, bên trong hộp có trục được lắp các đĩa.</para>
+          <para id="id5723051">Sản phẩm ban đầu có dạng huyền phù được bơm đẩy vào phần dưới của hộp tán, chứa các bi thuỷ tinh. Khi rôto quay, các tiểu phần cứng của vật liệu do ma sát sẽ bị va đập với các bi nghiền có đường kính 0,8  1,2 mm. Khi qua đoạn ống trên, sản phẩm bị đẩy vào thùng chứa.</para>
+          <para id="id5723074">Các bộ phận được tiếp xúc với nguyên liệu đều được chế tạo bằng thép không gỉ. Sức chứa của hộp 125 lít; nhiệt độ trong hộp nghiền đến 500C, trong áo 200C; công suất động cơ 40 kW. Kích thước cơ bản 170010303290 mm; khối lượng 3100 kg.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-727240680032">
+      <title>THIẾT BỊ TIÊU CHUẨN HOÁ CÁC NGUYÊN LIỆU RỜI VÀ DẠNG BỘT NHÃO</title>
+      <para id="id6205061">Để tiêu chuẩn hoá các chất hoạt hoá sinh học người ta sử dụng các máy trộn khác nhau. Theo nguyên tắc tác động của các loại máy trộn, có thể là tuần hoàn hay gián đoạn. Trong công nghiệp vi sinh thường sử dụng các loại máy sau: máy trộn băng tải liên tục, máy trộn ly tâm có cánh khuấy, máy phun bằng khí động học, máy trộn vít tải hệ hành tinh.</para>
+      <para id="id6205083">Máy trộn tác động gián đoạn kiểu guồng xoắn, hệ hành tinh. Loại này dùng để trộn và phân bổ đều các vật liệu rời có kích thước các tiểu phần  5 mm (hình 14.3) gồm buồng trộn 1 dạng nón, bên trong có hai vít tải: vít trung tâm 2 được lắp theo trục của buồng trộn và vít nghiêng 3 được lắp theo cạnh hình nón. Đầu dưới vít trung tâm được lắp với ổ trục, còn đầu trên nối với thanh gạt qua khớp nối. Thanh gạt và các vít tải quay được nhờ các bộ dẫn động độc lập nằm trên nắp của buồng trộn. Các vít tải quay quanh trục nhờ bộ dẫn động gồm động cơ và hộp giảm tốc, còn thanh gạt quay được nhờ bộ dẫn động qua khớp nối và truyền động trục vít.</para>
+      <para id="id6205094"><figure id="id5634942"><media id="id10024897" alt=""><image src=".png" mime-type="image/png" height="318" width="192"/></media></figure>Hình 14.3. Máy trộn kiểu guồng xoắn, hệ hành tinhNạp vật liệu qua khớp nối trên nắp, tháo sản phẩm qua van tháo liệu.</para>
+      <para id="id5722563">Máy trộn tác động gián đoạn theo nguyên tắc phun khí động. Loại này dùng để trộn và phân đều các sản phẩm không bền nhiệt, chúng không thể nghiền và không bị nhiễm bẩn. Máy gồm bộ trộn hình ống xilanh đứng có đáy hình nón, nắp elip khép kín.Trên nắp có bộ tách bụi gồm hai đĩa quay song song nhau, giữa các đĩa có các cánh, phần dưới của đáy nón có van xả và các vòi phun để cung cấp nitơ hay không khí.</para>
+      <para id="id5722588">Nạp nguyên liệu ban đầu qua khớp nối được lắp trên nắp. Nạp nitơ hay không khí nén để khuấy trộn bằng xung lượng qua các vòi phun. Sản phẩm được tháo ra qua van.</para>
+      <para id="id4621727">Các bộ phận có tiếp xúc với sản phẩm đều được chế tạo bằng loại thép 08X22H6T.</para>
+      <para id="id4621731">Đặc tính kỹ thuật của máy khuấy trộn theo nguyên tắc phun khí động:</para>
+      <para id="id4621737">Thể tích định mức của buồng khuấy trộn, m3:  0,2</para>
+      <para id="id4621756">Áp suất trong buồng khuấy trộn, MPa: 0,01  0,06</para>
+      <para id="id4621776">Nhiệt độ trong buồng khuấy trộn, 0C: từ +20 đến 12</para>
+      <para id="id4795985">Công suất động cơ điện, kW: 0,8</para>
+      <para id="id4795997">Kích thước cơ bản, mm: 90514422220</para>
+      <para id="id4796020"><figure id="id4796023"><media id="id11215077" alt=""><image src="../../media/graphics2-0211.png" mime-type="image/png" height="203" width="251"/></media></figure>Khối lượng, kg: 422</para>
+      <para id="id5833971">Nạp vật liệuThải sản phẩmHình 14.4. Máy trộn ly tâm dạng cánh khuấyMáy khuấy trộn bằng ly tâm tác động tuần hoàn có các cánh khuấy. Máy khuấy trộn bằng ly tâm dùng để trộn nhanh các vật liệu dạng bột đã được đồng hoá. Máy khuấy trộn (hình 14.4) gồm hộp xilanh đứng với áo 5 được lắp trên bệ 8. Ở phần dưới của hộp có bộ phận khuấy trộn gồm có các cánh 3 và các máy nạo 6. Vật liệu được nạp qua khớp nối 4. Động cơ 7 làm quay các cơ cấu khuấy trộn với số vòng quay 750 vòng/phút. Vật liệu trộn được tiến hành ở trạng thái giả lỏng.</para>
+      <para id="id4796430">Khi nạp vào máy trộn đến 60  80% thể tích thì sự tuần hoàn của hỗn hợp xảy ra mạnh nhất. Khuấy trộn kéo dài trong 3  5 phút. Tháo sản phẩm được tiến hành khi mở van xả 1 nhờ hai xilanh khí động học 2.</para>
+      <para id="id4796442">Các máy khuấy trộn ly tâm được sản xuất theo hai loại kích thước, có sức chứa 160 và 630 lít. Các bộ phận tiếp xúc với môi trường gia công được chế tạo bằng loại thép 08X22H6T.</para>
+      <section id="id-853337004929">
+        <title>Bảng 14.4. Đặc tính kỹ thuật của các máy khuấy trộn ly tâm có cánh khuấy</title>
+        <table id="id6280917" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>МIт-100BPK</entry>
+                <entry>МIт-400 BPK</entry>
+              </row>
+              <row>
+                <entry>Thể tích của hộp khuấy trộn, m3hoạt độngđịnh mứcÁp suất, MPatrong hộp khuấy trộntrong áotrong các xilanh khí độngSố vòng quay của các bộ phận quay, vòng/phútCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>0,10,160,0020,40,4  0,6720132300954995995</entry>
+                <entry>0,40,630,0020,60,4  0,6525553055145017422185</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4795253">Máy trộn dạng băng tải tác động liên tục loại. Loại này dùng để trộn các vật liệu dạng bột và để làm ẩm, được sử dụng trong sản xuất các chất bảo vệ thực vật.</para>
+        <para id="id4795274">Máy trộn là hộp trộn kín có áo dạng hình máng, cuối máng là phòng tháo liệu. Bên trong buồng trộn có rôto gồm trục có nhiều cánh đảo và vòi phun hơi nước để phun mù vật liệu lỏng. Dẫn động máy trộn nhờ động cơ điện qua hộp giảm tốc và truyền động bằng đai hình thang.</para>
+        <para id="id5840699">Đặc tính kỹ thuật của máy trộn băng tải tác động liên tục:</para>
+        <para id="id5840704">Thể tích của phòng trộn, m3:</para>
+        <para id="id5840715">hoạt động:  1,25</para>
+        <para id="id5840740">định mức:  2,5</para>
+        <para id="id5840764">Áp suất, MPa:</para>
+        <para id="id6149509">trong tường thiết bị:  đến 30</para>
+        <para id="id6149532">trong hốc phun:  đến 50</para>
+        <para id="id6149553">trong áo ngoài:  143</para>
+        <para id="id5727669">Năng suất (khi khối lượng vật liệu chất đầy 400 kg/m3), kg/h: 1200</para>
+        <para id="id5727686">Số vòng quay của rôto, vòng/phút: 31,5</para>
+        <para id="id5727701">Công suất động cơ, kW: 10</para>
+        <para id="id5727717">Kích thước cơ bản, mm: 5346 14801940</para>
+        <para id="id5840817">Khối lượng, kg: 4000</para>
+      </section>
+    </section>
+    <section id="id-260230339293">
+      <title>THIẾT BỊ TẠO HẠT</title>
+      <para id="id5840844">Các chế phẩm được tạo hạt có nhiều ưu điểm đáng kể so với các sản phẩm được nghiền mịn. Sản xuất sản phẩm hàng hoá ở dạng tạo hạt làm tăng khối lượng chất đầy của nó. Làm giảm đáng kể sự tạo bụi khi vận chuyển, định lượng, chia gói và gói sản phẩm, loại trừ những tác động độc hại đến cơ thể khi ứng dụng nó.</para>
+      <para id="id5840858">Các nấm men, chế phẩm enzim, axit amin, nấm men gia súc và các chất kháng sinh cũng như các chất bảo vệ thực vật đều được tạo hạt.</para>
+      <para id="id5840869">Các sản phẩm vi sinh tổng hợp có các tính chất hoá - lý khác nhau, cho nên quá trình tạo hạt được xác định bởi các tính chất lưu biến của chúng, bởi năng lượng liên kết ẩm với vật liệu, bởi lượng và các tính chất của chất liên kết, bởi thời gian khuấy trộn và lưu giữ...</para>
+      <para id="id4799250">Trong công ngiệp vi sinh thường người ta sử dụng các thiết bị sau để tạo hạt: máy ép và máy ép đùn, máy ép khuôn tạo hạt loại vít tải, máy tạo hạt bằng phương pháp tầng sôi rung động, máy tạo hạt dạng tang quay, máy để tạo hạt bằng phương pháp ép, máy tổng hợp vừa tạo hạt vừa sấy, tháp tạo hạt.</para>
+      <section id="id-906369685765">
+        <title>Máy ép đùn và vê tròn bằng phương pháp ly tâm</title>
+        <para id="id4799273">Máy ép tác động liên tục thực hiện quá trình tạo hạt ẩm. Máy ép tạo hạt dạng trục vít có loại ép thẳng theo chiều dọc và chiều ngang, kiểu hở và kiểu kín phòng nổ.</para>
+        <para id="id4799286">Hình 14.5 mô tả máy ép tạo hạt dạng ép thẳng với các hướng dọc và ngang. Trong khoang máy ép có hai vít 4 quay ngược chiều làm chuyển đảo khối bột nhào đến buồng sàng. Trong buồng sàng có hai con lăn định hình 2, chúng được lắp trên một trục có các vít. Đường kính các con lăn định hình được tăng lên theo hướng chuyển dịch của khối bột nhào. Nhờ dẫn động 7 và hộp giảm tốc 6 mà số vòng quay của các vít và các con lăn định hình được điều chỉnh từ 0,28 đến 1,17 vòng/phút. Ở đầu cuối của trục có vít hãm 1.</para>
+        <para id="id4799290"><figure id="id4799300"><media id="id10215954" alt=""><image src=".png" mime-type="image/png" height="143" width="453"/></media></figure>A-ANạp liệuHình 14.5. Máy ép tạo hạtCác hạt</para>
+        <para id="id5749181">Khối enzim dạng bột từ phễu nhận 5 của máy ép được truyền vào khoang sàng nhờ các vít quay. Tại đây khối bột nhào bị đúc áp lực nhờ các con lăn định hình và sau đó bị ép thẳng qua lưới 3 dọc theo chiều dài của các con lăn định hình có hướng quay ngược nhau. Bề dày của các hạt được xác định bởi đường kính lỗ lưới. Máy ép được trang bị nhiều loại lưới có đường kính 1, 2, 3, 4 và 5 mm.</para>
+        <para id="id5749195">Dạng vít, hình dạng con lăn định hình để ép thẳng, số vòng quay và các điều kiện trong vùng nén có ảnh hưởng tới chất lượng và hình dạng các hạt.</para>
+      </section>
+      <section id="id-768426416973">
+        <title>Máy tạo hạt dạng vít</title>
+        <para id="id5749216">Máy tạo hạt dạng vít dùng để tạo hạt các sản phẩm dạng bột nhão (hình 14.6) gồm phễu nạp liệu, vỏ được chế tạo bằng thép không gỉ, bên trong có vít 10 với đầu làm sạch 11, hai bộ nạp liệu dạng rôto 7, lưới khuôn kéo 12, bộ dẫn động và bộ cắt.</para>
+        <para id="id5749230">Khối bột nhão liên tục cho vào các bộ nạp liệu dạng rôto và bao phủ lấy phần vận chuyển của vít, bị nén lại và sau đó được ép thẳng qua lưới khuôn kéo. Sản phẩm ra khỏi khuôn kéo, bị dao mỏng cắt đứt ra thành các hạt có bề dày quy định.</para>
+        <para id="id5749235"><figure id="id5837776"><media id="id11056367" alt=""><image src=".png" mime-type="image/png" height="190" width="459"/></media></figure>Nạp bột nhão</para>
+        <para id="id5837825">Hình 14.6. Máy tạo hạt dạng vít:</para>
+        <para id="id5723608">1- Động cơ điện; 2- Khớp trục kiểu ống dạng đàn hồi; 3- Hộp giảm tốc; 4- Khớp đĩa- cam; 5- Hộp thu phát; 6- Khớp bảo vệ; 7- Bộ nạp liệu dạng rôto; 8- Vỏ thiết bị; 9- Cửa van; 10- Vít; 11- Đầu làm sạch; 12- Lưới khuôn đúc</para>
+      </section>
+      <section id="id-930352758084">
+        <title>Máy tạo hạt dạng hai vít</title>
+        <para id="id5723633">Để tạo hạt các sản phẩm bột nhào dạng lignin thuỷ phân có độ ẩm 55  58%, người ta thường sử dụng các máy tạo hạt loại hai vít tác động liên tục. </para>
+        <para id="id5723649">Máy tạo hạt (hình 14.7) gồm hai vít song song không nối nhau với phòng nạp liệu chung. Mỗi vít được đặt trong một phòng riêng có bộ khuôn kéo và đầu làm sạch. Hai bộ nạp liệu dạng rôto được lắp song song với các vít trong các phòng.</para>
+        <para id="id5723664">Vít tải chuyển sản phẩm liên tục vào phòng nạp liệu chứa các bộ nạp liệu dạng rôto và hướng vào khoang ép, tại đây nó bị nén lại và sau đó ép thẳng qua lưới khuôn kéo.</para>
+        <para id="id5719649">Bảng 14.5. Đặc tính kỹ thuật của máy tạo hạt dạng vít </para>
+        <table id="id5719663" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Các chỉ số</entry>
+                <entry>КЮТ-90</entry>
+                <entry>КЮТ-150</entry>
+                <entry>КЮТ-300</entry>
+              </row>
+              <row>
+                <entry>Năng suất, kg/hChế độ hoạt độngTiết diện hoạt động của lưới khuôn kéo, %Đường kính vít, mmSố vòng quay, vòng/ phútcủa vítcủa các trụccủa daoCông suất động cơ, kWKích thước cơ bản, mmKhối lượng, kg</entry>
+                <entry>100  200gián đoạn25900,30,20,2  25,5216085515201100</entry>
+                <entry>650liên tục30  351500,50,41-7,526106607001180</entry>
+                <entry>4000liên tục3000,550,19-7,54910181013557550</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5724361">Để tạo các hạt có dạng hình cầu thường sử dụng các máy vê bằng ly tâm. Máy vê bằng ly tâm là dung lượng đứng cố định, được làm bằng thép không gỉ. Bên trong có đĩa quay (4,17  16,6 vòng/phút) vớí bề mặt gợn sóng được lắp trên trục. Để thu nhận hạt có kích thước khác nhau thường sử dụng bốn loại đĩa có khía nhám 2, 3, 4 và 5 mm. Các đĩa có khía nhám lớn được dùng để sản xuất các hạt có kích thước lớn.</para>
+        <para id="id5724386"><figure id="id5724389"><media id="id10445495" alt=""><image src="../../media/graphics3-31db.png" mime-type="image/png" height="327" width="492"/></media></figure>A-A</para>
+        <para id="id4799893">Hình14.7. Máy tạo hạt dạng hai vít:</para>
+        <para id="id4799899">1- Hộp giảm tốc; 2- Bệ; 3- Động cơ điện; 4- Thùng chứa; 5- Khớp nối để nạp bột; 6- Vỏ thiết bị; 7- Khớp trục kiểu ống; 8- Khớp đĩa; 9- Hộp phân phối; 10- Khớp bảo vệ; 11- Vit bên trái; 12- Đầu lau chùi; 13- Khuôn ép; 14- Dao; 15- Lưới khuôn kéo; 16-Vít bên phải; 17- Bộ nạp liệu dạng rôto; 18- Trục</para>
+        <para id="id4799919">Nạp sản phẩm từ máy ép đùn vào máy viên ly tâm và khi đĩa quay, các hạt chuyển động theo đường xoắn ốc xung quanh đáy hình xuyến và ban đầu đựơc nâng lên trên theo bề mặt tường sau đó hạ xuống cuối cùng hạt được vê tròn. Tiểu phần nhỏ của sản phẩm được tạo thành rơi vào khe giữa đĩa và thành thiết bị và nhờ bộ cào nằm dưới đĩa, sản phẩm được chuyển vào thùng chứa.</para>
+        <para id="id4793934">Thời gian viên bằng ly tâm của một mẻ dao động từ 15 giây đến một vài phút. Tốc độ quay càng lớn thời gian tạo hạt càng nhỏ.</para>
+        <para id="id4793944">Đặc tính kỹ thuật của máy tạo hạt:</para>
+        <para id="id4793949">Năng suất, kg/h: 3000  5000</para>
+        <para id="id4793970">Đường kính, mm:</para>
+        <para id="id4793974">của các vít: 200</para>
+        <para id="id4793992">của rôto- bộ nạp liệu: 200</para>
+        <para id="id6060134">của các hạt:: 3  5</para>
+        <para id="id6060162">Số vòng quay của các vít, vòng/s: 0,85</para>
+        <para id="id6060174">Công suất động cơ, kW: 40</para>
+        <para id="id6060189">Kích thước cơ bản, mm: 29101535985</para>
+        <para id="id4794759">Khối lượng, kg: 3760</para>
+      </section>
+      <section id="id-0925406919524">
+        <title>Thiết bị tạo hạt dạng tầng sôi</title>
+        <para id="id4794781">Phương pháp tạo hạt trong tầng sôi giả là ở chỗ: sản phẩm trong trạng thái giả lỏng xoáy khi phun liên tục bị liên kết laị, nó được đảo trộn, được tạo hạt, sau đó được sấy khô cũng trong thiết bị đó. Khi xử lý bằng phương pháp lý học các chế phẩm dạng bột có kích thước các hạt gần 100 nm, người ta sử dụng tính chất của các sản phẩm dạng bột có bổ sung chất lỏng, sẽ tạo ra các chất thiêu kết dưới sự tác động của các lực dính kết đặc biệt.</para>
+        <para id="id4794807">Thiết bị tạo hạt có tầng sản phẩm giả lỏng (hình 14.8) gồm bộ định lượng, thiết bị tạo hạt, quạt cung cấp không khí cần thiết để tạo tầng giả lỏng và chuyển đảo toàn bộ bột nhão, calorife để đun nóng không khí, phễu nhận và cơ cấu nâng nắp máy tạo hạt.</para>
+        <para id="id4794812">Máy tạo hạt là một thiết bị xilanh đứng làm bằng thép không gỉ. Bên trong phần dưới nón có đáy đột lỗ làm bằng lưới sợi không gỉ, kích thước các lỗ lưới phù hợp với nghiền tinh của chế phẩm. Phụ thuộc vào các tính chất của sản phẩm tạo hạt, mà tiết diện hoạt động của đáy đột lỗ và độ chênh áp suất trong đó được tính sao cho sự phân bố của dòng không khí trước khi vào máy tạo hạt trở nên đều hơn. Thành ở phần giữa của thiết bị được mài bóng, có các vòi phun một lỗ và hai lỗ được chuyển dịch trong bề mặt đứng.</para>
+        <para id="id5752755">Ứng dụng các vòi phun hai lỗ cho phép điều chỉnh lưu lượng chất lỏng tạo hạt và áp suất của không khí. Chọn dạng vòi phun và các bơm theo thực nghiệm, phụ thuộc vào độ nhớt của chất lỏng kết dính trong các điều kiện tầng giả lỏng.</para>
+        <para id="id5752770">Dùng bơm có áp suất cao để đẩy chất lỏng vào vòi phun, nhờ đó mà sự phun mù đạt được dạng sương, có góc tưới lớn. Trị số của các hạt chất lỏng phụ thuộc vào áp suất của không khí và có ảnh hưởng lớn đến quá trình hình thành các hạt.</para>
+        <para id="id5752784"><figure id="id4796848"><media id="id7518069" alt=""><image src=".png" mime-type="image/png" height="290" width="244"/></media></figure>Không khíKhông khí</para>
+        <para id="id5841981">Hình 14.8. Thiết bị tạo hạt dạng tầng sôi:</para>
+        <para id="id5841987">1- Dung lượng; 2- Xilanh khí nén; 3- Côn nạp liệu bằng caosu; 4- Van; 5- Calorife; 6- Bộ lọc; 7- Quạt; 8- Phòmg bốn hình đáy quạt; 9- Van; 10; Lọc túi; 11- Vòi phun ; 12- Phòng; 13- Đáy đột lỗ; 14- Dung lượng cho chất lỏng tạo hạt</para>
+        <para id="id5842004">Ở phần trên thiết bị có các bộ lọc túi làm bằng nilông. Trên nắp thiết bị có buồng bốn ngăn với các van chuyển. Các van này được mở bằng khí động nhờ xilanh chứa không khí nén.</para>
+        <para id="id5842013">Trong quá trình tạo hạt, không khí xâm nhập vào bên trong các túi lọc để làm sạch và ra khỏi hình đáy đầu tiên qua van. Van trong hình đáy thứ hai được mở tự động trong một khoảng thời gian quy định, còn van ở hình đáy đầu được đóng lại, tháo bụi lắng ở bên trong buồng. Quá trình làm sạch kéo dài từ 1 đến 2 giây. Phương pháp làm sạch này sẽ làm tăng chất lượng tạo hạt.</para>
+        <para id="id5842027">Quạt hút không khí vào thiết bị tạo hạt, nhờ đó mà bên trong thiết bị tạo ra chân không nhất định và sự xâm nhập sản phẩm từ thiết bị vào phòng sản xuất cũng được loại trừ. Để làm lạnh và đun nóng không khí thường sử dụng các calorife hơi và các bộ lọc thô, còn khi cần thiết có thể sử dụng bộ lọc vi khuẩn. Tốc độ và lưu lượng không khí được điều chỉnh tự động.</para>
+        <para id="id5842042">Giữ trạng thái bột lỏng giả một cách tự động nhờ điều chỉnh tốc độ và lưu lượng không khí và điều chỉnh áp suất. Lưu lượng không khí 1 m3 cho 1,5  2 kg sản phẩm.</para>
+        <para id="id5842046">Tiến hành sấy hạt cũng chính trong thiết bị đó ở điều kiện tầng sôi. Phần dưới bên trong thiết bị có côn bằng cao su, có thể hạ xuống, nâng lên dưới sự tác động của xilanh khí động. Khi tháo dỡ sản phẩm côn cao su hạ xuống, van bên sườn mở nhẹ và sản phẩm trong đáy nón đột lỗ được tải vào phễu chứa. Khi tháo dỡ xong côn nón lại tự động nâng lên trên và van bên sườn được mở hết. Hạt từ phễu chứa được tự động đưa vào bao gói.</para>
+        <para id="id5748974">Nhược điểm của phương pháp tạo hạt này là khả năng tích điện tĩnh cao (đến 100000 V) có thể xuất hiện tia lửa làm nổ hỗn hợp. Theo mức độ tách nước khỏi nguyên liệu và do ma sát của các hạt điện thế tăng, khi đó tất cả không gian của máy bị tích điện và thậm chí có khả năng qua túi lọc. Trị số thế năng điện tích phụ thuộc vào độ ẩm tương đối của không khí , vào tốc độ của nó và vào thành phần của các hạt. Để ngăn ngừa sự tích điện tĩnh, vỏ máy cần phải được nối đất, còn thiết bị phải có van bảo hiểm.</para>
+        <para id="id5748979">Năng suất của thiết bị tạo hạt từ 0,2 đến 600 kg/h.</para>
+      </section>
+      <section id="id-285441280987">
+        <title>Các thiết bị vê hạt</title>
+        <para id="id5748994">Vê hạt được tiến hành trong các thiết bị tác động liên tục và tuần hoàn, kết hợp các quá trình vê, sấy và phân loại hạt theo kích thước.</para>
+        <para id="id5843199">Thiết bị tạo hạt - sấy gồm thùng quay tựa trên các đai. Động cơ qua hộp giảm tốc, pitton và bánh răng làm quay thùng. Bên trong thùng có các rãnh dạng xoắn ốc phân tán để tạo màng từ các hạt khô nhỏ khi thùng quay.</para>
+        <para id="id5843213">Trên bề mặt bên trong của thành thùng có vít tải kín để vận chuyển phần bột từ vùng tháo vào vùng nạp liệu. Vòi phun tự động phun mùn vào môi trường của chất tải nhiệt ở dạng sương mù bao phủ các hạt bằng màng mỏng. Khi chuyển động dọc theo thùng có góc nghiêng 30 thì thể tích của hạt tăng lên và được sấy khô. Sau khi phân loại trong thùng quay, phần sản phẩm loại nhỏ được vít tải chuyển vào phần trước của thiết bị, còn các hạt vào sàng để phân loại. Sản phẩm trên sàng được đem di nghiền, còn sản phẩm lọt sàng được đưa đi sàng tiếp để loại các hạt có kích thước 1  4 mm và tiểu phần lớn (hơn 4 mm), sau khi nghiền các tiểu phần trên cùng với các tiểu phần nhỏ (nhỏ hơn 1 mm) và cùng với sản phẩm sau khi nghiền búa đều nạp vào phần trên của thiết bị theo đường ống bên ngoài qua khớp nạp liệu của thùng quay.</para>
+        <para id="id5745419">Chất tải nhiệt cuốn bụi sản phẩm vào xyclon và lại quay vào thiết bị ở dạng mùn.</para>
+        <para id="id5745428">Khi chọn dung dịch kết dính cần phải tính đến ảnh hưởng của nó đến các tính chất cấu trúc cơ học, công nghệ, nhớt - đàn hồi của các hạt.</para>
+        <para id="id5745439">Các hạt có độ bền cao nhất đến 14  19 mN/m2.</para>
+        <para id="id5745456">Đặc tính kỹ thuật của máy tạo hạt:</para>
+        <para id="id5745468">Năng suất, kg/h:</para>
+        <para id="id5719714">theo sản phẩm: 25000</para>
+        <para id="id5719732">theo ẩm bốc hơi: 5700</para>
+        <para id="id5719749">Độ ẩm, %:</para>
+        <para id="id5719754">mùn: 22</para>
+        <para id="id5719773">thành phẩm:1 </para>
+        <para id="id5749343">Áp suất, MPa:</para>
+        <para id="id5749348">của không khí: 0,3</para>
+        <para id="id5749365">của mùn: 0,2</para>
+        <para id="id5749383">Số vòng quay của thùng, vòng/s: 0,075</para>
+        <para id="id5749397">Công suất động cơ điện, kW: 320</para>
+        <para id="id4801198">Kích thước cơ bản, mm: 2100070008000</para>
+        <para id="id4801220">Khối lượng, kg: 195000</para>
+      </section>
+      <section id="id-701134448169">
+        <title>Thiết bị tạo hạt bằng phương pháp ép</title>
+        <para id="id4801245">Thiết bị tạo hạt bằng phương pháp ép làm việc theo nguyên tắc cán sản phẩm dưới áp suất giữa hai trục quay ngược chiều nhau. Việc chọn hình dạng bề mặt các trục phụ thuộc vào dạng, vào tính chất của nguyên liệu, cũng như các đòi hỏi về yêu cầu của thành phẩm. Bề mặt các trục có thể phẳng, định hình hay ở dạng bánh răng (các trục tạo hạt).</para>
+        <para id="id4931243">Thiết bị gồm phễu nạp liệu có vít đứng để nén sơ bộ và loại khí, hai trục vít được che kín trong vỏ thép, bộ dẫn động và cơ cấu điều chỉnh số vòng quay của trục.</para>
+        <para id="id4931255">Các vít tải một hay nhiều hành trình dạng nón hay dạng trục - nón có bộ điều chỉnh tự động có thể là những cơ cấu nạp liệu. Các cơ cấu như thế cho phép tiến hành nạp liệu ở áp suất cao.</para>
+        <para id="id4801268">Các nguyên liệu tạo hạt cần phải có tính chất chống ma sát.</para>
+        <para id="id4931273">Khi tạo hạt các chất hoạt hoá sinh học, các thiết bị cần trang bị thêm hệ thống lạnh. Chế phẩm được tạo thành hạt cho qua máy phân loại để chọn hạt có kích thước yêu cầu. Các tiểu phần lớn hơn hoặc nhỏ hơn được quay lại để tạo hạt lần hai.</para>
+      </section>
+      <section id="id-845807977619">
+        <title>Máy tạo hạt - sấy nấm men gia súc và lizin</title>
+        <para id="id4931297">Thiết bị tạo hạt trong tầng giả lỏng các huyền phù của lizin và nấm men gia súc dạng lỏng không bền nhiệt.</para>
+        <para id="id4931306">Máy tạo hạt gồm vỏ có tiết diện hình chữ nhật với buồng khí, ghi phân bổ khí, buồng phản ứng và các vòi phun. Nạp không khí để làm cho sản phẩm ở dạng giả lỏng qua khớp nối dưới của thiết bị dưới lớp sản phẩm.</para>
+        <para id="id4931311">Thiết bị có năng suất 1000 kg/h gồm năm khoang phân bố liên tục và được liên kết nhau ở dạng đường hầm. Tác nhân sấy có nhiệt độ 500  6000C được sử dụng trong vùng phun.</para>
+        <para id="id4800971">Máy tạo hạt - sấy có phun cục bộ (hình 14.9) là buồng hình trụ nón 3 có chiều cao phần trụ 1000 mm, phần nón - 1500 mm và đường kính 1600 mm. Trong vỏ có khớp nối để nạp chất độn (natri sunfat), để thải chất tải nhiệt và các cảm biến cho các dụng cụ kiểm tra. Buồng nạp khí 11 được lắp với mặt bích phía dưới ở dạng xilanh có đường kính 900 mm. Ghi phân bổ khí hai lớp được ép chặt giữa buồng 15 và máy sấy, lớp dưới được đột lỗ có tiết diện hoạt động 4,0%, lớp trên là lưới lọc có các lỗ 0,4 mm. Buồng 11 được chia ra làm hai phần: phần trên 14 để nạp không khí lạnh qua bộ lọc 18 nhờ bơm 17, phần dưới 13 để nạp không khí nóng qua bộ lọc 20 nhờ bơm 19 và qua calorife hơi nước 16 vào vòi phun. Trong màng ngăn nằm ngang với đường kính 500 mm có sáu vòi phun 10 với đường kính 150/80 <footnote id="id9924441">1) Tử sô ́- đường kính lớn, mẫu số- nhỏ hơn. Lỗ phun gồm ba ống đặt sát nhau. Dung dịch sản phẩm được đẩy theo ống trong, tác nhân - theo ống ngoài, không khí lạnh - theo ống giữa.</footnote>1) mm và áo lạnh. Ở trung tâm ghi phân phối khí có phễu thải liệu được nối với ống thải 9 ở dưới với đường kính 150 mm. Côn tháo có 6 lỗ thải với đường kính 60 mm và có một lỗ trung tâm với đường kính 50 mm để xả không khí dư. Lỗ trung tâm có thể được ngăn bịt kín nhờ con lăn đặc biệt. Khoang lạnh hình nón có áo nước được lắp ở trung tâm buồng chứa không khí nóng dưới ống thải liệu. Phần dưới của phòng lạnh được cấu tạo bằng thuỷ tinh hữu cơ trong suốt để quan sát quá trình các hạt được làm lạnh ở thể giả lỏng. Quạt gió 19 đẩy không khí lạnh từ đáy ghi của buồng phía dưới qua bộ lọc 20. Ống thải có đường kính 65 mm được lắp theo trung tâm của khoang lạnh.</para>
+        <para id="id5493873">Ống góp không khí nén được lắp vào đáy của buồng dẫn khí và được nối với ống cao su 12 có vòi phun.</para>
+        <para id="id5493880">Nối liến với máy sấy là phễu chứa sunfat natri có thể tích 1 m3, bên trong có cánh khuấy quay với tốc độ 14 vòng/phút. Từ phễu chứa natri sunfat chuyển vào máy sấy qua bộ định lượng 2 tác động liên tục được bảo đảm bởi blôc định lượng chống nổ, blôc an toàn, thiết bị khí động và trạm điều khiển.</para>
+        <para id="id4621801">Bộ định lượng gồm bộ phận nạp liệu dạng rung 6 có tần số dao động thay đổi, băng tải, phễu rung bằng khí động, phễu thải có van đảo chiều và cơ cấu cân. Năng suất lớn nhất của bộ định lượng 0,4 tấn/h.</para>
+        <para id="id4621816">Tinh chế huyền phù chế phẩm enzim được tiến hành bằng phương pháp đẩy nó (nhờ bơm 7) qua bộ lọc một hay hai lưới 8 có bề mặt lọc 0,015 m2. </para>
+        <para id="id4621832">Bộ lọc là một thiết bị hình trụ đường kính 110 mm có đáy nón và nắp phẳng. Bên trong bộ lọc có dỏ lọc, ở bề mặt sườn - khớp nối để dung dịch vào và ra, còn ở đáy - khớp nối để thải cặn khi rửa.</para>
+        <para id="id4621846">Máy sấy là thiết bị phụ của tổ hợp, bao gồm nạp không khí để phun, sấy, làm sạch, giữ lớp ở trạng thái lơ lửng với các thông số yêu cầu, nạp các sản phẩm chính và phụ, kiểm tra và điều chỉnh các quá trình.</para>
+        <para id="id5753581">Thành phẩm qua bộ lọc (nhờ bơm), lưu lượng kế vào vòi phun của máy sấy. Dùng máy thổi ga để phun không khí. Không khí đưa vào sấy được nung đến 2500C trong thiết bị tổng hợp điện - hơi. Không khí được làm sạch sơ bộ trong bộ lọc.</para>
+        <para id="id5753602">Việc tách lượng cơ bản ẩm bốc hơi (đến 90%) xảy ra trong dòng phun được tạo thành bên trong tầng sôi. Quạt thổi không khí vào để giữ tầng sôi, nhiệt độ của nó bằng nhiệt độ thành phẩm hay cao hơn khoảng 3  50C. Trong quá trình hoạt động của máy sấy, các hạt chất độn bao phủ lấy dung dịch sản phẩm, dính lại và tạo thành các hạt có kích thước tăng dần. Ẩm còn lại được bốc hơi trong khối tầng sôi và khi thuỷ hoá các hạt của phần tử mang.</para>
+        <para id="id5753637"><figure id="id5753648"><media id="id10055094" alt=""><image src=".png" mime-type="image/png" height="312" width="483"/></media></figure>Nạp natri sunfatVào khi quyểnThải tiểu phần bụiDung dịch enzimHơi Không khí nén Nạp dung dịch enzim đến vòi phun</para>
+        <para id="id5828226">Hình 14.9. Máy sấy - tạo hạt các chế phẩm enzim</para>
+        <para id="id5828233">Điều kiện quan trọng của sự hoạt động máy tạo hạt - sấy là sự tuần hoàn đầy đủ và liên tục của tất cả các hạt trong thể tích của tầng sôi. Trong quá trình tuần hoàn tất cả các tiểu phần qua các lỗ tháo bên sườn của khối hình nón được tập trung vào rãnh phân ly. Tốc độ không khí trong rãnh phân ly được điều chỉnh nhờ van, cho nên để các hạt đạt được kích thước quy định nó phải được làm nguội trong máy lạnh, còn những hạt nhỏ thì qua lỗ trung tâm quay về lớp tầng sôi.</para>
+        <para id="id5828257">Từ máy lạnh các hạt thành phẩm qua cửa van ra khỏi thiết bị. Không khí thải từ vòi phun, máy lạnh và tầng sôi được thải ra khỏi máy sấy (nhờ quạt 5), đựơc làm sạch trong bộ lọc và được thải ra ngoài. Tiểu phần dạng bụi từ bộ lọc cho vào thiết bị.</para>
+        <para id="id5828261">Sử dụng bộ lọc túi để thu gôm hoàn toàn sản phẩm từ chất tải nhiệt tải ra. Nó là thiết bị trụ nón đứng có đầu dẫn không khí được nối với quạt 5. Trong buồng chứa không khí vô trùng của bộ lọc lắp cơ cấu thổi các ống bằng xung lượng. Việc thổi không khí phải theo thứ tự từng đôi ống loc̣. Điều chỉnh hoạt động của van thổi bằng khí động học. Trên đáy nón của bộ lọc lắp máy rung bằng khí động có van khí. Diện tích bề mặt lọc của bộ lọc là 31,2 m2, số ống 48, vật liệu làm các ống - vải bạt đột lỗ kim, tải trọng trên vải  8 m3/(m2ph), sức cản bộ lọc  1,15 kPa; kích thước cơ bản 245017884640 mm.</para>
+        <para id="id5867218">Để tháo sản phẩm ra khỏi máy sấy, tháo bụi ra khỏi máy lọc và nạp sunfat natri vào máy sấy thì cần phải trang bị các bộ nạp liệu 6 kiểu âu có năng suất 0,14  1,3 m3/h và số vòng quay 2,19 vòng/phút.</para>
+      </section>
+      <section id="id-106897755706">
+        <title>Tính máy sấy - tạo hạt cho các sản phẩm vi sinh tổng hợp</title>
+        <para id="id5867248">Tính toán các thiết bị để tạo hạt và sấy các sản phẩm vi sinh tổng hợp bao gồm: tính công nghệ, nhiệt , thuỷ lực, khí động học và cấu tạo.</para>
+        <para id="id5867260">Để tính toán cần biết các thông số sau:</para>
+        <para id="id5867265">Năng suất thành phẩm Q, kg/h;</para>
+        <para id="id5867276">Hàm lượng chất khô trong dung dịch enzim Gck, %;</para>
+        <para id="id5830367">Độ ẩm cuối của sản phẩm, Wc, %.</para>
+        <para id="id5830381">Đường kính trung bình của hạt thành phẩm dtb, mm;</para>
+        <para id="id5830396">Nhiệt độ tác nhân sấy khi vào, K;</para>
+        <para id="id5830402">- Trong ống phun T0;</para>
+        <para id="id5830419">- Dưới ghi Tg;</para>
+        <para id="id4795551">- Ở đầu luồn phun Tph;</para>
+        <para id="id4795569">Tỷ trọng khối lượng các hạt khô , kg/m3;</para>
+        <para id="id4795586">Tỷ trọng sản phẩm sp, kg/m3;</para>
+        <para id="id4795606">Nhiệt dung của dung dịch C, kJ/(kgK);</para>
+        <para id="id4795617">Nhiệt dung của thành phẩm khi độ ẩm cuối CTP, kJ/ (kgK).</para>
+        <para id="id5753207">Tính thiết bị để tạo hạt và sấy chế phẩm. Để tính toán kích thước thiết bị cần có các thông số bổ sung sau: đường kính tiết diện thải huyền phù Dtb = 0,006 m, lưu lượng huyền phù nh = 80  100 kg/h; đường kính ống phun ở chổ vào Dov= 0,14 m; đường kính ống phun ở chổ thoát Dov = 0,08 m; tốc độ không khí để tạo sản phẩm vkl = 1,25 m/s.</para>
+        <para id="id5742803">Lượng các vòi phun:</para>
+        <para id="id5742808">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>n</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>Q</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>h</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>h</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n= {  {Q rSub { size 8{h} } }  over  {n rSub { size 8{h} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4795814">trong đó: Qh - lưu lượng huyền phù kg/h;</para>
+        <para id="id4795830">nh - lượng huyền phù của một vòi phun ra, kg/h.</para>
+        <para id="id4795845">Lấy bước các vòi phun có tính đến sự mở dòng phun bằng htb, còn khoảng cách ống đến tường lt = 1,8 Dov thì đường kính của ghi (m): Dg = 2htb + 2lt</para>
+        <para id="id4794856">Diện tích ghi trong vùng giả lỏng (m2):</para>
+        <para id="id4794868">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>π</m:mi>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msubsup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>g</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msubsup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>l</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                            </m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msubsup>
+                              <m:mn>6D</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>ov</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                          </m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{g} } = {  {π}  over  {4 \( D rSub { size 8{g} }  rSup { size 8{2} }  - D rSub { size 8{l} }  rSup { size 8{2} }  - 6D rSub { size 8{"ov"} }  rSup { size 8{2} }  \) } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5747955">trong đó: Dl - đường kính lỗ trong ghi để tháo thành phẩm, m.</para>
+        <para id="id5747974">Lưu lượng không khí để giả lỏng, phun mù huyền phù, làm nguội và phân ly. Tốc độ nạp các tiểu phần khi đường kính trung bình các tiểu phần dtb:</para>
+        <para id="id5747998">vn = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Ar</m:mtext></m:mrow></m:mstyle><m:msub><m:mi>ϑ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>20</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mfenced open="[" close="]"><m:mrow><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">tb</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>0,</m:mn></m:mrow><m:mtext>61</m:mtext><m:msqrt><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Ar</m:mtext></m:mrow></m:mstyle></m:msqrt><m:mo stretchy="false">)</m:mo></m:mrow></m:mfenced></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "Ar"ϑ rSub { size 8{"20"} } }  over  { left [d rSub { size 8{tb} }  \( "18"+0,"61" sqrt { ital "Ar"}  \)  right ]} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5838418">trong đó: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ϑ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ϑ} {}</m:annotation></m:semantics></m:math>20 - độ nhớt động học của không khí khi t = 200C, m2/s (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ϑ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ϑ} {}</m:annotation></m:semantics></m:math>20=1510-6 m2/s); Ar - chuẩn Arkhimet.</para>
+        <para id="id5831802">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Ar</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msubsup>
+                                <m:mtext>gd</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>tb</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>sP</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:msubsup>
+                            <m:mi>ϑ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2o</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Ar"= {  { ital "gd" rSub { size 8{"tb"} }  rSup { size 8{3} } ρ rSub { size 8{"sP"} } }  over  {ϑ rSub { size 8{2o} }  rSup { size 8{2} } ρ rSub { size 8{"20"} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5829084">trong đó: sP- tỷ trọng của sản phẩm, kg/ m3 (sP = 2200 kg/m3);</para>
+        <para id="id4800653">20- tỷ trọng của không khí khi t = 200C (20 = 1,2).</para>
+        <para id="id4800690">Tốc độ phun cục bộ của các tiểu phần:</para>
+        <para id="id4800696">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>tb</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>v</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>485</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msqrt>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>gH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msqrt>
+                      <m:msup>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>v</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>v</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>kl</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>0,</m:mn>
+                              <m:mtext>28</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:msup>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>or</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>tb</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>0,</m:mn>
+                              <m:mtext>33</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:msup>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>h</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>tb</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>or</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>0,</m:mn>
+                              <m:mtext>12</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"tb"} } =v rSub { size 8{n} } +"485" sqrt { ital "gH" rSub { size 8{0} } }  left ( {  {v rSub { size 8{n} } }  over  {v rSub { size 8{"kl"} } } }  right ) rSup { size 8{0,"28"} }  left ( {  {D rSub { size 8{"or"} } }  over  {D rSub { size 8{"tb"} } } }  right ) rSup { size 8{0,"33"} }  left ( {  {h rSub { size 8{"tb"} } }  over  {D rSub { size 8{"or"} } } }  right ) rSup { size 8{0,"12"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5858377">trong đó: Ho - chiều cao của tầng hạt cố định trong trong thiết bị, m, (Ho = 0,7 m).</para>
+        <para id="id5858404">Lưu lượng không khí được nạp vào dưới ghi khi nhiệt độ Tg và tỷ trọng 20 = 1,2 kg/m3 (kg/h):</para>
+        <para id="id5831698">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>kk</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>3600</m:mtext>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>kl</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>ρ</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>20</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{V rSub { size 8{"kk"} } ="3600"v rSub { size 8{"kl"} } ρ rSub { size 8{"20"} } F rSub { size 8{g} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5857636">Lưu lượng không khí để phun huyền phù (m3):</para>
+        <para id="id5857647">Vph = VghQh</para>
+        <para id="id5857676">trong đó: Vgh- Lưu lượng không khí được giới hạn để phun, kg/kg, (Vgh = 0,4 kg/kg).</para>
+        <para id="id5830650">Lưu lượng không khí để làm lạnh và phân ly thành phẩm trong ống phân ly (kg/h):</para>
+        <para id="id5830657">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>op</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>3600</m:mtext>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>op</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>ρ</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mfrac>
+                        <m:msubsup>
+                          <m:mi fontstyle="italic">πD</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>op</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msubsup>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{V rSub { size 8{"op"} } ="3600"v rSub { size 8{"op"} } ρ rSub { size 8{0} }  {  {πD rSub { size 8{"op"} }  rSup { size 8{2} } }  over  {4} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5745057">trong đó: vop- tốc độ không khí trong ống phân ly, m/s (khi các tiểu phần có đường kính 0,5 mm, vop = 3 m/s);</para>
+        <para id="id5745085">Dop- Đường kính ống phân ly, m, (Dop= 0,15 m).</para>
+        <para id="id5841258">Cân bằng nhiệt của thiết bị. Nhiệt để đun nóng sản phẩm và làm bốc hơi (kJ):</para>
+        <para id="id5841271">Qbh = Wbhq</para>
+        <para id="id5841295">trong đó: Wbh - lượng ẩm bốc hơi trong máy sấy trong một giây, kg;</para>
+        <para id="id5841312">q - suất tiêu hao nhiệt đế sấy có tính đến tổn thất, kJ/kg (q = 3760 kJ/kg).</para>
+        <para id="id5830900">Tiêu hao nhiệt để đun nóng không khí lạnh nạp vào từ dưới ghi để phun cho huyền phù và nạp vào ống phân ly (kg/h):</para>
+        <para id="id5830910">Qkk = (Vkk + Vph + Vop ) Ckk (Tt To) </para>
+        <para id="id5743221">trong đó: Ckk- nhiệt dung của không khí ở nhiệt độ trung bình kJ/(kgK), </para>
+        <para id="id5743243">[Ckk = 1,01 kJ/(kg.K)]</para>
+        <para id="id5743258">Tt - nhiệt độ của không khí thải, K;</para>
+        <para id="id5743273">To - nhiệt độ không khí lạnh, K.</para>
+        <para id="id5743287">Suất tiêu hao nhiệt trong máy sấy (kW): Q = Qbh + Qkk</para>
+        <para id="id5742718">Tiêu hao tác nhân sấy (m3): 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>Q</m:mi><m:mfenced open="[" close="]"><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>kk</m:mtext></m:mrow></m:mstyle></m:msub><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow></m:mfenced></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V rSub { size 8{S} } = {  {Q}  over  { left [C rSub { size 8{"kk"} }  left (T rSub { size 8{s} }  - T rSub { size 8{t} }  right ) right ]} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5727327">Tính thuỷ lực của máy sấy. Bước của các lỗ (m):</para>
+        <para id="id5727338">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msqrt>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>0,</m:mn>
+                            <m:mtext>785</m:mtext>
+                            <m:msubsup>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>l</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>0,5</m:mn>
+                            <m:msub>
+                              <m:mi>f</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mtext>hd</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mtext>sin</m:mtext>
+                            <m:mtext>60</m:mtext>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:msqrt>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{S= sqrt { {  {0,"785"D rSub { size 8{l} }  rSup { size 8{2} } }  over  {0,5f rSub { size 8{"hd"} } "sin""60"} } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5834752">trong đó: Dl - đường kính của các lỗ trong ghi,m;</para>
+        <para id="id5836548">fhd - tiết diện hoạt động của ghi, %.</para>
+        <para id="id5836563">Số lượng lỗ được định hướng: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>f</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>hd</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>f</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n rSub { size 8{l} } = {  {f rSub { size 8{"hd"} } F rSub { size 8{g} } }  over  {f rSub { size 8{l} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5831268">trong đó : fl - diện tích lỗ,m2.</para>
+        <para id="id5831289">Tốc độ chuyển động của khí trong các lỗ ghi (m/s): 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>kk</m:mtext></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>3600</m:mtext><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>ρ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>20</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{l} } = {  {v rSub { size 8{"kk"} } }  over  {"3600"n rSub { size 8{l} } ρ rSub { size 8{"20"} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5725839">Hệ số sức cản thuỷ lực của ghi:</para>
+        <para id="id5725844">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>ξ</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>K</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>K</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mfenced open="[" close="]">
+                        <m:mrow>
+                          <m:mn>0,</m:mn>
+                          <m:mrow>
+                            <m:mtext>35</m:mtext>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msup>
+                              <m:mfenced open="" close="">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:msub>
+                                    <m:mi>f</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mtext>hd</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mfenced>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ξ rSub { size 8{g} } =K rSub { size 8{1} } K rSub { size 8{2} }  left [ 0,"35"+ left (1 - f rSub { size 8{"hd"} }  right ) rSup { size 8{2} }  right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5753803">trong đó: K1 - hệ số ảnh hưởng đến bề dày của ghi (khi bề dày của ghi g = 3mm,   k1 = 1,1); </para>
+        <para id="id4798256">K2 - hệ số ảnh hưởng tỷ lệ giữa bề dày ghi và đường kính lỗ (khi g/Dl  1,5,   k2 = 1,1).</para>
+        <para id="id4798314">Sức cản của ghi (Pa):</para>
+        <para id="id4798319">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi fontstyle="italic">ΔP</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>ξρ</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>20</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:msubsup>
+                            <m:mi>v</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>l</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ΔP rSub { size 8{g} } = {  { ital "ξρ" rSub { size 8{"20"} } v rSub { size 8{l} }  rSup { size 8{2} } }  over  {2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5752147">Sức cản thuỷ lực của tầng hạt (Pa): </para>
+        <para id="id5756320">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi fontstyle="italic">ΔP</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>t</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi fontstyle="italic">ρg</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ΔP rSub { size 8{t} } =H rSub { size 8{0} } ρg} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5756396">Tổng sức cản:</para>
+        <para id="id5756401">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi fontstyle="italic">ΔP</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>g</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi fontstyle="italic">ΔP</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>l</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P=ΔP rSub { size 8{g} } +ΔP rSub { size 8{l} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5832554">Hệ số sức cản thuỷ lực của bộ làm xoáy lắp trong ống phun của máy sấy o=8.</para>
+        <para id="id5832571">Giảm áp suất trong ống phun: </para>
+        <para id="id5832580">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi fontstyle="italic">ΔP</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>S</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>ξ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>ρ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>v</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ΔP rSub { size 8{S} } = {  {ξ rSub { size 8{o} } ρ rSub { size 8{o} } v rSub { size 8{o} } }  over  {2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5749912">trong đó: o - tỷ trọng của không khí ở nhiệt độ TS, kg/m3;</para>
+        <para id="id5749944">vo - tốc độ của không khí trong ống, m/s: </para>
+        <para id="id5751934">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>s</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mfenced open="[" close="]">
+                          <m:mrow>
+                            <m:mn>0,</m:mn>
+                            <m:mtext>785</m:mtext>
+                            <m:msub>
+                              <m:mi>ρ</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>o</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mfenced open="" close="">
+                              <m:mrow>
+                                <m:msubsup>
+                                  <m:mi>D</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>ov</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msubsup>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:msubsup>
+                                  <m:mi>D</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>or</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msubsup>
+                              </m:mrow>
+                            </m:mfenced>
+                            <m:mi>n</m:mi>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{o} } = {  {V rSub { size 8{s} } }  over  { left [ 0,"785"ρ rSub { size 8{o} }  left (D rSub { size 8{"ov"} }  rSup { size 8{2} }  - D rSub { size 8{"or"} }  rSup { size 8{2} }  right ) n right ]} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </section>
+    </section>
+    <section id="id-277809024806">
+      <title>THIẾT BỊ TẠO MÀNG BAO SIÊU MỎNG</title>
+      <para id="id5754808">Phương pháp tạo màng siêu mỏng nhằm để phủ các hạt chế phẩm enzim bằng một lớp các chất không sinh ion.</para>
+      <para id="id5754817">Quá trình tạo màng bao được tiến hành theo chỉ dẫn trên hình 14.10. Phun oxanol ở nhiệt độ 700C hay polyetylenglicol theo ống nung vào máy trộn 7. Đồng thời chế phẩm enzim từ phễu 1 và 2 nhờ bộ nạp liệu 4 và 5 vào máy trộn với liều lượng nhất định sau đó trộn đều với chất bổ sung và titan đioxyt (hay là chất khác để tăng cường tính chất của enzim). Hỗn hợp nhận được theo ống nung vào phần trên của tháp 10, tại đây chúng được phun ra nhờ đĩa ly tâm. Dưới tác động của lực căng bề mặt các hộp thuốc hình cầu được hình thành, khi rơi xuống chúng sẽ rắn lại. Không khí (với một lượng đến 80 m3 cho 1 kg hộp thuốc) cho vào phần dưới của tháp theo chiều ngược lại. Ở phần dưới của tháp được lắp lưới để tạo ra tầng sôi và làm lớn các hạt. Các hộp thuốc nhỏ được tháo ra qua cửa hông.</para>
+      <para id="id5839449"><figure id="id5839459"><media id="id7939848" alt=""><image src=".png" mime-type="image/png" height="308" width="464"/></media></figure>EnzimChất bổ sungChất màuHơiThoát hơiThoát hơiThoát không khíTháo sản phẩmKhông khí vào</para>
+      <para id="id5861741">Hình 14.10. Thiết bị tạo màng siêu mỏng để bao các chế phẩm enzim:</para>
+      <para id="id5861749">1- Phễu chứa enzim; 2- Phễu có bộ đảo trộn chất màu; 3- Thiết bị nấu chảy; 4- Bộ nạp liệu chất màu; 5- Bộ nạp liệu enzim; 6- Khoá hình nêm; 7- Thiết bị nấu; 8- Van điều chỉnh; 9- Bộ phun ly tâm; 10- Thiết bị tạo màng bao (phòng làm lạnh); 11- Ghi; 12- Quạt; 13- Xyclon; 14- Báo hiệu mức; 15- Cặp nhiệt độ</para>
+      <para id="id5861769">Để tạo màng bao siêu mỏng thường dùng thiết bị của hãng Sabia (Italia).</para>
+      <para id="id5861776">Thiết bị gồm các bộ định lượng tác động liên tục để định lượng các chế phẩm enzim dạng bột và các chất bổ sung, thiết bị nấu để làm nóng chảy rượu, bơm định lượng để bơm rượu nóng chảy, bộ định lượng thuốc màu, máy đồng hoá - máy trộn, tháp phun có bộ vòi phun và hệ làm sạch không khí, bơm pitton có áp suất cao, máy nén không khí, hệ làm lạnh không khí, máy phân loại, tự động bao gói và các phương tiện tự động và điều khiển quá trình.</para>
+      <para id="id5861803">Sơ đồ nguyên tắc tổ hợp máy của Hãng Sabis tạo màng siêu mỏng cho các chế phẩm enzim được trình bày trên hình 14.11. Khu sản xuất thành phần hỗn hợp bao gồm các máy định lượng tác động liên tục cho các cấu tử khô và lỏng, các cơ cấu điều chỉnh. Các cấu tử từ những bộ nạp liệu vào băng vít tải rồi vào máy trộn loại tác động liên tục, tại đây chúng được trộn đến trạng thái đồng nhất.</para>
+      <para id="id5861817">Trước khi nạp vào tháp phun, cho hỗn hợp qua các bộ lọc tự làm sạch rồi sau đó cho vào bơm loại pitton cao áp (đến 8 MPa). Áp suất nạp hỗn hợp tới các vòi phun (được lắp ở phần trên của tháp phun) được duy trì ở mức không đổi nhờ các bơm. Phụ thuộc vào các tính chất của sản phẩm phun (tỷ trọng, độ ẩm và kích thước hộp thuốc được quy định) hệ nạp không khí có thể cùng dòng, ngược dòng hay tổng hợp. Tuần hoàn không khí được tiến hành nhờ ba quạt. Hai cái làm việc liên tục: một dùng để đẩy không khí cho đun nóng, cái thứ hai lắp sau hệ xyclon để bảo đảm áp suất cần thiết hay tạo chân không. Quạt thứ ba bảo đảm nạp không khí lạnh vào tháp.</para>
+      <para id="id5861821"><figure id="id5748864"><media id="id6849089" alt=""><image src=".png" mime-type="image/png" height="289" width="473"/></media></figure>Hỗn hợp được đồng hoáKhông khí lạnhBao gói</para>
+      <para id="id5719833">Hình 14.11. Sơ đồ tổ hợp máy của Hãng Sabis để tạo màng bao siêu mỏng cho các chế phẩm enzim</para>
+      <para id="id5719844">1- Cơ cấu nâng; 2- Bếp để đun nóng không khí; 3- Quạt đẩy không khí nóng; 4- Máy sấy phun; 5- Các vòi phun; 6- Quạt đẩy không khí lạnh; 7- Băng tải; 8- Quạt đẩy bột vào tháp; 9- Hệ xyclon; 10- Quạt; 11- Quạt hút; 12- Xyclon;13- Thiết bị kiểm tra thành phần hạt</para>
+      <para id="id5719864">Khi tạo màng bao và sấy, quạt đẩy không khí nóng vào phần trên của tháp và nhờ bộ phân bổ không khí nó được hướng thẳng đứng từ trên xuống dưới, song song với trục của tháp. Ở phần nón của tháp có cơ cấu đặc biệt để tách hộp thuốc khỏi không khí. Không khí được tách ra khỏi tháp nhờ xyclon và quạt hút. Một loại quạt khác được lắp ở phần dưới của tháp nhằm hút không khí lạnh để tạo hạ áp ,làm lạnh hộp thuốc và tách các bột mịn ra khỏi chúng, rồi thu gốp vào hệ xyclon. Hệ nạp không khí trên được ứng dụng để thu nhận các hộp thuốc có tỷ trọng trung bình 0,08  0,15 g/l và hàm lượng ẩm 3  8 %.</para>
+      <para id="id5794590">Sơ đồ nạp không khí ngược chiều được sử dụng trong các trường hợp khi cần thu nhận các hộp thuốc có cùng kích thước nhưng có tỷ trọng lớn và trung bình- từ 0,15 đến 0,45 kg/l với độ ẩm 6  15%. Trong trường hợp này, việc nạp không khí nóng vào hộp được tiến hành ở phía dưới tháp.</para>
+      <para id="id5794619">Sơ đồ nạp không khí bằng phương pháp tổng hợp được ứng dụng để thu nhận các hộp thuốc có hàm lượng nước đến 20 % hoặc hơn trong trạng thái tinh thể. Khi đó người ta đưa muối vào vật liệu để giữ ẩm ở dạng tinh thể. Lượng không khí nóng nạp vào phần trên của tháp sẽ giảm đáng kể, còn nạp không khí lạnh vào hộp bố trí ở phía dưới sẽ tăng lên. Dòng hỗn hợp không khí lạnh và nóng được hướng vào hộp vòng ở giữa rồi vào hệ xyclon và được đưa ra ngoài. Ở sơ đồ nạp không khí bằng phương pháp tổng hợp, tháp phun được phân ra thành khoang trên ngắn để không khí nóng nạp cùng chiều với sản phẩm và khoang dài ở dưới để nạp không khí ngược chiều và để sấy hộp thuốc. Ở khoang trên xảy ra quá trình nở của các hạt sản phẩm và tạo hộp thuốc ở dạng hình cầu, tuy nhiên thời gian có mặt của các hạt ở vùng này không đủ để sấy hoàn toàn sản phẩm. Ẩm còn lại trong sản phẩm được kết tinh ở khoang dưới nhờ không khí lạnh. Ở phần dưới tháp xảy ra tách bột ở hộp thuốc, bột bị hút vào xyclon và lại đưa vào phần trên của tháp.</para>
+      <para id="id5794624">Hệ thống điều chỉnh và kiểm tra các thông số của quá trình được tự động hoá.</para>
+    </section>
+    <section id="id-452917800945">
+      <title>THIẾT BỊ TIẾN HÀNH CÁC CÔNG ĐOẠN CUỐI CÙNG</title>
+      <para id="id5794642">Các sản phẩm sấy khô được bọc trong các gói bằng giấy và bằng polietylen theo từng lô từ 0,3 đến 1,6 kg.</para>
+      <para id="id5749759">Toàn bộ các công đoạn cuối được tiến hành trên dây chuyền tự động B6-BPA Trên dây chuyền khảo sát khả năng biến đổi kích thước của hộp theo chiều cao từ 150 đến 300 mm với đường kính không đổi bằng 242 mm, và định lượng sản phẩm trong giới hạn 0,4  0,5 kg.</para>
+      <para id="id5749779">Dây chuyền được sử dụng để hoạt động trong phân xưởng chia gói ở nhiệt độ từ 18  300C và độ ẩm tương đối của không khí đến 60%.</para>
+      <para id="id5749801">Trên hình 14.12 giới thiệu sơ đồ dây chuyền tự động B6- BPA. </para>
+      <para id="id5749808">Dây chuyền bao gồm bộ định lượng sản phẩm tự động 1, cơ cấu cấp liệu màng mỏng 2, bộ tạo ống 3, máy hàn mối dọc của ống 4, có cơ cấu căng ống 5, máy hàn đáy và nắp gói 6, cơ cấu cắt túi 7, cầu chuyển để tải hộp rỗng 8, cơ cấu để đặt gói thành phẩm vào hộp 9, cơ cấu nén đôi các túi vào các hộp 10,11, máy tự động ghép nắp 12, bộ đảo hộp 13 và máy dán nhãn 14.</para>
+      <para id="id5749812">Nhờ cơ cấu cấp liệu màng mỏng mà băng polietylen có rulô chuyển đến bộ tạo ống rồi bao phủ lấy ống. Vì bề rộng của băng lớn hơn chu vi của ống 20 mm cho nên phần chập được tạo thành để hàn mối dọc của gói. Để làm căng màng theo ống, mở cơ cấu tháo dỡ rulô để đảm bảo màng không bị đứt. Sau đó tiến hành hàn các mối bằng mỏ cặp dọc, khi hàn mỏ cặp ép vào màng ống. Đồng thời gói bị ép lại bởi hai mỏ kẹp của cơ cấu hàn. Sau đó dùng dao trên của cơ cấu cắt để cắt túi dưới. Dùng phương pháp xung lượng nhiệt để hàn.</para>
+      <para id="id4581554">
+        <figure id="id4581565">
+          <media id="id11279734" alt=""><image src=".png" mime-type="image/png" height="381" width="493"/></media>
+        </figure>
+      </para>
+      <para id="id4581602">Hình 14.12. Sơ đồ của dây chuyền tự động định lượng phân chia bao gói</para>
+      <para id="id4581610">Nạp sản phẩm vào ống làm bằng màng polyetylen đã được hàn từ bộ định lượng 1. Sau khi kết thúc hàn mỏ cặp dọc nhả ra. Ống được hàn cùng sản phẩm hạ xuống dưới nhờ các băng tải kéo của cơ cấu hạ ống 5 xuống một khoảng bằng chiều dài của gói, sau đó hàn gói, cắt gói dưới, nạp sản phẩm cho gói tiếp theo. Gói đựng đầy sản phẩm rơi xuống hộp kim loại qua phễu nhận nằm trong băng tải xung của cơ cấu xếp.</para>
+      <para id="id5835859">Nạp các hộp kim loại rỗng tới băng tải xung được tiến hành bằng phương pháp gạt hộp qua cầu chuyển. </para>
+      <para id="id5835868">Từ băng tải xung của cơ cấu xếp hộp, các gói được chuyển đến băng tải kiểu tấm của máy ghép mí tự động để ghép đáy và chuyển đến máy dán nhãn qua máy lật hộp.</para>
+      <para id="id5835881">Hộp được đưa vào máy dán nhãn ở vị trí nằm ngang rồi dán vòng tròn và tải hộp tới máng nghiêng của máy dán nhãn. Sau đó hộp theo băng tải vào kho thành phẩm.</para>
+      <para id="id5835893">Đặc tính kỹ thuật của dây chuyền tự động định lượng phân chia bao gói:</para>
+      <para id="id5835899">Năng suất, gói/h: 480</para>
+      <para id="id5835916">Khối lượng một lần định lượng, kg: 0,4  0,5</para>
+      <para id="id5835936">Phương pháp định lượng: cân</para>
+      <para id="id5719976">Độ chính xác định lượng, %:  1 so với liều lượng định mức</para>
+      <para id="id5719993">Công suất thiết kế của động cơ, kW: 9,16</para>
+      <para id="id5720008">Kích thước cơ bản, mm: 682023703210</para>
+      <para id="id5720034">Khối lượng, kg: 4850.</para>
+    </section>
+  </content>
+</document>
