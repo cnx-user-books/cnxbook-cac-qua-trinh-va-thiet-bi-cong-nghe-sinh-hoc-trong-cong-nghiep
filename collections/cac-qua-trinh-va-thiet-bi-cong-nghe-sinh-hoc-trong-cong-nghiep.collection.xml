@@ -1,3 +1,33 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10752</md:content-id>  <md:title>Các quá trình và thiết bị công nghệ sinh học trong công nghiệp</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>7a7a4710-cea7-48b1-83f7-f924f6820855</md:uuid>
-<md:slug>cac-qua-trinh-va-thiet-bi-cong-nghe-sinh-hoc-trong-cong-nghiep</md:slug>
-</metadata>  <col:content>          <col:module document="m30119"/>                            <col:module document="m30065"/>                            <col:module document="m30578"/>                            <col:module document="m30386"/>                            <col:module document="m29921"/>                            <col:module document="m29890"/>                            <col:module document="m30737"/>                            <col:module document="m30675"/>                            <col:module document="m29500"/>                            <col:module document="m30575"/>                            <col:module document="m30111"/>                            <col:module document="m30007"/>                            <col:module document="m30001"/>                            <col:module document="m30466"/>                            <col:module document="m30728"/>                            <col:module document="m30720"/>                            <col:module document="m30726"/>                            <col:module document="m30739"/>                            <col:module document="m30155"/>                            <col:module document="m29775"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="PGS. TSKH. L&#xCA; V&#x102;N HOA&#x300;NG">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10752</md:content-id>
+    <md:title>C&#xE1;c qu&#xE1; tr&#xEC;nh v&#xE0; thi&#x1EBF;t b&#x1ECB; c&#xF4;ng ngh&#x1EC7; sinh h&#x1ECD;c trong c&#xF4;ng nghi&#x1EC7;p</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>7a7a4710-cea7-48b1-83f7-f924f6820855</md:uuid>
+    <md:slug>cac-qua-trinh-va-thiet-bi-cong-nghe-sinh-hoc-trong-cong-nghiep</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30119"/>
+    <col:module document="m30065"/>
+    <col:module document="m30578"/>
+    <col:module document="m30386"/>
+    <col:module document="m29921"/>
+    <col:module document="m29890"/>
+    <col:module document="m30737"/>
+    <col:module document="m30675"/>
+    <col:module document="m29500"/>
+    <col:module document="m30575"/>
+    <col:module document="m30111"/>
+    <col:module document="m30007"/>
+    <col:module document="m30001"/>
+    <col:module document="m30466"/>
+    <col:module document="m30728"/>
+    <col:module document="m30720"/>
+    <col:module document="m30726"/>
+    <col:module document="m30739"/>
+    <col:module document="m30155"/>
+    <col:module document="m29775"/>
+  </col:content>
+</col:collection>
